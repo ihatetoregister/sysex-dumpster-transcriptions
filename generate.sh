@@ -4,6 +4,8 @@ set -x
 #set -e
 set -o pipefail
 
+whisperPath=./whisper.cpp
+
 # Get urls for all episodes
 episodeUrls=$(curl -s -f -L 'https://www.sysexdumpster.com' | grep -Eo 'https?://\S+?.mp3')
 #episodeUrls="https://www.sysexdumpster.com/audio/Sysex-Dumpster-2023-03-03-Episode-41.mp3"
@@ -35,7 +37,7 @@ do
     ffmpeg -f mp3 -i $fileNameMp3 -ar 16000 -ac 1 -c:a pcm_s16le $fileNameWav
 
     # Transcribe
-    ./whisper.cpp/main -m ./whisper.cpp/models/ggml-base.en.bin -ovtt -f $fileNameWav
+    $whisperPath/main -m $whisperPath/models/ggml-base.en.bin -ovtt -f $fileNameWav
     mv $fileNameWavVtt $transFolder/$fileNameVtt
 
     # Cleanup
