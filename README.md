@@ -4,3 +4,12 @@ Transcriptions of [Sysex Dumpster](https://www.sysexdumpster.com/) podcast gener
 # Steps to reproduce
 * Fetch and build whisper.cpp
 * Run generate.sh
+
+# Tips
+Use `grep` to search for topics
+
+    $ grep -i mutable transcriptions/*
+
+Most common words can be generated with [frequent.sh](frequent.sh). This has also been prepared in [stats.txt](stats.txt). 
+
+    $ ./frequent.sh 10 transcriptions/*
