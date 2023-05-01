@@ -1,0 +1,5276 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.580
+ (upbeat music)
+
+00:00:02.580 --> 00:00:24.300
+ Yeah, episode 33.
+
+00:00:24.300 --> 00:00:25.140
+ Woo-woo.
+
+00:00:25.140 --> 00:00:27.080
+ And judging by the stats,
+
+00:00:27.080 --> 00:00:28.760
+ we have a lot of new listeners.
+
+00:00:28.760 --> 00:00:29.600
+ Mm.
+
+00:00:29.600 --> 00:00:32.960
+ Welcome and sorry.
+
+00:00:32.960 --> 00:00:33.800
+ Sorry.
+
+00:00:33.800 --> 00:00:35.960
+ Yeah, this is mostly apologies.
+
+00:00:35.960 --> 00:00:39.020
+ And somehow you all have fallen down
+
+00:00:39.020 --> 00:00:42.200
+ this dark dank rabbit hole with us.
+
+00:00:42.200 --> 00:00:43.400
+ They need to take a look in the mirror
+
+00:00:43.400 --> 00:00:45.000
+ and ask themselves where they went wrong.
+
+00:00:45.000 --> 00:00:47.440
+ Yeah, how did you end up here?
+
+00:00:47.440 --> 00:00:48.280
+ Right, right.
+
+00:00:48.280 --> 00:00:49.120
+ Because.
+
+00:00:49.120 --> 00:00:50.840
+ Right, in the dumpster.
+
+00:00:50.840 --> 00:00:51.680
+ Yeah.
+
+00:00:51.680 --> 00:00:52.760
+ Piping hot trash.
+
+00:00:52.760 --> 00:00:56.120
+ Oh, we do here's each shipping fees
+
+00:00:56.120 --> 00:00:57.680
+ from swapping out modules.
+
+00:00:57.680 --> 00:01:01.320
+ And just bitch about electron.
+
+00:01:01.320 --> 00:01:02.160
+ Yeah.
+
+00:01:02.160 --> 00:01:04.600
+ It's welcome.
+
+00:01:04.600 --> 00:01:07.840
+ Actually, I don't think we have anything
+
+00:01:07.840 --> 00:01:09.040
+ about electron this time.
+
+00:01:09.040 --> 00:01:09.880
+ So yeah, yeah, we do.
+
+00:01:09.880 --> 00:01:10.720
+ Do we?
+
+00:01:10.720 --> 00:01:11.560
+ Oh, we do.
+
+00:01:11.560 --> 00:01:13.360
+ Well, I thought you were gonna talk about the machine drum.
+
+00:01:13.360 --> 00:01:14.720
+ The machine drum for a more.
+
+00:01:14.720 --> 00:01:16.040
+ I have a chance to install it.
+
+00:01:16.040 --> 00:01:19.480
+ I'm still wrapping my head around the X dot 04
+
+00:01:19.480 --> 00:01:20.480
+ that we talked about last time.
+
+00:01:20.480 --> 00:01:23.280
+ I haven't even had a chance to install five.
+
+00:01:23.280 --> 00:01:26.200
+ I'm excited to, but that'll be another episode, I think.
+
+00:01:26.200 --> 00:01:27.040
+ Okay, sure.
+
+00:01:27.040 --> 00:01:28.360
+ You can go home electron.
+
+00:01:28.360 --> 00:01:30.800
+ You can fuck out of your electron.
+
+00:01:30.800 --> 00:01:31.720
+ Fuck out of the room.
+
+00:01:31.720 --> 00:01:33.680
+ Tired talking about you.
+
+00:01:33.680 --> 00:01:35.640
+ So without, without electron,
+
+00:01:35.640 --> 00:01:38.040
+ what could we possibly talk about?
+
+00:01:38.040 --> 00:01:39.800
+ Is there anything else?
+
+00:01:39.800 --> 00:01:41.040
+ That's not true.
+
+00:01:41.040 --> 00:01:42.720
+ We all, we have copious notes.
+
+00:01:42.720 --> 00:01:44.320
+ It's October.
+
+00:01:44.320 --> 00:01:46.480
+ Yeah, we have a, we have copious notes each of us.
+
+00:01:46.480 --> 00:01:47.480
+ It's October.
+
+00:01:47.480 --> 00:01:48.760
+ Mm hmm.
+
+00:01:48.760 --> 00:01:52.240
+ Besides, you know, that being spooky month.
+
+00:01:52.240 --> 00:01:53.080
+ Mm hmm.
+
+00:01:53.080 --> 00:01:56.320
+ And, you know, pumpkin spice to everything.
+
+00:01:57.320 --> 00:02:01.880
+ From your craft beer to your CBD infused cookies.
+
+00:02:01.880 --> 00:02:02.880
+ Mm hmm.
+
+00:02:02.880 --> 00:02:03.880
+ Yes.
+
+00:02:03.880 --> 00:02:08.040
+ You know, it's a month of anticipation and excitement.
+
+00:02:08.040 --> 00:02:08.800
+ Mm hmm.
+
+00:02:08.800 --> 00:02:11.040
+ If you're into gear and modulars day.
+
+00:02:11.040 --> 00:02:14.680
+ October follows up knob con.
+
+00:02:14.680 --> 00:02:15.480
+ That's true.
+
+00:02:15.480 --> 00:02:16.360
+ And super booth.
+
+00:02:16.360 --> 00:02:17.440
+ Mm hmm.
+
+00:02:17.440 --> 00:02:19.080
+ Exciting times day.
+
+00:02:19.080 --> 00:02:20.720
+ Were those both pumpkin spiced?
+
+00:02:20.720 --> 00:02:25.720
+ They were as artificially spicy and pumpkin-y as can be.
+
+00:02:26.720 --> 00:02:28.440
+ As far as pumpkin spice is concerned.
+
+00:02:28.440 --> 00:02:29.440
+ Mm hmm.
+
+00:02:29.440 --> 00:02:30.440
+ Like where are you?
+
+00:02:30.440 --> 00:02:34.400
+ Are you a fan of the pumpkin-spiced insert object?
+
+00:02:34.400 --> 00:02:35.240
+ No.
+
+00:02:35.240 --> 00:02:36.240
+ No.
+
+00:02:36.240 --> 00:02:37.240
+ Not at all.
+
+00:02:37.240 --> 00:02:39.440
+ I can drink one of them.
+
+00:02:39.440 --> 00:02:41.920
+ Like a 4121 they had a pumpkin spice.
+
+00:02:41.920 --> 00:02:43.200
+ They're like, no, this one's good.
+
+00:02:43.200 --> 00:02:44.320
+ I tried it and it was good.
+
+00:02:44.320 --> 00:02:45.600
+ I won't get it again.
+
+00:02:45.600 --> 00:02:47.920
+ I like the taste of pumpkin pie.
+
+00:02:47.920 --> 00:02:52.040
+ And in autumn, I will usually indulge
+
+00:02:52.040 --> 00:02:53.400
+ in a pumpkin pie or two.
+
+00:02:53.400 --> 00:02:54.240
+ Yeah.
+
+00:02:54.240 --> 00:02:55.080
+ Yeah.
+
+00:02:55.080 --> 00:02:56.960
+ That's where I get my pumpkin delight from.
+
+00:02:56.960 --> 00:03:00.000
+ I don't really like anything else, man.
+
+00:03:00.000 --> 00:03:00.840
+ I've tried.
+
+00:03:00.840 --> 00:03:02.360
+ I'm just like that.
+
+00:03:02.360 --> 00:03:03.200
+ Yeah.
+
+00:03:03.200 --> 00:03:04.360
+ I don't understand it.
+
+00:03:04.360 --> 00:03:05.360
+ I mean, don't get me wrong.
+
+00:03:05.360 --> 00:03:07.200
+ I love the fall.
+
+00:03:07.200 --> 00:03:08.760
+ I love Halloween.
+
+00:03:08.760 --> 00:03:11.040
+ Love October in particular.
+
+00:03:11.040 --> 00:03:13.240
+ But the pumpkin spice thing, I just, I don't know.
+
+00:03:13.240 --> 00:03:14.240
+ Never understood.
+
+00:03:14.240 --> 00:03:17.720
+ I like seeing all the normal people act a little bit
+
+00:03:17.720 --> 00:03:19.480
+ spooky and gothy for a month.
+
+00:03:19.480 --> 00:03:20.320
+ Yeah.
+
+00:03:20.320 --> 00:03:21.160
+ You know, that's cool.
+
+00:03:21.160 --> 00:03:22.000
+ You don't think they're posers.
+
+00:03:22.000 --> 00:03:24.240
+ Everyone's got a little bit of goth inside them somewhere.
+
+00:03:24.240 --> 00:03:26.000
+ It's nice to see them let it out.
+
+00:03:26.000 --> 00:03:27.000
+ Yeah.
+
+00:03:27.000 --> 00:03:29.160
+ It's acceptable for a month.
+
+00:03:29.160 --> 00:03:33.720
+ But pumpkin spice thing, I don't understand where that comes from.
+
+00:03:33.720 --> 00:03:35.800
+ I mean, it's a way to sell shit.
+
+00:03:35.800 --> 00:03:36.320
+ Yeah.
+
+00:03:36.320 --> 00:03:37.920
+ I mean, that's the cynical view of it.
+
+00:03:37.920 --> 00:03:40.000
+ And as someone basically, I may have mentioned this
+
+00:03:40.000 --> 00:03:42.800
+ in a previous episode, but like Halloween's really the only
+
+00:03:42.800 --> 00:03:44.600
+ holiday I celebrate.
+
+00:03:44.600 --> 00:03:45.680
+ Everything else is trash.
+
+00:03:45.680 --> 00:03:47.560
+ Like it's proper goth.
+
+00:03:47.560 --> 00:03:48.160
+ Yeah, yeah.
+
+00:03:48.160 --> 00:03:51.640
+ And to be clear, everyday is Halloween for me.
+
+00:03:51.640 --> 00:03:52.080
+ Exactly.
+
+00:03:52.080 --> 00:03:54.400
+ But more specifically--
+
+00:03:54.400 --> 00:03:55.400
+ Thank you.
+
+00:03:55.400 --> 00:03:57.800
+ Bump, bump, bump.
+
+00:03:57.800 --> 00:04:02.240
+ But more specifically, October, I feel, as if that whole month
+
+00:04:02.240 --> 00:04:04.720
+ really encapsulates everything that I love about it.
+
+00:04:04.720 --> 00:04:07.640
+ The problem I've been having, and you sort of touched on a little bit
+
+00:04:07.640 --> 00:04:12.160
+ there, is finding a good pumpkin beer.
+
+00:04:12.160 --> 00:04:13.520
+ Yeah, I'm off that.
+
+00:04:13.520 --> 00:04:17.280
+ There used to be pretty good ones that were disgustingly
+
+00:04:17.280 --> 00:04:20.200
+ filled with spice and sugar, and it just tasted like pumpkin
+
+00:04:20.200 --> 00:04:21.280
+ and beer.
+
+00:04:21.280 --> 00:04:24.040
+ And now everything is just--
+
+00:04:24.040 --> 00:04:26.440
+ like basically could come from Starbucks.
+
+00:04:26.440 --> 00:04:28.520
+ Yeah, I don't think I can go there again with the pumpkin
+
+00:04:28.520 --> 00:04:29.720
+ spice beer.
+
+00:04:29.720 --> 00:04:30.640
+ Yeah, I can't.
+
+00:04:30.640 --> 00:04:32.960
+ And I'm thinking actually, too, now that I think about it,
+
+00:04:32.960 --> 00:04:37.480
+ maybe pumpkin spice is the scariest thing about October,
+
+00:04:37.480 --> 00:04:39.080
+ because it's just wretched.
+
+00:04:39.080 --> 00:04:39.720
+ Yeah.
+
+00:04:39.720 --> 00:04:40.080
+ Yeah.
+
+00:04:40.080 --> 00:04:43.160
+ It's the thing that you find in that little piece of obsidian
+
+00:04:43.160 --> 00:04:44.560
+ that you think is your soul.
+
+00:04:44.560 --> 00:04:47.560
+ Like when it gets cold out, and you see a scary movie,
+
+00:04:47.560 --> 00:04:50.280
+ and you feel good about yourself again, but you are afraid.
+
+00:04:50.280 --> 00:04:51.440
+ Don't know why.
+
+00:04:51.440 --> 00:04:54.120
+ Take a sip of that pumpkin spice latte.
+
+00:04:54.120 --> 00:04:56.680
+ Curl up on the sofa.
+
+00:04:56.680 --> 00:04:57.400
+ Fucking die.
+
+00:04:57.400 --> 00:05:01.760
+ Jesus.
+
+00:05:01.760 --> 00:05:03.680
+ That just came out.
+
+00:05:03.680 --> 00:05:06.360
+ I heard the new Halloween movie is coming out soon,
+
+00:05:06.360 --> 00:05:10.520
+ and Michael Myers doesn't use a butcher knife anymore.
+
+00:05:10.520 --> 00:05:11.000
+ What?
+
+00:05:11.000 --> 00:05:11.640
+ No.
+
+00:05:11.640 --> 00:05:15.200
+ He uses pumpkin spice latte from Starbucks.
+
+00:05:15.200 --> 00:05:16.360
+ You have him for a second.
+
+00:05:16.360 --> 00:05:17.800
+ I can't believe he uses like--
+
+00:05:17.800 --> 00:05:19.160
+ he has safety scissors.
+
+00:05:19.160 --> 00:05:20.240
+ That was the best part of that.
+
+00:05:20.240 --> 00:05:22.680
+ Was watching you run like leaning in.
+
+00:05:22.680 --> 00:05:24.760
+ Wait, what the hell?
+
+00:05:24.760 --> 00:05:29.640
+ Just throws lukewarm latte at you from Starbucks.
+
+00:05:29.640 --> 00:05:30.800
+ Oh, god.
+
+00:05:30.800 --> 00:05:33.000
+ As you're walking down the street,
+
+00:05:33.000 --> 00:05:36.200
+ it's calling your name like a barista at Starbucks.
+
+00:05:36.200 --> 00:05:37.680
+ Your order is up.
+
+00:05:37.680 --> 00:05:40.600
+ Drave, drave, here's your drink.
+
+00:05:40.600 --> 00:05:43.280
+ The cup says drave on the side, even though you said dave.
+
+00:05:43.280 --> 00:05:44.040
+ Very clearly.
+
+00:05:44.040 --> 00:05:45.040
+ Good.
+
+00:05:45.040 --> 00:05:51.000
+ Yeah, October.
+
+00:05:51.000 --> 00:05:51.840
+ October.
+
+00:05:51.840 --> 00:05:53.160
+ Yeah, it's happening.
+
+00:05:53.160 --> 00:05:55.400
+ And my other complaint about October--
+
+00:05:55.400 --> 00:05:58.000
+ I mean, I got a lot of complaints about everything--
+
+00:05:58.000 --> 00:06:00.160
+ is it's so fucking warm.
+
+00:06:00.160 --> 00:06:01.080
+ Oh, yeah.
+
+00:06:01.080 --> 00:06:02.040
+ This is not my October.
+
+00:06:02.040 --> 00:06:04.000
+ Still very much summer weather right now.
+
+00:06:04.000 --> 00:06:05.040
+ The leaves haven't even dropped.
+
+00:06:05.040 --> 00:06:06.680
+ Now, like most of them haven't turned.
+
+00:06:06.680 --> 00:06:07.400
+ I was in Virginia.
+
+00:06:07.400 --> 00:06:11.160
+ Most of those shits were green or like poisoned, like not good.
+
+00:06:11.160 --> 00:06:12.360
+ And they were like, yeah, it's all fucked up,
+
+00:06:12.360 --> 00:06:13.440
+ because of weather.
+
+00:06:13.440 --> 00:06:15.400
+ I'm kind of happy about that, though.
+
+00:06:15.400 --> 00:06:19.560
+ Because we're going down to West Virginia in a few weeks.
+
+00:06:19.560 --> 00:06:23.560
+ And last, I think, two times we went on air.
+
+00:06:23.560 --> 00:06:26.040
+ We missed the leaves changing the wind storms,
+
+00:06:26.040 --> 00:06:29.160
+ just kind of blew them off before we could see them
+
+00:06:29.160 --> 00:06:29.840
+ to point the fall.
+
+00:06:29.840 --> 00:06:32.280
+ And this time, it seems like since we're changing slowly,
+
+00:06:32.280 --> 00:06:34.120
+ there might still be--
+
+00:06:34.120 --> 00:06:36.560
+ it might be a nice display for us.
+
+00:06:36.560 --> 00:06:40.440
+ You found the incredibly micro-thin silver lining
+
+00:06:40.440 --> 00:06:41.720
+ to global warming.
+
+00:06:41.720 --> 00:06:44.800
+ Is that it'll be convenient for a vacation
+
+00:06:44.800 --> 00:06:45.480
+ that we're going on.
+
+00:06:45.480 --> 00:06:46.280
+ A couple years back.
+
+00:06:46.280 --> 00:06:47.640
+ I think it was about four years back.
+
+00:06:47.640 --> 00:06:50.680
+ It was exceptionally warm, even like this.
+
+00:06:50.680 --> 00:06:54.840
+ And I went down to the mountains in November.
+
+00:06:54.840 --> 00:06:56.360
+ And the leaves were still on the trees,
+
+00:06:56.360 --> 00:06:58.920
+ and we're still colorful.
+
+00:06:58.920 --> 00:07:00.120
+ And it was awesome.
+
+00:07:00.120 --> 00:07:01.280
+ Yeah.
+
+00:07:01.280 --> 00:07:02.600
+ Because, yeah, I don't know.
+
+00:07:02.600 --> 00:07:03.880
+ I just like to see that.
+
+00:07:03.880 --> 00:07:06.200
+ It's my favorite time to go down there.
+
+00:07:06.200 --> 00:07:08.000
+ Oh, yeah, yeah, yeah, to learn to stand.
+
+00:07:08.000 --> 00:07:10.600
+ And it sucks to go down there and just see everything.
+
+00:07:10.600 --> 00:07:11.640
+ Just bear trees.
+
+00:07:11.640 --> 00:07:12.880
+ It's like, what?
+
+00:07:12.880 --> 00:07:13.760
+ See that?
+
+00:07:13.760 --> 00:07:15.040
+ I understand what you're saying.
+
+00:07:15.040 --> 00:07:16.600
+ And I do love the good--
+
+00:07:16.600 --> 00:07:19.720
+ the changing of the leaves and the colors and all that stuff.
+
+00:07:19.720 --> 00:07:21.960
+ I'm also a huge fan of just barren trees
+
+00:07:21.960 --> 00:07:23.320
+ against a gray background.
+
+00:07:23.320 --> 00:07:24.040
+ Oh, yeah.
+
+00:07:24.040 --> 00:07:25.720
+ That is my shit.
+
+00:07:25.720 --> 00:07:27.080
+ It's cold out in my go-out side,
+
+00:07:27.080 --> 00:07:31.280
+ and like I breathe in a big lung full of cold brisk air.
+
+00:07:31.280 --> 00:07:34.200
+ And I look out and there's just death for 50 miles
+
+00:07:34.200 --> 00:07:35.720
+ in every direction.
+
+00:07:35.720 --> 00:07:37.840
+ That is kind of my shit.
+
+00:07:37.840 --> 00:07:39.400
+ See, if all leaves change and dude,
+
+00:07:39.400 --> 00:07:43.040
+ I don't know, just trigger something in my brain.
+
+00:07:43.040 --> 00:07:45.280
+ Like puts me in a certain state of mind.
+
+00:07:45.280 --> 00:07:47.600
+ And I can only get into like once a year.
+
+00:07:47.600 --> 00:07:49.280
+ Yeah, agreed.
+
+00:07:49.280 --> 00:07:50.680
+ What do we talk about, modules and--
+
+00:07:50.680 --> 00:07:54.440
+ It's October, so now we get to look forward to all of the shit
+
+00:07:54.440 --> 00:07:57.640
+ that was announced, knob con, super booth.
+
+00:07:57.640 --> 00:07:59.440
+ It won't be out for months and months.
+
+00:07:59.440 --> 00:08:01.240
+ Yeah, do we get in 2025?
+
+00:08:01.240 --> 00:08:01.720
+ Yeah.
+
+00:08:01.720 --> 00:08:07.880
+ Coming out and end of fourth quarter, 2022.
+
+00:08:07.880 --> 00:08:11.040
+ But we get to see it now in October, Dave.
+
+00:08:11.040 --> 00:08:12.520
+ Yeah.
+
+00:08:12.520 --> 00:08:16.000
+ The lead time in the past had always been like a couple months.
+
+00:08:16.000 --> 00:08:19.080
+ But that was still always a little bit like, ah, I want it now.
+
+00:08:19.080 --> 00:08:22.600
+ And now it's like, fuck, I just hope this ever gets made.
+
+00:08:22.600 --> 00:08:23.320
+ Yeah.
+
+00:08:23.320 --> 00:08:25.400
+ It's the one thing Barandrick kind of fucked up
+
+00:08:25.400 --> 00:08:27.200
+ is like, does that shit even exist?
+
+00:08:27.200 --> 00:08:29.000
+ I think a lot of people just gave up
+
+00:08:29.000 --> 00:08:31.600
+ trying to see if that 909 or 808 is going to come out.
+
+00:08:31.600 --> 00:08:32.040
+ Yeah.
+
+00:08:32.040 --> 00:08:32.760
+ Maybe they are.
+
+00:08:32.760 --> 00:08:34.440
+ Who fucking knows?
+
+00:08:34.440 --> 00:08:35.680
+ The cheapest years ago.
+
+00:08:35.680 --> 00:08:36.880
+ Who even cares?
+
+00:08:36.880 --> 00:08:38.280
+ Like the hype train left the station
+
+00:08:38.280 --> 00:08:40.720
+ for years ago at this point.
+
+00:08:40.720 --> 00:08:43.440
+ I saw some people got some of the barbs, apparently.
+
+00:08:43.440 --> 00:08:44.920
+ But I'm like, what did they have?
+
+00:08:44.920 --> 00:08:47.360
+ Like, five of them, and that's it for another six months.
+
+00:08:47.360 --> 00:08:48.040
+ Yeah.
+
+00:08:48.040 --> 00:08:50.240
+ There are a couple of those out there.
+
+00:08:50.240 --> 00:08:52.080
+ I've seen some videos come out from people.
+
+00:08:52.080 --> 00:08:55.320
+ Like, ebotronics had two of the meanies, I guess.
+
+00:08:55.320 --> 00:08:56.080
+ Wow.
+
+00:08:56.080 --> 00:08:56.920
+ OK.
+
+00:08:56.920 --> 00:08:57.760
+ Good for him.
+
+00:08:57.760 --> 00:08:59.720
+ I wonder how many things we've had to go back to the drawing
+
+00:08:59.720 --> 00:09:02.160
+ board, because I mean, a friend of the podcast,
+
+00:09:02.160 --> 00:09:05.400
+ Russ from Ebiton was telling us that one of the designs he
+
+00:09:05.400 --> 00:09:08.760
+ was working on, the chip for it, discontinued.
+
+00:09:08.760 --> 00:09:09.280
+ Right.
+
+00:09:09.280 --> 00:09:10.640
+ That's unobtainium.
+
+00:09:10.640 --> 00:09:10.920
+ Yeah.
+
+00:09:10.920 --> 00:09:13.160
+ So now he has to go back and figure out
+
+00:09:13.160 --> 00:09:14.240
+ how to do this with a different chip.
+
+00:09:14.240 --> 00:09:17.720
+ And hopefully, that one doesn't magically become
+
+00:09:17.720 --> 00:09:18.320
+ unavailable.
+
+00:09:18.320 --> 00:09:20.280
+ Like, yeah, it's real.
+
+00:09:20.280 --> 00:09:20.520
+ Yeah.
+
+00:09:20.520 --> 00:09:22.280
+ So I mean, it's not just a simple shortage,
+
+00:09:22.280 --> 00:09:25.200
+ but now this is done.
+
+00:09:25.200 --> 00:09:28.240
+ That was one thing that was kind of puzzling to me.
+
+00:09:28.240 --> 00:09:30.720
+ It was how much new stuff was announced.
+
+00:09:30.720 --> 00:09:31.560
+ And I'm like, really?
+
+00:09:31.560 --> 00:09:32.560
+ Yeah.
+
+00:09:32.560 --> 00:09:33.060
+ All right.
+
+00:09:33.060 --> 00:09:34.680
+ Is there just going to be six of these in existence?
+
+00:09:34.680 --> 00:09:35.200
+ Right.
+
+00:09:35.200 --> 00:09:36.200
+ Yeah.
+
+00:09:36.200 --> 00:09:37.200
+ Yeah.
+
+00:09:37.200 --> 00:09:40.200
+ So it's hard to get hyped up when you know that everything
+
+00:09:40.200 --> 00:09:44.600
+ that we just saw announced is going to be months down the road.
+
+00:09:44.600 --> 00:09:46.720
+ And we have no idea what the availability is going to be
+
+00:09:46.720 --> 00:09:48.960
+ even when it is officially released.
+
+00:09:48.960 --> 00:09:49.480
+ Right.
+
+00:09:49.480 --> 00:09:50.480
+ Yeah.
+
+00:09:50.480 --> 00:09:51.480
+ I mean, it's like, I feel like everything's just going to be out
+
+00:09:51.480 --> 00:09:51.960
+ of stock.
+
+00:09:51.960 --> 00:09:53.600
+ And it's like, we have no idea how many are actually going
+
+00:09:53.600 --> 00:09:54.680
+ to be available.
+
+00:09:54.680 --> 00:09:56.560
+ Do you think this is the result of everyone being
+
+00:09:56.560 --> 00:09:58.360
+ in quarantine for the last 18 months?
+
+00:09:58.360 --> 00:10:02.200
+ And a lot of these designers sitting there going like, OK,
+
+00:10:02.200 --> 00:10:05.080
+ now's my chance to dive in and design these and finish
+
+00:10:05.080 --> 00:10:07.240
+ these and actually get them probably through prototype
+
+00:10:07.240 --> 00:10:09.280
+ and actually into quasi production.
+
+00:10:09.280 --> 00:10:12.920
+ So it does seem like there was a huge explosion of all
+
+00:10:12.920 --> 00:10:15.080
+ of these people going, here's all the stuff I've been working on.
+
+00:10:15.080 --> 00:10:17.320
+ And because it was like two, three years ago,
+
+00:10:17.320 --> 00:10:21.800
+ where we're discussing the lack of innovation that we were seeing.
+
+00:10:21.800 --> 00:10:22.360
+ True.
+
+00:10:22.360 --> 00:10:25.320
+ You know, like, and the lack of new stuff being announced
+
+00:10:25.320 --> 00:10:27.440
+ at like, knob con, man, super booth.
+
+00:10:27.440 --> 00:10:29.560
+ It just seemed like a lot of the same old, same old for a couple
+
+00:10:29.560 --> 00:10:29.920
+ of years.
+
+00:10:29.920 --> 00:10:32.520
+ And then also this year, it was just like, glam.
+
+00:10:32.520 --> 00:10:33.040
+ Yeah.
+
+00:10:33.040 --> 00:10:36.120
+ There's a lot of interesting shit being announced.
+
+00:10:36.120 --> 00:10:37.280
+ Yeah, there was that shortage.
+
+00:10:37.280 --> 00:10:39.400
+ But somehow we're all beeds up now, too.
+
+00:10:39.400 --> 00:10:39.600
+ Yeah.
+
+00:10:39.600 --> 00:10:40.680
+ Because that seemed a year later.
+
+00:10:40.680 --> 00:10:40.920
+ Yeah.
+
+00:10:40.920 --> 00:10:41.360
+ For a while.
+
+00:10:41.360 --> 00:10:43.720
+ Yeah, I guess that it's been a full year.
+
+00:10:43.720 --> 00:10:44.320
+ Wow.
+
+00:10:44.320 --> 00:10:45.840
+ I did the pre-order for it.
+
+00:10:45.840 --> 00:10:47.080
+ It was about a year ago.
+
+00:10:47.080 --> 00:10:47.560
+ Yeah.
+
+00:10:47.560 --> 00:10:48.720
+ Yeah.
+
+00:10:48.720 --> 00:10:48.880
+ Yeah.
+
+00:10:48.880 --> 00:10:50.120
+ I put that in my notes.
+
+00:10:50.120 --> 00:10:54.200
+ Like, it's taken us all a year to get beads finally.
+
+00:10:54.200 --> 00:10:55.200
+ Yeah.
+
+00:10:55.200 --> 00:10:59.440
+ Because I think I canceled my original pre-order in February
+
+00:10:59.440 --> 00:11:01.400
+ when I was like, this is just not happening.
+
+00:11:01.400 --> 00:11:05.640
+ And us getting them recently was actually, I think, just pure luck.
+
+00:11:05.640 --> 00:11:06.000
+ Right.
+
+00:11:06.000 --> 00:11:10.640
+ Because it was sold out two days later from where we got ours.
+
+00:11:10.640 --> 00:11:13.200
+ And everywhere else, it's still on pre-order once again.
+
+00:11:13.200 --> 00:11:18.240
+ So I think we just got lucky with our purchasing timing.
+
+00:11:18.240 --> 00:11:20.720
+ I was taking a look around at knob con.
+
+00:11:20.720 --> 00:11:23.480
+ And it didn't seem like there was as many announcements
+
+00:11:23.480 --> 00:11:25.720
+ or just really that many people at knob con.
+
+00:11:25.720 --> 00:11:29.600
+ So does anybody actually have any notes from that event?
+
+00:11:29.600 --> 00:11:30.160
+ A little bit.
+
+00:11:30.160 --> 00:11:30.680
+ Yeah.
+
+00:11:30.680 --> 00:11:31.400
+ Not many.
+
+00:11:31.400 --> 00:11:34.680
+ Just-- I mean, I guess it's worth mentioning.
+
+00:11:34.680 --> 00:11:38.840
+ We didn't go this year, which is probably like the first--
+
+00:11:38.840 --> 00:11:40.720
+ well, aside from last year, because it didn't exist.
+
+00:11:40.720 --> 00:11:43.400
+ It's the first one that they had that we didn't go to.
+
+00:11:43.400 --> 00:11:45.400
+ We didn't go to, yeah.
+
+00:11:45.400 --> 00:11:46.520
+ But people did go.
+
+00:11:46.520 --> 00:11:48.960
+ It did happen.
+
+00:11:48.960 --> 00:11:53.440
+ I saw pictures and videos coming out from it.
+
+00:11:53.440 --> 00:11:57.760
+ The most noteworthy thing I took away from it
+
+00:11:57.760 --> 00:12:01.800
+ was the industrial music electronics announcements.
+
+00:12:01.800 --> 00:12:03.440
+ That's all I really took away from it.
+
+00:12:03.440 --> 00:12:04.840
+ Aside from seeing other stuff, that's
+
+00:12:04.840 --> 00:12:06.400
+ what I remember from the videos.
+
+00:12:06.400 --> 00:12:08.480
+ That's what I wanted to see.
+
+00:12:08.480 --> 00:12:14.000
+ We finally caught a glimpse of Volkmeyer's Inferno.
+
+00:12:14.000 --> 00:12:17.160
+ Scott's take on a granular synth.
+
+00:12:17.160 --> 00:12:20.640
+ And also, Stilson Hammer Mark III prototype,
+
+00:12:20.640 --> 00:12:25.040
+ the sequencer, which I'm kind of excited about.
+
+00:12:25.040 --> 00:12:28.480
+ But not a whole lot of info.
+
+00:12:28.480 --> 00:12:32.120
+ Like, I don't even think we know when Volkmeyer's going
+
+00:12:32.120 --> 00:12:33.240
+ to be out.
+
+00:12:33.240 --> 00:12:34.560
+ No.
+
+00:12:34.560 --> 00:12:36.200
+ But it looks cool.
+
+00:12:36.200 --> 00:12:36.760
+ Yeah.
+
+00:12:36.760 --> 00:12:40.040
+ And I'm excited for more details.
+
+00:12:40.040 --> 00:12:40.360
+ The--
+
+00:12:40.360 --> 00:12:41.560
+ The Andre 2.
+
+00:12:41.560 --> 00:12:42.560
+ Yeah, and the--
+
+00:12:42.560 --> 00:12:43.960
+ Yeah, the single Andre.
+
+00:12:43.960 --> 00:12:45.000
+ Andre Jr. Yeah.
+
+00:12:45.000 --> 00:12:51.720
+ Yeah, it's-- yeah.
+
+00:12:51.720 --> 00:12:54.120
+ Like, I pull up the notes here from Nopon,
+
+00:12:54.120 --> 00:12:56.720
+ people who were there, who talked to Scott,
+
+00:12:56.720 --> 00:12:59.280
+ so you know, features are still unknown.
+
+00:12:59.280 --> 00:13:00.960
+ Which is surprising, at least for the Andre,
+
+00:13:00.960 --> 00:13:04.280
+ because the prototype was a couple years old now.
+
+00:13:04.280 --> 00:13:05.280
+ Yeah.
+
+00:13:05.280 --> 00:13:08.280
+ We have the parameters that we can see on the prototype,
+
+00:13:08.280 --> 00:13:09.440
+ but those might change.
+
+00:13:09.440 --> 00:13:15.840
+ We have controls for pitch, speed, start, and sample--
+
+00:13:15.840 --> 00:13:19.560
+ or start and for the sample, density, size, variation,
+
+00:13:19.560 --> 00:13:23.080
+ alt, random feedback.
+
+00:13:23.080 --> 00:13:27.440
+ So some of these sound a little familiar to the time Safari.
+
+00:13:27.440 --> 00:13:30.600
+ So I wonder if Volkmeyer's just kind of like a time
+
+00:13:30.600 --> 00:13:35.480
+ Safari on steroids, more granular-based--
+
+00:13:35.480 --> 00:13:37.840
+ because you could kind of get granular with the time Safari.
+
+00:13:37.840 --> 00:13:40.680
+ You could definitely do time stretching and shit like that.
+
+00:13:40.680 --> 00:13:43.240
+ If you modulated it properly, but you were only
+
+00:13:43.240 --> 00:13:45.720
+ messing with one grain.
+
+00:13:45.720 --> 00:13:49.680
+ Aside from that, I didn't see much from Nopon that really caught
+
+00:13:49.680 --> 00:13:50.280
+ my eye.
+
+00:13:50.280 --> 00:13:50.960
+ Same here.
+
+00:13:50.960 --> 00:13:53.560
+ It seemed like a lot of people waited for Superbooths to make.
+
+00:13:53.560 --> 00:13:54.060
+ Yeah.
+
+00:13:54.060 --> 00:13:54.560
+ Yeah.
+
+00:13:54.560 --> 00:13:54.920
+ And it's meant--
+
+00:13:54.920 --> 00:13:55.880
+ Definitely.
+
+00:13:55.880 --> 00:13:59.080
+ But before we dip into like Superbooth shit,
+
+00:13:59.080 --> 00:14:00.640
+ Nicky brought up beads.
+
+00:14:00.640 --> 00:14:02.800
+ Should we dip into beads?
+
+00:14:02.800 --> 00:14:05.400
+ Because now we all recently caught one
+
+00:14:05.400 --> 00:14:09.120
+ with Labor Day coupon codes.
+
+00:14:09.120 --> 00:14:10.280
+ Finally got one.
+
+00:14:10.280 --> 00:14:12.200
+ Do we really want to blow this up and let people know
+
+00:14:12.200 --> 00:14:14.040
+ that these coupon codes are still working?
+
+00:14:14.040 --> 00:14:15.680
+ I mean, I guess they're probably figuring out,
+
+00:14:15.680 --> 00:14:17.400
+ because they're not going to use much money, but like--
+
+00:14:17.400 --> 00:14:21.480
+ I feel like the retailer that we purchase from
+
+00:14:21.480 --> 00:14:23.720
+ doesn't give anything to us.
+
+00:14:23.720 --> 00:14:26.160
+ We don't have any coupon codes.
+
+00:14:26.160 --> 00:14:27.640
+ We don't have any kickbacks.
+
+00:14:27.640 --> 00:14:32.400
+ So I'm not really inclined to give them a shout out, personally.
+
+00:14:32.400 --> 00:14:34.560
+ I don't want them to fix it is what I'm thinking.
+
+00:14:34.560 --> 00:14:35.360
+ Oh, exactly.
+
+00:14:35.360 --> 00:14:37.320
+ Like, I don't want to blow up our spot.
+
+00:14:37.320 --> 00:14:39.400
+ Yeah, that's the thing.
+
+00:14:39.400 --> 00:14:41.240
+ There is sometimes where I swear I've bought something.
+
+00:14:41.240 --> 00:14:43.040
+ And I was like, I know that they look at that order.
+
+00:14:43.040 --> 00:14:44.200
+ And they're like, god damn it.
+
+00:14:44.200 --> 00:14:45.840
+ Because it's like a brand new thing
+
+00:14:45.840 --> 00:14:49.680
+ that you just got $60 off of or something like that.
+
+00:14:49.680 --> 00:14:51.440
+ I love coupon codes.
+
+00:14:51.440 --> 00:14:53.320
+ I love digging up coupon for everything
+
+00:14:53.320 --> 00:14:54.360
+ that I buy online now.
+
+00:14:54.360 --> 00:14:55.840
+ Yeah, same.
+
+00:14:55.840 --> 00:14:58.760
+ You find one that's like several months old
+
+00:14:58.760 --> 00:15:00.520
+ that they forgot to delete and still works.
+
+00:15:00.520 --> 00:15:03.280
+ It's like, yeah, it's such a rush.
+
+00:15:03.280 --> 00:15:04.920
+ I'm sticking it to the man.
+
+00:15:04.920 --> 00:15:07.720
+ Do you flip physical coupons for grocery stores or something?
+
+00:15:07.720 --> 00:15:10.080
+ No, but I feel like this is the equivalent.
+
+00:15:10.080 --> 00:15:11.800
+ Yeah, it's a game.
+
+00:15:11.800 --> 00:15:14.840
+ I'm a queue code clipper.
+
+00:15:14.840 --> 00:15:15.760
+ Wait, what were we talking about?
+
+00:15:15.760 --> 00:15:16.800
+ We'd cycle it out.
+
+00:15:16.800 --> 00:15:18.120
+ There's some weird shit there.
+
+00:15:18.120 --> 00:15:19.360
+ But I forget where we came from.
+
+00:15:19.360 --> 00:15:20.120
+ Coupon codes.
+
+00:15:20.120 --> 00:15:21.120
+ Yeah, coupon codes and beads.
+
+00:15:21.120 --> 00:15:22.120
+ Thank you.
+
+00:15:22.120 --> 00:15:23.120
+ Coupon codes and beads.
+
+00:15:23.120 --> 00:15:24.120
+ So not only did we all get beads,
+
+00:15:24.120 --> 00:15:25.160
+ we got out of discount.
+
+00:15:25.160 --> 00:15:26.160
+ We did.
+
+00:15:26.160 --> 00:15:26.600
+ Yeah.
+
+00:15:26.600 --> 00:15:28.360
+ Labor Day coupons.
+
+00:15:28.360 --> 00:15:30.600
+ It's a delicious module, I'll say.
+
+00:15:30.600 --> 00:15:34.400
+ As somebody who had a couple clouds iterations
+
+00:15:34.400 --> 00:15:36.560
+ and ended up banding them all,
+
+00:15:36.560 --> 00:15:38.480
+ I really liked the interface a lot more.
+
+00:15:38.480 --> 00:15:40.320
+ It makes a lot more sense to me.
+
+00:15:40.320 --> 00:15:43.240
+ I like the seed and the clocked input
+
+00:15:43.240 --> 00:15:46.240
+ and the delay mode to always stick out to me.
+
+00:15:46.240 --> 00:15:50.040
+ And I'm getting a lot more from it than I was.
+
+00:15:50.040 --> 00:15:51.640
+ Clouds for a while.
+
+00:15:51.640 --> 00:15:53.520
+ It seems like YouTube had more luck
+
+00:15:53.520 --> 00:15:57.320
+ or at least more time with monsoon and clouds
+
+00:15:57.320 --> 00:15:58.840
+ than I have in more success.
+
+00:15:58.840 --> 00:16:01.640
+ Yeah, I skipped clouds entirely at first.
+
+00:16:01.640 --> 00:16:03.480
+ Not out of any sort of animosity or anything.
+
+00:16:03.480 --> 00:16:04.560
+ Look at all some ways.
+
+00:16:04.560 --> 00:16:05.400
+ I just didn't have a space.
+
+00:16:05.400 --> 00:16:06.320
+ There was a million reasons.
+
+00:16:06.320 --> 00:16:06.680
+ And then--
+
+00:16:06.680 --> 00:16:09.280
+ I remember telling you you had to get a monsoon at one point.
+
+00:16:09.280 --> 00:16:09.760
+ Exactly.
+
+00:16:09.760 --> 00:16:12.120
+ And so then I jumped on monsoon.
+
+00:16:12.120 --> 00:16:15.480
+ And it's not left my case since.
+
+00:16:15.480 --> 00:16:17.040
+ It has a million uses.
+
+00:16:17.040 --> 00:16:20.560
+ And beads, because it doesn't have the sort of parasite
+
+00:16:20.560 --> 00:16:24.840
+ alternate modes, isn't necessarily as versatile as monsoon
+
+00:16:24.840 --> 00:16:26.560
+ for these different things you can do.
+
+00:16:26.560 --> 00:16:30.120
+ But what it does, I think it nails
+
+00:16:30.120 --> 00:16:31.800
+ and is getting a lot more out of it
+
+00:16:31.800 --> 00:16:37.560
+ than the base firmware version or the base functionality
+
+00:16:37.560 --> 00:16:39.640
+ that monsoon had.
+
+00:16:39.640 --> 00:16:42.200
+ I think at one point I even made a bold declaration
+
+00:16:42.200 --> 00:16:44.640
+ that I'm going to get rid of my monsoon when I get beads.
+
+00:16:44.640 --> 00:16:46.800
+ And now that is definitely not true.
+
+00:16:46.800 --> 00:16:48.320
+ I'm keeping the place for both.
+
+00:16:48.320 --> 00:16:49.600
+ New York, you know?
+
+00:16:49.600 --> 00:16:50.120
+ Yeah, I remember.
+
+00:16:50.120 --> 00:16:52.640
+ I think it's part of our tradition of bold declarations
+
+00:16:52.640 --> 00:16:54.120
+ that we later take back.
+
+00:16:54.120 --> 00:16:55.000
+ This was mine.
+
+00:16:55.000 --> 00:16:58.440
+ I'd like the clarity of it a lot compared to clouds,
+
+00:16:58.440 --> 00:17:01.640
+ which was I felt I would get smudgy things out of clouds
+
+00:17:01.640 --> 00:17:06.360
+ that didn't play to what I was trying to do maybe.
+
+00:17:06.360 --> 00:17:08.000
+ So yeah, it's been a nice go-to.
+
+00:17:08.000 --> 00:17:13.000
+ I need to spice something up a little non-typical effects way.
+
+00:17:13.000 --> 00:17:16.000
+ And I really didn't realize just how much I was going to enjoy
+
+00:17:16.000 --> 00:17:18.000
+ those sort of random attenuator.
+
+00:17:18.000 --> 00:17:21.000
+ I almost don't know if I like the randomization.
+
+00:17:21.000 --> 00:17:25.240
+ Really a ten-year-furgers as much after having it for a little.
+
+00:17:25.240 --> 00:17:28.360
+ Because it's hard to like kind of turn it off cleanly.
+
+00:17:28.360 --> 00:17:31.080
+ And I don't want its presence a lot.
+
+00:17:31.080 --> 00:17:33.000
+ I was going to touch on that as well.
+
+00:17:33.000 --> 00:17:35.720
+ I remember a few episodes back when we kind of did an overview
+
+00:17:35.720 --> 00:17:37.920
+ when beads was announced.
+
+00:17:37.920 --> 00:17:41.920
+ I think I called the Tenureandomizer's Brilliant.
+
+00:17:41.920 --> 00:17:42.920
+ Yeah.
+
+00:17:42.920 --> 00:17:45.920
+ And now that I have the module and I've spent some time with it,
+
+00:17:45.920 --> 00:17:48.920
+ that's too much praise.
+
+00:17:48.920 --> 00:17:50.920
+ I think it's a good concept.
+
+00:17:50.920 --> 00:17:53.920
+ Would you like it better if there was an easier way to just turn it off
+
+00:17:53.920 --> 00:17:54.920
+ and it just begun?
+
+00:17:54.920 --> 00:17:56.920
+ First off, I think those knobs should have a center,
+
+00:17:56.920 --> 00:18:00.920
+ a detent, whatever, just so that, yeah, it would lock in place
+
+00:18:00.920 --> 00:18:02.920
+ when you're at the 12 o'clock mark.
+
+00:18:02.920 --> 00:18:05.920
+ And you know that it's not applying any random series.
+
+00:18:05.920 --> 00:18:07.920
+ So it does seem to be some give there.
+
+00:18:07.920 --> 00:18:11.920
+ There's a bit of a blind spot before it takes effect,
+
+00:18:11.920 --> 00:18:15.920
+ but still it would be nice to have a very, you know,
+
+00:18:15.920 --> 00:18:17.920
+ a spot with no doubt.
+
+00:18:17.920 --> 00:18:18.920
+ Yeah.
+
+00:18:18.920 --> 00:18:23.920
+ I have some other minor complaints as well that I could do.
+
+00:18:23.920 --> 00:18:24.920
+ Yeah.
+
+00:18:24.920 --> 00:18:25.920
+ See, I don't know.
+
+00:18:25.920 --> 00:18:31.920
+ First off, this is announced as like a mutable instrument's final module.
+
+00:18:31.920 --> 00:18:32.920
+ You know what I mean?
+
+00:18:32.920 --> 00:18:35.920
+ I think it was probably the most hyped up sequel.
+
+00:18:35.920 --> 00:18:40.920
+ And in that regard, I feel like it kind of falls a little flat.
+
+00:18:40.920 --> 00:18:44.920
+ I feel like as like a grand finale, there needs to be more.
+
+00:18:44.920 --> 00:18:45.920
+ You know what I mean?
+
+00:18:45.920 --> 00:18:49.920
+ Like you were saying, I've owned a couple of different versions of clouds
+
+00:18:49.920 --> 00:18:51.920
+ and a couple of different monsoons.
+
+00:18:51.920 --> 00:18:54.920
+ At one point, I had three in my rack at a time.
+
+00:18:54.920 --> 00:19:00.920
+ The original clouds and all of its variations rather be monsoons
+
+00:19:00.920 --> 00:19:02.920
+ or typhoons or whatever the fuck.
+
+00:19:02.920 --> 00:19:06.920
+ And whatever firmware, it feels like it's always been a Swiss Army knife for me.
+
+00:19:06.920 --> 00:19:07.920
+ Yeah.
+
+00:19:07.920 --> 00:19:08.920
+ For processing.
+
+00:19:08.920 --> 00:19:09.920
+ Right.
+
+00:19:09.920 --> 00:19:10.920
+ This does not feel like a Swiss Army knife.
+
+00:19:10.920 --> 00:19:13.920
+ This feels a lot more focused, which I guess is good in some ways.
+
+00:19:13.920 --> 00:19:14.920
+ Hmm.
+
+00:19:14.920 --> 00:19:19.920
+ Now, did you feel like the original clouds that just had the base firmware?
+
+00:19:19.920 --> 00:19:22.920
+ Did you have, did you still have that idea that it was a Swiss Army knife?
+
+00:19:22.920 --> 00:19:23.920
+ That's cool.
+
+00:19:23.920 --> 00:19:25.920
+ Or did that change whenever you added parasites to it?
+
+00:19:25.920 --> 00:19:27.920
+ Parasites just expands upon it.
+
+00:19:27.920 --> 00:19:29.920
+ You know, it takes what's there and takes it to like the next level.
+
+00:19:29.920 --> 00:19:34.920
+ A little bit in some regards, but it's still inherently clouds.
+
+00:19:34.920 --> 00:19:35.920
+ You know what I mean?
+
+00:19:35.920 --> 00:19:36.920
+ Like I enjoyed clouds.
+
+00:19:36.920 --> 00:19:39.920
+ The factory model, I enjoyed clouds with parasite.
+
+00:19:39.920 --> 00:19:42.920
+ In fact, at one point, I had one with both.
+
+00:19:42.920 --> 00:19:45.920
+ I had one that was running factory firmware and one that was running parasite firmware.
+
+00:19:45.920 --> 00:19:46.920
+ Right.
+
+00:19:46.920 --> 00:19:52.920
+ Um, beads kind of feels like they learned from the parasite firmware.
+
+00:19:52.920 --> 00:19:54.920
+ And I was like, okay, yeah, let's add this.
+
+00:19:54.920 --> 00:19:56.920
+ For example, the envelope grains.
+
+00:19:56.920 --> 00:19:57.920
+ Yeah.
+
+00:19:57.920 --> 00:19:58.920
+ Yeah.
+
+00:19:58.920 --> 00:20:05.920
+ So it's not a major improvement in my opinion, you know, for something that's considered a
+
+00:20:05.920 --> 00:20:06.920
+ sequel.
+
+00:20:06.920 --> 00:20:16.920
+ Um, now could you look at maybe instead of the, instead of looking at with that sort of grand
+
+00:20:16.920 --> 00:20:19.920
+ view, more of this is like the game of the year edition.
+
+00:20:19.920 --> 00:20:24.920
+ Basically, it's more of a refinement of all of these things that came up to this.
+
+00:20:24.920 --> 00:20:29.920
+ This is the culmination of basically every bug fix and every new feature that was added
+
+00:20:29.920 --> 00:20:34.920
+ and every conversation that they had about like, you know, what do people like and what
+
+00:20:34.920 --> 00:20:35.920
+ people are not like?
+
+00:20:35.920 --> 00:20:38.920
+ I would feel that way if it didn't take away from things.
+
+00:20:38.920 --> 00:20:45.420
+ Like even the factory version of clouds, I feel like had some things that were important
+
+00:20:45.420 --> 00:20:47.920
+ that beads lacks such as like, like what?
+
+00:20:47.920 --> 00:20:50.920
+ First thing off the top of my head is the grains.
+
+00:20:50.920 --> 00:20:52.920
+ Like you were saying how you could get smudgy with it.
+
+00:20:52.920 --> 00:20:53.920
+ Yeah.
+
+00:20:53.920 --> 00:21:02.920
+ So we're, we're particular envelope shapes that were very smudgy, very, um, diffused that
+
+00:21:02.920 --> 00:21:03.920
+ I liked.
+
+00:21:03.920 --> 00:21:08.920
+ I could use that as almost like a pseudo reverb sometimes on certain source material.
+
+00:21:08.920 --> 00:21:11.680
+ That option is not there in beads at all.
+
+00:21:11.680 --> 00:21:13.840
+ Like it's very sharp.
+
+00:21:13.840 --> 00:21:19.920
+ Even if you pick like the triangle shape on beads, it's still very, um, what's the word?
+
+00:21:19.920 --> 00:21:22.160
+ I don't want to say sharp, but very clear.
+
+00:21:22.160 --> 00:21:23.160
+ I knew it.
+
+00:21:23.160 --> 00:21:24.920
+ You know, I mean, it's like very defined.
+
+00:21:24.920 --> 00:21:25.920
+ It's very defined.
+
+00:21:25.920 --> 00:21:31.560
+ There is nothing in there that will achieve that diffused shape the clouds have that I
+
+00:21:31.560 --> 00:21:36.960
+ liked a lot, you know, um, all the shapes on beads kind of feel a little redundant to
+
+00:21:36.960 --> 00:21:37.960
+ me.
+
+00:21:37.960 --> 00:21:39.600
+ Like there's not a lot of variance between them.
+
+00:21:39.600 --> 00:21:42.680
+ Like it just goes from sharp to not quite as sharp, you know what I mean?
+
+00:21:42.680 --> 00:21:48.480
+ Like there's a little bit of attack there in the triangle one, but not nothing crazy
+
+00:21:48.480 --> 00:21:53.720
+ to me that like allows for more unique shaping of the grains.
+
+00:21:53.720 --> 00:21:58.240
+ I was like, I've liked the shape feature so far because I've been seething that and getting
+
+00:21:58.240 --> 00:22:01.600
+ like weird rhythmic shit and doing that.
+
+00:22:01.600 --> 00:22:05.080
+ But I completely know what you mean where like there was a more diffused field of the
+
+00:22:05.080 --> 00:22:10.560
+ grains and clouds, whether it was because of eight bit or 16 bit, probably not, but
+
+00:22:10.560 --> 00:22:13.880
+ maybe something like that felt like that with beads.
+
+00:22:13.880 --> 00:22:20.600
+ They feel more glassy or like clear and like the alt modes too is a big, big issue for
+
+00:22:20.600 --> 00:22:21.600
+ me.
+
+00:22:21.600 --> 00:22:26.200
+ I loved all the different modes in clouds and the fact that this doesn't have any.
+
+00:22:26.200 --> 00:22:30.880
+ I mean, you can get seamlessly in and out of delay mode, which is cool.
+
+00:22:30.880 --> 00:22:31.880
+ That is nice.
+
+00:22:31.880 --> 00:22:32.880
+ Yeah.
+
+00:22:32.880 --> 00:22:37.280
+ It's real nice, but it's different than the delay mode was in parasite or the factory
+
+00:22:37.280 --> 00:22:43.520
+ firmware and it's a little weird that you can't get into the original delay mode by any means.
+
+00:22:43.520 --> 00:22:51.200
+ And I think it's strange that they removed the other two modes as well.
+
+00:22:51.200 --> 00:22:53.720
+ Specifically the spectral FFT mode.
+
+00:22:53.720 --> 00:22:56.240
+ Yeah, absolutely loved that mode.
+
+00:22:56.240 --> 00:23:03.200
+ And I was really looking forward to see like how these other modes would evolve for beads.
+
+00:23:03.200 --> 00:23:04.960
+ And they don't exist at all.
+
+00:23:04.960 --> 00:23:06.720
+ And I think that's like a huge disappointment.
+
+00:23:06.720 --> 00:23:14.200
+ I feel like beads is just a quarter of the clouds that I know, you know what I mean?
+
+00:23:14.200 --> 00:23:17.720
+ And I was hoping to see evolve.
+
+00:23:17.720 --> 00:23:18.720
+ So I don't know.
+
+00:23:18.720 --> 00:23:23.520
+ I feel like the default granular mode, despite the lack of the diffuse mode is nice and a
+
+00:23:23.520 --> 00:23:24.520
+ good improvement.
+
+00:23:24.520 --> 00:23:29.720
+ But the fact that you can't get into these other modes is like a huge disappointment for
+
+00:23:29.720 --> 00:23:30.720
+ me personally.
+
+00:23:30.720 --> 00:23:31.880
+ Yeah, that's fair.
+
+00:23:31.880 --> 00:23:37.920
+ I do like the little color coded LED to show the audio quality selection modes.
+
+00:23:37.920 --> 00:23:40.720
+ That's nice touch.
+
+00:23:40.720 --> 00:23:44.440
+ What exactly those modes do, like even after reading the manual, I'm still not entirely
+
+00:23:44.440 --> 00:23:45.440
+ clear on.
+
+00:23:45.440 --> 00:23:48.160
+ Like I don't hear major differences between them.
+
+00:23:48.160 --> 00:23:49.160
+ It's real subtle.
+
+00:23:49.160 --> 00:23:50.160
+ Yeah, it can be.
+
+00:23:50.160 --> 00:23:55.160
+ Like the scorched cassette mode, I had high hopes for with that.
+
+00:23:55.160 --> 00:23:57.160
+ I don't hear like much differences with that.
+
+00:23:57.160 --> 00:24:02.840
+ I think I did notice some differences with how the attendee randomizers work in that
+
+00:24:02.840 --> 00:24:07.520
+ mode, which isn't explaining the manual anywhere.
+
+00:24:07.520 --> 00:24:10.920
+ If that is the case, or maybe that's just how my ears was detecting it, but it seemed
+
+00:24:10.920 --> 00:24:17.040
+ to like change the behavior of the internal LFOs a bit.
+
+00:24:17.040 --> 00:24:22.400
+ And that's an issue for me too, like the lack of explanation between the new stuff,
+
+00:24:22.400 --> 00:24:23.400
+ you know?
+
+00:24:23.400 --> 00:24:25.160
+ Do you think the manual was not?
+
+00:24:25.160 --> 00:24:27.880
+ It's not as robust as I would like it to be.
+
+00:24:27.880 --> 00:24:28.880
+ That's for sure.
+
+00:24:28.880 --> 00:24:33.480
+ I think things need further explanation to really wrap your head around it.
+
+00:24:33.480 --> 00:24:35.560
+ I agree with the modes comment.
+
+00:24:35.560 --> 00:24:41.840
+ I think what she wanted to do obviously was like focus this down into some core of it.
+
+00:24:41.840 --> 00:24:46.200
+ But I would have, like most things would have preferred an expansion or a bigger module
+
+00:24:46.200 --> 00:24:51.000
+ in general that had like spectral stuff surprised me that it wasn't integrated in there.
+
+00:24:51.000 --> 00:24:56.040
+ Because it is a big, like you said, it's a big part of the clouds being able to like
+
+00:24:56.040 --> 00:24:57.240
+ get into that mode.
+
+00:24:57.240 --> 00:25:03.600
+ I think there was too much focus on interface and not enough focus on functionality.
+
+00:25:03.600 --> 00:25:08.160
+ And you can see that through the history of the, you know, that she published, like how
+
+00:25:08.160 --> 00:25:13.520
+ the module went through different iterations before it finally became beads that we know.
+
+00:25:13.520 --> 00:25:17.040
+ And it seemed like a lot of that was just focusing on the interface and getting it down
+
+00:25:17.040 --> 00:25:20.160
+ to a nice panel layout and everything that makes sense.
+
+00:25:20.160 --> 00:25:21.160
+ And that's cool.
+
+00:25:21.160 --> 00:25:23.440
+ I do like the interface.
+
+00:25:23.440 --> 00:25:24.880
+ I think it's nice.
+
+00:25:24.880 --> 00:25:29.800
+ But I also would have been totally okay with like a slightly bigger module with a few extra
+
+00:25:29.800 --> 00:25:35.320
+ features on there, maybe a color coded button that select alternative modes, things like
+
+00:25:35.320 --> 00:25:37.280
+ that, you know what I mean?
+
+00:25:37.280 --> 00:25:42.600
+ And dedicated CV for everything like you can find on a monsoon.
+
+00:25:42.600 --> 00:25:44.080
+ Yeah.
+
+00:25:44.080 --> 00:25:51.440
+ I think the little, you know, the option to select one CV input to those three parameters.
+
+00:25:51.440 --> 00:25:52.440
+ Yeah.
+
+00:25:52.440 --> 00:25:53.520
+ That's actually, that was good.
+
+00:25:53.520 --> 00:25:54.680
+ That is the one that I have.
+
+00:25:54.680 --> 00:25:58.360
+ And that's my, that was the one complaint that I was going to bring up is I'd like the idea
+
+00:25:58.360 --> 00:26:01.760
+ that you can then pick between a three in the combination.
+
+00:26:01.760 --> 00:26:05.920
+ So you're not just limited to sending it to one, which I think is like a nice shortcut
+
+00:26:05.920 --> 00:26:06.920
+ around that.
+
+00:26:06.920 --> 00:26:12.280
+ Very rarely do I want to have the same CV going to those three destinations like that.
+
+00:26:12.280 --> 00:26:13.280
+ Yeah.
+
+00:26:13.280 --> 00:26:17.560
+ So having dedicated ones for each of those, if I had that choice or even like a Silicon
+
+00:26:17.560 --> 00:26:19.560
+ expansion, I would have got that right away.
+
+00:26:19.560 --> 00:26:24.440
+ Whatever the reason was to keep it to just one, being able to have selections and then
+
+00:26:24.440 --> 00:26:28.720
+ or combinations of them seem like a pretty decent workaround.
+
+00:26:28.720 --> 00:26:30.480
+ It's just not very useful for me.
+
+00:26:30.480 --> 00:26:31.480
+ Yeah.
+
+00:26:31.480 --> 00:26:36.240
+ And it's weird because that is something that you can get on a typhoon.
+
+00:26:36.240 --> 00:26:37.240
+ You know what I mean?
+
+00:26:37.240 --> 00:26:41.640
+ Like, I'm not saying she should have copied typhoons.
+
+00:26:41.640 --> 00:26:42.640
+ You know what I mean?
+
+00:26:42.640 --> 00:26:47.160
+ But like that was considered like the evolution of clouds.
+
+00:26:47.160 --> 00:26:51.680
+ To limit it to just one CV input that yeah, you can bounce around different things.
+
+00:26:51.680 --> 00:26:53.680
+ It's like why?
+
+00:26:53.680 --> 00:26:58.200
+ Just make it another couple HP bigger and then you can have dedicated input jacks for
+
+00:26:58.200 --> 00:27:01.280
+ all those parameters instead of having to choose.
+
+00:27:01.280 --> 00:27:04.880
+ Which is funny because it's again a situation where I think we all want like somewhat of
+
+00:27:04.880 --> 00:27:07.920
+ make a different cloned version of it that has more expansion.
+
+00:27:07.920 --> 00:27:14.280
+ I, you know, that was like the final conclusion I came to.
+
+00:27:14.280 --> 00:27:15.480
+ Like I enjoy beads.
+
+00:27:15.480 --> 00:27:23.240
+ It has its place in my rack right now to accompany my typhoons and clouds modules but not to
+
+00:27:23.240 --> 00:27:25.320
+ replace them.
+
+00:27:25.320 --> 00:27:31.160
+ And it's probably going to go the minute someone comes out with a third party version
+
+00:27:31.160 --> 00:27:32.160
+ of beads.
+
+00:27:32.160 --> 00:27:33.160
+ You know what I mean?
+
+00:27:33.160 --> 00:27:36.840
+ That offers and you know more interesting things or alternate modes.
+
+00:27:36.840 --> 00:27:41.680
+ There's still room for somebody to make a new granular module that covers that stuff.
+
+00:27:41.680 --> 00:27:45.920
+ So you've you've you've list like a litany of problems with it.
+
+00:27:45.920 --> 00:27:47.320
+ Are you ultimately going to keep it?
+
+00:27:47.320 --> 00:27:48.320
+ I mean is it something?
+
+00:27:48.320 --> 00:27:49.320
+ Yeah, that's what I'm saying.
+
+00:27:49.320 --> 00:27:50.320
+ I'm okay.
+
+00:27:50.320 --> 00:27:51.320
+ I keep it.
+
+00:27:51.320 --> 00:27:52.320
+ I feel like it's good.
+
+00:27:52.320 --> 00:27:57.880
+ It's a good module to accompany clouds and and typhoon and monsoon rather.
+
+00:27:57.880 --> 00:28:01.000
+ But to me it is not like a replacement.
+
+00:28:01.000 --> 00:28:02.000
+ Absolutely.
+
+00:28:02.000 --> 00:28:03.000
+ It's a lot of territory.
+
+00:28:03.000 --> 00:28:08.680
+ I'm also I'm getting a lot of great stuff out of it that is different than what I'm
+
+00:28:08.680 --> 00:28:09.880
+ getting out of my suit.
+
+00:28:09.880 --> 00:28:14.560
+ I think ultimately that sounds like I'm having a more positive relationship with the the
+
+00:28:14.560 --> 00:28:15.560
+ beats than you are.
+
+00:28:15.560 --> 00:28:16.760
+ I do like what I'm getting out of it.
+
+00:28:16.760 --> 00:28:22.320
+ I do like the clarity like you said like the the audio quality is noticeably improved.
+
+00:28:22.320 --> 00:28:27.440
+ Oh yeah, especially with some of the monsoons that I've had like some of those modules I've
+
+00:28:27.440 --> 00:28:32.960
+ noticed get a little muddy a little shitty with the low end.
+
+00:28:32.960 --> 00:28:38.840
+ It just kind of loses some of the base and also even with higher pitch stuff there's
+
+00:28:38.840 --> 00:28:42.320
+ clear aliasing even if you're in 16 bit mode.
+
+00:28:42.320 --> 00:28:48.160
+ So yeah, something with like the converters and beads in the modes that you can select
+
+00:28:48.160 --> 00:28:51.080
+ sound significantly better to my ears at least.
+
+00:28:51.080 --> 00:28:52.080
+ Yeah.
+
+00:28:52.080 --> 00:28:57.200
+ I can run complex beats through it and I don't feel like I'm losing you know anything from
+
+00:28:57.200 --> 00:29:04.520
+ the source which is nice very transparent and I do like being able to seamlessly blend
+
+00:29:04.520 --> 00:29:11.320
+ from like normal mode into delay mode and then you know hit the clock with like strangely
+
+00:29:11.320 --> 00:29:16.680
+ timed clocks and make things go crazy especially in like the beat repeat type of mode when you're
+
+00:29:16.680 --> 00:29:19.360
+ freezing it while it's clocked in delay mode.
+
+00:29:19.360 --> 00:29:20.360
+ Fuck yeah.
+
+00:29:20.360 --> 00:29:21.360
+ Pretty nice.
+
+00:29:21.360 --> 00:29:26.040
+ That's what I wasn't going to get one until you made that clip with the delay mode type
+
+00:29:26.040 --> 00:29:30.640
+ shit and I was like okay this is like very interesting and then when I got it I used
+
+00:29:30.640 --> 00:29:33.920
+ it and I was like cool this is fun and I was like playing with it for half an hour
+
+00:29:33.920 --> 00:29:37.440
+ and I was like what the fuck am I doing with this you know like kind of just like musically
+
+00:29:37.440 --> 00:29:41.320
+ I'm like what are you what are you going to do with this thing and I was like on the
+
+00:29:41.320 --> 00:29:45.000
+ edge of selling it I'm like cool I could sell this for what it is it's hard to get right
+
+00:29:45.000 --> 00:29:49.800
+ now and then it was the delay mode shit and then I was like oh okay like I kind of know
+
+00:29:49.800 --> 00:29:54.800
+ what I can do with this that isn't just a delay and it's just more like in my mind
+
+00:29:54.800 --> 00:29:58.240
+ it locked and I'm like oh you're just kind of like spraying these things around in time
+
+00:29:58.240 --> 00:30:02.160
+ and I'm like cool which I get like from granular stuff but it's all in how you approach it.
+
+00:30:02.160 --> 00:30:03.160
+ Sure.
+
+00:30:03.160 --> 00:30:07.280
+ And I have the R301 which can do a lot of this stuff already granted not like can't change
+
+00:30:07.280 --> 00:30:11.480
+ the grain shapes quite as well and things like that so.
+
+00:30:11.480 --> 00:30:18.160
+ Even that mode is it's kind of based off of like that camera all exact repeat mode firmware
+
+00:30:18.160 --> 00:30:24.240
+ which you know came out so it's interesting to see beads incorporating all the stuff that
+
+00:30:24.240 --> 00:30:32.720
+ other people have kind of also devised as like you know ways for clouds to function.
+
+00:30:32.720 --> 00:30:36.000
+ I feel like it just doesn't take it to the next level enough for me to be like super
+
+00:30:36.000 --> 00:30:40.120
+ super excited about it but I am having fun with it absolutely.
+
+00:30:40.120 --> 00:30:46.320
+ The other day I was slicing up some breaks on my poly and tracker and just running it
+
+00:30:46.320 --> 00:30:50.960
+ through that mode and just having a fucking like break core fuck fest with it you know
+
+00:30:50.960 --> 00:30:55.120
+ it was a blast but it works very well for that.
+
+00:30:55.120 --> 00:31:01.840
+ It kind of like if as rings is to elements they should do like what's the big you know
+
+00:31:01.840 --> 00:31:05.840
+ brother of beads there's still like another module they could make there that would be.
+
+00:31:05.840 --> 00:31:07.880
+ Which someone did with clouds the super super.
+
+00:31:07.880 --> 00:31:08.880
+ Oh yeah yeah.
+
+00:31:08.880 --> 00:31:14.240
+ So yeah I would like to see the super cell version of beads absolutely.
+
+00:31:14.240 --> 00:31:15.240
+ Exactly.
+
+00:31:15.240 --> 00:31:18.320
+ So have we litigated beads enough?
+
+00:31:18.320 --> 00:31:21.320
+ We've dragged it through the dirt.
+
+00:31:21.320 --> 00:31:22.320
+ Yeah.
+
+00:31:22.320 --> 00:31:27.360
+ Giving it praise and then chopped it back down shoved its face in the mud.
+
+00:31:27.360 --> 00:31:31.280
+ So you're not a little pretty little princess anymore are you?
+
+00:31:31.280 --> 00:31:36.120
+ So does anybody have anything else that's not super booth related?
+
+00:31:36.120 --> 00:31:38.520
+ Because all of the rest of my notes are super booth related.
+
+00:31:38.520 --> 00:31:41.120
+ I think we do.
+
+00:31:41.120 --> 00:31:43.320
+ Yeah we got some things there.
+
+00:31:43.320 --> 00:31:44.760
+ We got some bang.
+
+00:31:44.760 --> 00:31:46.120
+ Why being cagey?
+
+00:31:46.120 --> 00:31:48.000
+ Why are you not telling me what they are?
+
+00:31:48.000 --> 00:31:49.000
+ Why are you keeping our listeners?
+
+00:31:49.000 --> 00:31:50.000
+ We are listeners.
+
+00:31:50.000 --> 00:31:51.720
+ We are the wheels of it for the listeners exactly.
+
+00:31:51.720 --> 00:31:55.520
+ I had something that I wanted to bring up real quick before we dip in a new shit.
+
+00:31:55.520 --> 00:31:56.520
+ Go for it.
+
+00:31:56.520 --> 00:31:57.520
+ I wanted to take a step back.
+
+00:31:57.520 --> 00:31:58.520
+ Oh.
+
+00:31:58.520 --> 00:32:00.520
+ To our previous episode.
+
+00:32:00.520 --> 00:32:01.520
+ Episode 32.
+
+00:32:01.520 --> 00:32:02.880
+ What did I say wrong in the 32?
+
+00:32:02.880 --> 00:32:04.120
+ No you're fine.
+
+00:32:04.120 --> 00:32:08.440
+ But we did criticize or ice especially criticize the LXR2.
+
+00:32:08.440 --> 00:32:10.520
+ Oh yeah yeah.
+
+00:32:10.520 --> 00:32:17.960
+ And was really not into the fact that it lacked a lot of features that the original
+
+00:32:17.960 --> 00:32:20.280
+ LXR had.
+
+00:32:20.280 --> 00:32:27.480
+ It was days after we put out that episode Erika Sense released a new firmware which kind
+
+00:32:27.480 --> 00:32:30.480
+ of rectifies some of those complaints.
+
+00:32:30.480 --> 00:32:31.600
+ Do you think it was you?
+
+00:32:31.600 --> 00:32:33.080
+ Do you think that they did it because of you?
+
+00:32:33.080 --> 00:32:34.080
+ Absolutely.
+
+00:32:34.080 --> 00:32:35.080
+ That's 100% accurate.
+
+00:32:35.080 --> 00:32:36.240
+ It was all hands on deck.
+
+00:32:36.240 --> 00:32:40.440
+ We just heard a podcast where these features are missing.
+
+00:32:40.440 --> 00:32:41.440
+ We cannot disappoint them.
+
+00:32:41.440 --> 00:32:43.000
+ They might not even have known those features were missing.
+
+00:32:43.000 --> 00:32:44.000
+ They might have forgotten.
+
+00:32:44.000 --> 00:32:49.200
+ They were like oh shit we just got called out by the 6x dumpster crew.
+
+00:32:49.200 --> 00:32:52.320
+ They had their emergency 9am meeting because we released the episode.
+
+00:32:52.320 --> 00:32:53.320
+ They were all gathered.
+
+00:32:53.320 --> 00:32:55.240
+ We were like well we got to listen to it.
+
+00:32:55.240 --> 00:32:58.160
+ Imagine the panic that hit that room when we started talking about it.
+
+00:32:58.160 --> 00:33:02.320
+ They said no one's leaving this meeting room until we get this shit fixed.
+
+00:33:02.320 --> 00:33:04.040
+ Pronzo and then a few days later yeah.
+
+00:33:04.040 --> 00:33:08.280
+ They came out with the new 1.2 firmware.
+
+00:33:08.280 --> 00:33:13.840
+ It adds a lot of the stuff that I considered pretty important to the LXR.
+
+00:33:13.840 --> 00:33:14.840
+ Micro time.
+
+00:33:14.840 --> 00:33:20.400
+ Micro timing, ratchets, synth parameter editing and performance mode.
+
+00:33:20.400 --> 00:33:24.640
+ They say new effects and bunch of fixes on the website.
+
+00:33:24.640 --> 00:33:26.480
+ It's pretty fucking vague.
+
+00:33:26.480 --> 00:33:33.360
+ But yeah I'm curious to hear what those new effects and bunch of fixes are all about.
+
+00:33:33.360 --> 00:33:38.680
+ Maybe one of those fixes were fixes the bug that I saw were turning one knob made parameters
+
+00:33:38.680 --> 00:33:40.080
+ change on a different map.
+
+00:33:40.080 --> 00:33:42.520
+ That would be a bit weird.
+
+00:33:42.520 --> 00:33:50.080
+ I returned mine so quickly because I was frustrated with it and just didn't feel like an LXR sequel
+
+00:33:50.080 --> 00:33:51.520
+ to me.
+
+00:33:51.520 --> 00:33:57.800
+ This makes me consider getting it again and giving it another fair shot with these fixes.
+
+00:33:57.800 --> 00:34:00.320
+ I would like to see more details in the patch notes.
+
+00:34:00.320 --> 00:34:04.520
+ It doesn't give me 100% confidence that everything that I encountered within my short period
+
+00:34:04.520 --> 00:34:07.080
+ of owning one has already been fixed.
+
+00:34:07.080 --> 00:34:10.640
+ Who's to say that you just didn't get a manufacturing problem?
+
+00:34:10.640 --> 00:34:15.000
+ The right back should have been hardware problems that were causing what you have.
+
+00:34:15.000 --> 00:34:17.760
+ If you got it again you wouldn't run into them.
+
+00:34:17.760 --> 00:34:21.160
+ Basically having different hardware and these fixes might be the thing in the box that you're
+
+00:34:21.160 --> 00:34:22.160
+ looking for.
+
+00:34:22.160 --> 00:34:23.680
+ Nothing that I encountered was game breaking.
+
+00:34:23.680 --> 00:34:28.600
+ It just was disappointing because on top of all the features that were missing from the
+
+00:34:28.600 --> 00:34:33.400
+ original LXR that I was expecting to have in there, you just had these weird random little
+
+00:34:33.400 --> 00:34:34.400
+ bugs and glitches.
+
+00:34:34.400 --> 00:34:35.680
+ I was just kind of like this.
+
+00:34:35.680 --> 00:34:37.440
+ This can go back to the store right now.
+
+00:34:37.440 --> 00:34:39.240
+ I'm not going to be dealing with this.
+
+00:34:39.240 --> 00:34:44.520
+ I feel like even with the original LXR I will get random weird glitches.
+
+00:34:44.520 --> 00:34:52.320
+ But I've always charged that up to me being a small company.
+
+00:34:52.320 --> 00:34:57.000
+ I made the kit that firmware has just been kind of abandoned.
+
+00:34:57.000 --> 00:35:01.680
+ There's almost my expectations for lower at some point and been like, "Well it didn't
+
+00:35:01.680 --> 00:35:02.680
+ crash."
+
+00:35:02.680 --> 00:35:05.680
+ I think I got lucky, but you hit yours with MIDI don't you?
+
+00:35:05.680 --> 00:35:06.680
+ Yeah.
+
+00:35:06.680 --> 00:35:09.320
+ I have touched MIDI input online ever.
+
+00:35:09.320 --> 00:35:11.280
+ It's always just been a clock and that's it.
+
+00:35:11.280 --> 00:35:17.000
+ I think it's pretty known in some ways that if you send any MIDI data that's going to
+
+00:35:17.000 --> 00:35:18.840
+ stack on there shit.
+
+00:35:18.840 --> 00:35:21.720
+ And having the 60 knobs on top of that.
+
+00:35:21.720 --> 00:35:24.280
+ And I also used to see the outs a lot.
+
+00:35:24.280 --> 00:35:31.240
+ Like the back of it, I'm putting it through its paces in a way that is probably just more
+
+00:35:31.240 --> 00:35:33.160
+ likely to run into bugs.
+
+00:35:33.160 --> 00:35:36.320
+ That's one thing they claim they fixed in this new one is the clock input.
+
+00:35:36.320 --> 00:35:37.320
+ Oh cool.
+
+00:35:37.320 --> 00:35:38.320
+ The analog clock input.
+
+00:35:38.320 --> 00:35:43.200
+ Yeah that is definitely a buggy piece of shit on the original.
+
+00:35:43.200 --> 00:35:44.200
+ Absolutely.
+
+00:35:44.200 --> 00:35:47.040
+ I thought I just built the expander incorrectly.
+
+00:35:47.040 --> 00:35:48.040
+ Same here.
+
+00:35:48.040 --> 00:35:50.840
+ Yeah I remember saying, "Hey you up?" and I was like, "Hey man I can't get this work."
+
+00:35:50.840 --> 00:35:52.400
+ You know like, "Yeah it just doesn't."
+
+00:35:52.400 --> 00:35:53.400
+ Oh shit.
+
+00:35:53.400 --> 00:35:54.400
+ Okay.
+
+00:35:54.400 --> 00:35:55.880
+ I know I didn't solder something wrong.
+
+00:35:55.880 --> 00:36:00.720
+ Good on them for quickly releasing a new firmware.
+
+00:36:00.720 --> 00:36:05.800
+ That gives me the Mormon fuzzies that I was hoping I would get from Erica taking this
+
+00:36:05.800 --> 00:36:06.800
+ over.
+
+00:36:06.800 --> 00:36:08.280
+ They're going to be super attentive to this.
+
+00:36:08.280 --> 00:36:10.000
+ They're going to be on top of it.
+
+00:36:10.000 --> 00:36:12.000
+ They're going to make it great.
+
+00:36:12.000 --> 00:36:16.320
+ Well unfortunately though, all of those aren't available for the first version yet.
+
+00:36:16.320 --> 00:36:17.880
+ Yeah that's what I was just going to say.
+
+00:36:17.880 --> 00:36:19.880
+ I was trying to check their GitHub or anywhere.
+
+00:36:19.880 --> 00:36:20.880
+ Oh like backwards.
+
+00:36:20.880 --> 00:36:21.880
+ Yeah.
+
+00:36:21.880 --> 00:36:22.880
+ Which I said was going to be the case.
+
+00:36:22.880 --> 00:36:25.120
+ They said as they were moving forward that whenever they could.
+
+00:36:25.120 --> 00:36:26.120
+ I didn't even consider that.
+
+00:36:26.120 --> 00:36:30.920
+ Yeah whenever they could they were going to apply that to the original firmware.
+
+00:36:30.920 --> 00:36:34.960
+ Or for the firmware for the first version.
+
+00:36:34.960 --> 00:36:36.960
+ And so far I don't think that's happened at all.
+
+00:36:36.960 --> 00:36:41.200
+ Yeah well three days after this episode comes out we'll be expecting that new release.
+
+00:36:41.200 --> 00:36:42.200
+ Absolutely.
+
+00:36:42.200 --> 00:36:47.720
+ I apologize in advance to the developers who now have to work 24 hours a day under terrible
+
+00:36:47.720 --> 00:36:50.560
+ conditions in order to meet our exacting demands.
+
+00:36:50.560 --> 00:36:51.560
+ That's right.
+
+00:36:51.560 --> 00:36:52.560
+ Yeah.
+
+00:36:52.560 --> 00:36:56.200
+ So if I stick stumps it will put you on blast.
+
+00:36:56.200 --> 00:36:57.200
+ Cancel culture.
+
+00:36:57.200 --> 00:36:58.200
+ Cancel culture.
+
+00:36:58.200 --> 00:37:01.600
+ Cancel Erica's sense until they make the LXR great again.
+
+00:37:01.600 --> 00:37:02.600
+ Instead it.
+
+00:37:02.600 --> 00:37:05.600
+ Yes.
+
+00:37:05.600 --> 00:37:07.680
+ Are you actively looking for one?
+
+00:37:07.680 --> 00:37:08.920
+ Are you seriously considering getting one?
+
+00:37:08.920 --> 00:37:10.920
+ Or are you just sort of like at the moment?
+
+00:37:10.920 --> 00:37:12.920
+ No at the moment.
+
+00:37:12.920 --> 00:37:17.200
+ My desire kind of passed because when I returned it you know I bought the machine drum again
+
+00:37:17.200 --> 00:37:18.400
+ and that's keeping me occupied.
+
+00:37:18.400 --> 00:37:19.400
+ Yeah.
+
+00:37:19.400 --> 00:37:21.880
+ There's always room for more drum machines.
+
+00:37:21.880 --> 00:37:22.880
+ Absolutely.
+
+00:37:22.880 --> 00:37:23.880
+ Yeah.
+
+00:37:23.880 --> 00:37:27.000
+ Do you feel better getting that off your chest and sort of eating that crow?
+
+00:37:27.000 --> 00:37:28.000
+ Yeah.
+
+00:37:28.000 --> 00:37:29.000
+ Yeah it's good clarification.
+
+00:37:29.000 --> 00:37:30.000
+ Good update.
+
+00:37:30.000 --> 00:37:31.000
+ Yeah.
+
+00:37:31.000 --> 00:37:32.000
+ See we can admit we're wrong.
+
+00:37:32.000 --> 00:37:33.000
+ Absolutely.
+
+00:37:33.000 --> 00:37:34.000
+ Which is every episode.
+
+00:37:34.000 --> 00:37:37.280
+ Oh yeah sure we're wrong about something.
+
+00:37:37.280 --> 00:37:40.720
+ We are definitely wrong about something in this first like 20 minutes or whatever we
+
+00:37:40.720 --> 00:37:41.720
+ were talking about.
+
+00:37:41.720 --> 00:37:42.720
+ Yeah.
+
+00:37:42.720 --> 00:37:43.720
+ Like 100%.
+
+00:37:43.720 --> 00:37:44.720
+ Yeah.
+
+00:37:44.720 --> 00:37:45.720
+ And we'll be wrong again.
+
+00:37:45.720 --> 00:37:47.720
+ The module is called Bard's actually.
+
+00:37:47.720 --> 00:37:49.720
+ Jesus Christ.
+
+00:37:49.720 --> 00:37:51.720
+ Jesus Christ.
+
+00:37:51.720 --> 00:37:54.400
+ So Nick did you have anything before we get into Super booth?
+
+00:37:54.400 --> 00:37:55.800
+ Yeah I don't know.
+
+00:37:55.800 --> 00:38:01.600
+ I had metropolis I figured we would touch on and then industrial music electronics I
+
+00:38:01.600 --> 00:38:03.800
+ haven't written down as hard as Mark three.
+
+00:38:03.800 --> 00:38:05.800
+ Yeah I want to hear your take on that stuff.
+
+00:38:05.800 --> 00:38:09.040
+ Yeah that one definitely the Mark threes.
+
+00:38:09.040 --> 00:38:14.480
+ The bucke I never knew I wanted even though I kind of wanted a bucke tip top audio we should
+
+00:38:14.480 --> 00:38:15.680
+ talk about that too.
+
+00:38:15.680 --> 00:38:19.440
+ But yeah the Mark threes.
+
+00:38:19.440 --> 00:38:22.800
+ So I've had the Lester for a while since you know you got the Lester and then I got mine
+
+00:38:22.800 --> 00:38:28.240
+ after and have been really liking that but I've been digging into presets a little more
+
+00:38:28.240 --> 00:38:33.240
+ after the Harlequins and getting that and it was just really had my eye on the piston
+
+00:38:33.240 --> 00:38:37.960
+ Honda because I love my Mark one one of my favorite oscillators not diminished by the
+
+00:38:37.960 --> 00:38:42.320
+ arrival of the Mark three at all even though they're very different beasts.
+
+00:38:42.320 --> 00:38:48.240
+ But yeah that whole setup was more intriguing so I took a leap on a piston from Toman because
+
+00:38:48.240 --> 00:38:51.480
+ they were in stock because they went out of stock forever because of a part shortage
+
+00:38:51.480 --> 00:38:53.320
+ and shit like that.
+
+00:38:53.320 --> 00:38:58.640
+ But um the Mark three piston to start off I also got the Kermit not too long ago so those
+
+00:38:58.640 --> 00:39:03.880
+ two came to the mix and they're both fucking incredible.
+
+00:39:03.880 --> 00:39:07.800
+ Some of my favorite modules I've ever purchased period I just think the designs on them are
+
+00:39:07.800 --> 00:39:14.080
+ fucking like so well thought out like the way the presets work is so simple but so flexible
+
+00:39:14.080 --> 00:39:18.480
+ I've never seen it in that way at anything in your rack at all because you have different
+
+00:39:18.480 --> 00:39:23.160
+ modes for the presets that you can do like simple shit like default so when you turn
+
+00:39:23.160 --> 00:39:26.440
+ on the module goes into preset mode so if you're playing live you don't have to like
+
+00:39:26.440 --> 00:39:29.880
+ set each one to preset mode manually and go into it.
+
+00:39:29.880 --> 00:39:34.320
+ You only get eight presets in the whole system but it's like brilliant the way it works because
+
+00:39:34.320 --> 00:39:39.560
+ you can just have a CV going in that scans through them like you know scans through them
+
+00:39:39.560 --> 00:39:43.280
+ sequentially or morphs through them all you get of it just more for the parameters or
+
+00:39:43.280 --> 00:39:46.800
+ more everything that happens on the module.
+
+00:39:46.800 --> 00:39:50.240
+ When you get the module and you put it in preset mode that locks out all the other controls
+
+00:39:50.240 --> 00:39:54.040
+ which some people don't like but I totally see why it's that way you can get out of that
+
+00:39:54.040 --> 00:39:59.800
+ mode quickly too but you can also just have triggers go in and iterate each one going
+
+00:39:59.800 --> 00:40:00.880
+ forward.
+
+00:40:00.880 --> 00:40:06.960
+ He also put in fixes so that the CV when you use multiple passively molted inputs on
+
+00:40:06.960 --> 00:40:10.640
+ the preset it doesn't the loading effects like don't fuck with it so it's like it works
+
+00:40:10.640 --> 00:40:15.840
+ like really well so for I'm very excited for live use and the cool thing is it would
+
+00:40:15.840 --> 00:40:20.440
+ also work with the Harlequins context like I just use one of those outputs to also go
+
+00:40:20.440 --> 00:40:24.520
+ in and control everything and then I have three other modules that I kind of preset
+
+00:40:24.520 --> 00:40:25.520
+ with.
+
+00:40:25.520 --> 00:40:28.080
+ So you're talking about just like having one thing as like an offset.
+
+00:40:28.080 --> 00:40:29.080
+ Yeah.
+
+00:40:29.080 --> 00:40:30.080
+ Exactly.
+
+00:40:30.080 --> 00:40:31.080
+ Yeah.
+
+00:40:31.080 --> 00:40:34.320
+ Just having an offset in that Harlequins context going in and managing all the CVs on the
+
+00:40:34.320 --> 00:40:35.320
+ Mark 3 shit.
+
+00:40:35.320 --> 00:40:39.560
+ It's something that presets and the fact that that's cool and flexible and like wow
+
+00:40:39.560 --> 00:40:43.440
+ Scott designed a preset system that almost anybody would want to use that doesn't use
+
+00:40:43.440 --> 00:40:50.040
+ the fucking awful select bus shit that's on you know the extra pin on the bus boards.
+
+00:40:50.040 --> 00:40:53.640
+ We have the Mark 3 piston sounds fucking amazing.
+
+00:40:53.640 --> 00:40:59.420
+ I love it but there are also some things it doesn't have like it doesn't have more discontinuity
+
+00:40:59.420 --> 00:41:04.280
+ for some reason which is a really good CV controllable effect on the Mark 1 piston which
+
+00:41:04.280 --> 00:41:07.080
+ sounds like really fucking good.
+
+00:41:07.080 --> 00:41:11.800
+ It lacks the flaw that the Mark 1 and I think the Mark 2 have where if you send it too much
+
+00:41:11.800 --> 00:41:15.960
+ voltage on one side and leak out through the other which I really like and people you
+
+00:41:15.960 --> 00:41:18.880
+ know I think he retained that on purpose on the Mark 2 actually.
+
+00:41:18.880 --> 00:41:19.880
+ Yeah it was on it too.
+
+00:41:19.880 --> 00:41:26.200
+ So much which I use all the time for effect and really like the ability to disrupt that
+
+00:41:26.200 --> 00:41:28.560
+ shit.
+
+00:41:28.560 --> 00:41:31.920
+ But the nice thing is the Mark 3 has the SD card where you can upload the wave edit
+
+00:41:31.920 --> 00:41:35.040
+ shit which I haven't tried yet because I'm just trying to get familiar with what's there
+
+00:41:35.040 --> 00:41:39.840
+ first because I'm skeptical sometimes of like yeah can I design a wave table that's
+
+00:41:39.840 --> 00:41:43.440
+ better than what Scott did I could probably find something that I would like that's maybe
+
+00:41:43.440 --> 00:41:48.280
+ more mellow in some cases but for the most part it's all kind of covered if you actually
+
+00:41:48.280 --> 00:41:49.440
+ like just learn it.
+
+00:41:49.440 --> 00:41:54.200
+ That's how I've the Erica graphic VCO where you can edit I thought I was going to use
+
+00:41:54.200 --> 00:41:55.200
+ a shit out of that.
+
+00:41:55.200 --> 00:41:56.200
+ Yeah.
+
+00:41:56.200 --> 00:42:00.120
+ I've made like five genuinely different and usable things total.
+
+00:42:00.120 --> 00:42:04.600
+ Well the most part everything's covered like especially when you got like huge banks of
+
+00:42:04.600 --> 00:42:05.600
+ waveforms like that.
+
+00:42:05.600 --> 00:42:06.600
+ Yeah.
+
+00:42:06.600 --> 00:42:09.280
+ I also didn't use it as much as I thought.
+
+00:42:09.280 --> 00:42:12.480
+ This one actually has less waveforms than the Mark 2.
+
+00:42:12.480 --> 00:42:17.240
+ He reduced the number before it was like 2048 number.
+
+00:42:17.240 --> 00:42:18.240
+ Yep.
+
+00:42:18.240 --> 00:42:19.240
+ No you're right.
+
+00:42:19.240 --> 00:42:21.400
+ And some reason that number is burned in my head.
+
+00:42:21.400 --> 00:42:22.400
+ Yeah.
+
+00:42:22.400 --> 00:42:23.400
+ 2048.
+
+00:42:23.400 --> 00:42:27.760
+ This one's in 8x8x8 cube like kind of like the Mark 1 is.
+
+00:42:27.760 --> 00:42:32.680
+ So I think it was it seemed like the Mark 3's are like Scott like refining all the shit
+
+00:42:32.680 --> 00:42:36.160
+ and being like cool I kind of went ham with the Mark 2 and now how can I make these like
+
+00:42:36.160 --> 00:42:38.840
+ even more playable.
+
+00:42:38.840 --> 00:42:41.040
+ Which takes me to the Kermit which is like quad modulators.
+
+00:42:41.040 --> 00:42:45.880
+ I have a couple of them now Zadar Kermit quad racks.
+
+00:42:45.880 --> 00:42:49.800
+ Saw Kermit and saw like the setup and the fact that it could use the presets and it had
+
+00:42:49.800 --> 00:42:54.400
+ envelopes and LFOs and tempo sync Delafos and some other cool shit.
+
+00:42:54.400 --> 00:42:57.520
+ I was like I've got to try this and like zero grads.
+
+00:42:57.520 --> 00:42:59.400
+ It's one of my favorite quad modulators ever.
+
+00:42:59.400 --> 00:43:04.360
+ I think it's easier to use in the Zadar in a way because it's a little more nopped out.
+
+00:43:04.360 --> 00:43:06.480
+ It's got a lot of combos on it.
+
+00:43:06.480 --> 00:43:10.440
+ There are different button combinations for everything because you've got on the Kermit
+
+00:43:10.440 --> 00:43:15.960
+ you've got A, B, C and D. A and B have like full controls for like amplitude, wave shape
+
+00:43:15.960 --> 00:43:18.440
+ and then pitch or time or whatever.
+
+00:43:18.440 --> 00:43:21.360
+ And then C and D just have like one knob for each.
+
+00:43:21.360 --> 00:43:29.560
+ But you can use the hot hot buttons like the channel buttons I guess on each one hot buttons.
+
+00:43:29.560 --> 00:43:30.560
+ Something totally different.
+
+00:43:30.560 --> 00:43:36.400
+ You can use the channel button on each modulator and then like use the knobs for C and D and
+
+00:43:36.400 --> 00:43:37.880
+ like select the other parameters.
+
+00:43:37.880 --> 00:43:44.320
+ So they're all like full function except it may be C and D don't go as high modulation
+
+00:43:44.320 --> 00:43:45.320
+ wise.
+
+00:43:45.320 --> 00:43:47.520
+ They're like slightly different or something.
+
+00:43:47.520 --> 00:43:51.520
+ But you've got like six banks of like all these other wave tables in there.
+
+00:43:51.520 --> 00:43:54.720
+ There's a VCO mode for each of them which I haven't played with too much.
+
+00:43:54.720 --> 00:44:00.720
+ But sounds like pretty good and weird and he made it like not stable on purpose apparently.
+
+00:44:00.720 --> 00:44:01.720
+ I don't know why.
+
+00:44:01.720 --> 00:44:04.200
+ Just Scott be it Scott probably doesn't want to have too much overlap with the piston I
+
+00:44:04.200 --> 00:44:05.200
+ would think.
+
+00:44:05.200 --> 00:44:06.640
+ Pretty well versed in the pistons.
+
+00:44:06.640 --> 00:44:08.920
+ I had two Mark twos for a long time.
+
+00:44:08.920 --> 00:44:09.920
+ You know what I mean?
+
+00:44:09.920 --> 00:44:10.920
+ I love them.
+
+00:44:10.920 --> 00:44:16.720
+ And I just haven't had the chance to jump to the Mark 3s and you telling me you got the
+
+00:44:16.720 --> 00:44:18.080
+ Kermit Mark 3 recently.
+
+00:44:18.080 --> 00:44:19.960
+ I was like what is that all about?
+
+00:44:19.960 --> 00:44:23.040
+ It's one thing that like I always had enough modulation in my rack.
+
+00:44:23.040 --> 00:44:26.440
+ So I never really got into the Kermit from Scott.
+
+00:44:26.440 --> 00:44:28.160
+ And I was like let's see what this is all about.
+
+00:44:28.160 --> 00:44:36.560
+ And I watched a few demos like this is like almost like a piston junior in some ways.
+
+00:44:36.560 --> 00:44:37.560
+ You know what I mean?
+
+00:44:37.560 --> 00:44:39.360
+ I was like there seems to be a lot of spill over there.
+
+00:44:39.360 --> 00:44:43.640
+ And I could definitely imagine how it goes really well with the pistons.
+
+00:44:43.640 --> 00:44:48.320
+ It's just modulated wave table madness there.
+
+00:44:48.320 --> 00:44:52.040
+ It's got like a global tap tempo with an input too.
+
+00:44:52.040 --> 00:44:56.520
+ Which means like the thing I love is like I love the four milliseconds peg is clocked
+
+00:44:56.520 --> 00:44:58.960
+ modulation is like you know it's fucking techno.
+
+00:44:58.960 --> 00:45:01.800
+ It sounds great to have varied clock modulation.
+
+00:45:01.800 --> 00:45:06.080
+ And this is the only one that will go to like 30 seconds clock divisions.
+
+00:45:06.080 --> 00:45:11.560
+ I find I'm using C and D often to modulate A and B because of the reduced controls because
+
+00:45:11.560 --> 00:45:12.560
+ it's easy.
+
+00:45:12.560 --> 00:45:16.600
+ You just like literally hold down the knob and then hold the other one and it like modulates
+
+00:45:16.600 --> 00:45:17.600
+ it.
+
+00:45:17.600 --> 00:45:19.760
+ So there are lots of like shortcuts you have to remember.
+
+00:45:19.760 --> 00:45:24.080
+ That's maybe a con but I think it's designed well enough that it's like not a pain in the
+
+00:45:24.080 --> 00:45:25.080
+ ass.
+
+00:45:25.080 --> 00:45:31.520
+ It's like easier to use than the Zadar for me like to be able to like edit a fucking wave.
+
+00:45:31.520 --> 00:45:35.240
+ So when you make those sort of combinations and is it do you then have a visual cue as
+
+00:45:35.240 --> 00:45:36.720
+ to what you've done?
+
+00:45:36.720 --> 00:45:37.720
+ That's the one thing.
+
+00:45:37.720 --> 00:45:41.400
+ So you can see the waveform only when you're changing the wave shape mode.
+
+00:45:41.400 --> 00:45:46.640
+ It would be cool if you let you set as default which screen you wanted to go on.
+
+00:45:46.640 --> 00:45:50.320
+ But it's nice how much information he packs into these little screens and how well it
+
+00:45:50.320 --> 00:45:51.320
+ actually works.
+
+00:45:51.320 --> 00:45:56.120
+ It's not like I had that hair mod from Squarp and that was way too fucking small.
+
+00:45:56.120 --> 00:46:00.120
+ Maybe the same size but you were trying to run like a sequencer from that fucking thing.
+
+00:46:00.120 --> 00:46:03.000
+ Like including editing and that was a nightmare.
+
+00:46:03.000 --> 00:46:04.520
+ So we did a great job with that.
+
+00:46:04.520 --> 00:46:10.280
+ Oh another cool feature you can have it use the code of the module as a modulator like
+
+00:46:10.280 --> 00:46:12.800
+ the bucla oscillator used to be able to do.
+
+00:46:12.800 --> 00:46:18.640
+ So he's like oh you can just use my graphical representation of the actual module firmware
+
+00:46:18.640 --> 00:46:21.640
+ to modulate things which is just like a nice touch.
+
+00:46:21.640 --> 00:46:25.000
+ I haven't even tried it yet but I saw that and I was like oh code scan what the fuck's
+
+00:46:25.000 --> 00:46:26.000
+ that?
+
+00:46:26.000 --> 00:46:29.880
+ So I'll use the code as a modulator because it's it's such a clear like reference to
+
+00:46:29.880 --> 00:46:34.920
+ bucla but I've got two other things about the piston Honda too.
+
+00:46:34.920 --> 00:46:39.100
+ People will be able to piece this together but um the FM you get two fucking piston
+
+00:46:39.100 --> 00:46:40.100
+ Hondas in one.
+
+00:46:40.100 --> 00:46:45.120
+ That's like maybe the first thing off the map is you actually get two with external inputs
+
+00:46:45.120 --> 00:46:48.560
+ you can do stereo processing with it which you could never do with the mark one of the
+
+00:46:48.560 --> 00:46:49.560
+ mark two.
+
+00:46:49.560 --> 00:46:54.800
+ It's like double so for the price it's like really fucking good.
+
+00:46:54.800 --> 00:47:00.360
+ The FM between the two is through zero and it sounds ridiculous.
+
+00:47:00.360 --> 00:47:04.840
+ I've gotten shit from that which is like okay.
+
+00:47:04.840 --> 00:47:08.040
+ It almost gets that kind of sound where it's so detailed it almost sounds like a reverb
+
+00:47:08.040 --> 00:47:15.160
+ kind of but it's not it's just really it doesn't shit itself like even an analog oscillator
+
+00:47:15.160 --> 00:47:20.160
+ would against a piston mark one because it's eight sixteen bit so that helps but um it
+
+00:47:20.160 --> 00:47:23.800
+ just sounds like really nice in that regard and I didn't even realize at first like you
+
+00:47:23.800 --> 00:47:28.680
+ get two piston Hondas in one basically with some routing between them.
+
+00:47:28.680 --> 00:47:32.640
+ So that's super like flexible and just to set up all three of those I have like Kermit
+
+00:47:32.640 --> 00:47:38.040
+ above piston and ellaster and just they just sound great as a group I'm getting a lot of
+
+00:47:38.040 --> 00:47:39.040
+ mileage out of it.
+
+00:47:39.040 --> 00:47:44.800
+ That's not just maybe what people generalize harvest manner industrial music electronics
+
+00:47:44.800 --> 00:47:45.800
+ is sounding like.
+
+00:47:45.800 --> 00:47:48.160
+ You can get all sorts of shit out of it.
+
+00:47:48.160 --> 00:47:53.240
+ So one of the things I used to do when I had two mark two pistons was have one in LFO
+
+00:47:53.240 --> 00:47:56.120
+ mode to modulate the other in audio mode.
+
+00:47:56.120 --> 00:48:00.920
+ You're saying this is two pistons and one can you have the second oscillator in LFO
+
+00:48:00.920 --> 00:48:01.920
+ mode?
+
+00:48:01.920 --> 00:48:06.160
+ No I don't think you can't well it's kind of locked double check I think it topped out
+
+00:48:06.160 --> 00:48:11.760
+ at like 200 Hertz or something like that on the low end if you I don't know I can't
+
+00:48:11.760 --> 00:48:14.800
+ answer that question very well right now because I have the Kermit and I always use
+
+00:48:14.800 --> 00:48:15.800
+ that as LFO.
+
+00:48:15.800 --> 00:48:16.800
+ Gotcha.
+
+00:48:16.800 --> 00:48:18.160
+ I don't remember it being able to go.
+
+00:48:18.160 --> 00:48:22.200
+ The mark two it had like a button you know I mean we're just taking LFO mode.
+
+00:48:22.200 --> 00:48:23.200
+ Yeah.
+
+00:48:23.200 --> 00:48:28.720
+ And I loved using it as an LFO to modulate the other piston.
+
+00:48:28.720 --> 00:48:33.880
+ You know it was really cool but I totally forgot I haven't even tried that yet.
+
+00:48:33.880 --> 00:48:34.880
+ It's an LFO.
+
+00:48:34.880 --> 00:48:38.040
+ You really got me wanting a piston mark three now.
+
+00:48:38.040 --> 00:48:39.040
+ Yeah.
+
+00:48:39.040 --> 00:48:43.200
+ Mark three is like it's been gold so far I really like how it sounds.
+
+00:48:43.200 --> 00:48:45.960
+ It's funny because now you really have me wanting a Kermit.
+
+00:48:45.960 --> 00:48:47.880
+ Yeah that sounds amazing.
+
+00:48:47.880 --> 00:48:53.640
+ Kermit is that was I really slept on that module until like I look at it.
+
+00:48:53.640 --> 00:48:54.640
+ I slept on all the Kermit.
+
+00:48:54.640 --> 00:48:59.240
+ What the fuck this is like an awesome quad modulator with tempo sync and you've got like
+
+00:48:59.240 --> 00:49:03.160
+ custom waveforms all these different modes like envelope modes too.
+
+00:49:03.160 --> 00:49:07.360
+ Well say I had the Kermit mark one for a minute but I also had the double and or mark one
+
+00:49:07.360 --> 00:49:08.520
+ at the time and I was like oh yeah.
+
+00:49:08.520 --> 00:49:09.520
+ I don't need this Kermit.
+
+00:49:09.520 --> 00:49:14.560
+ You know like I got this andor and it's got all this way you know waveforms I can use
+
+00:49:14.560 --> 00:49:19.040
+ for modulation and things like that so I got rid of it but and I just kind of fell off
+
+00:49:19.040 --> 00:49:25.120
+ track with the mark two and the mark three iterations of it but sounds like it's come
+
+00:49:25.120 --> 00:49:26.120
+ a long way.
+
+00:49:26.120 --> 00:49:27.600
+ Yeah it definitely has.
+
+00:49:27.600 --> 00:49:31.240
+ They just work super well together too.
+
+00:49:31.240 --> 00:49:32.240
+ Just great designs.
+
+00:49:32.240 --> 00:49:33.240
+ I don't know.
+
+00:49:33.240 --> 00:49:34.840
+ You fucking nailed it.
+
+00:49:34.840 --> 00:49:35.840
+ I love it.
+
+00:49:35.840 --> 00:49:38.760
+ I can't wait to try and use the presets a little more.
+
+00:49:38.760 --> 00:49:42.120
+ I've like checked it to see if it works but I haven't like built the live set with it
+
+00:49:42.120 --> 00:49:44.720
+ yet but I think it'll be pretty straightforward.
+
+00:49:44.720 --> 00:49:46.480
+ We'll see.
+
+00:49:46.480 --> 00:49:47.480
+ Yeah.
+
+00:49:47.480 --> 00:49:50.360
+ I've done a lot of audio processing with it at all.
+
+00:49:50.360 --> 00:49:51.360
+ Yes.
+
+00:49:51.360 --> 00:49:52.360
+ External inputs.
+
+00:49:52.360 --> 00:49:53.360
+ Mark two's.
+
+00:49:53.360 --> 00:49:58.480
+ 16 bit external inputs have been a lot more useful for me than the 8 bit on the mark one
+
+00:49:58.480 --> 00:49:59.480
+ I'll say.
+
+00:49:59.480 --> 00:50:00.840
+ I still love the sound of the mark one.
+
+00:50:00.840 --> 00:50:05.800
+ I've been using three pistons for sure but the external input is way nicer with the
+
+00:50:05.800 --> 00:50:06.800
+ extra resolution.
+
+00:50:06.800 --> 00:50:07.800
+ It just sounds good.
+
+00:50:07.800 --> 00:50:09.800
+ Does it have any controls?
+
+00:50:09.800 --> 00:50:13.560
+ On the mark two's you used to have the gain control.
+
+00:50:13.560 --> 00:50:14.560
+ Yeah.
+
+00:50:14.560 --> 00:50:16.400
+ It's frequency turns into gain.
+
+00:50:16.400 --> 00:50:17.400
+ Okay.
+
+00:50:17.400 --> 00:50:23.400
+ Obviously the wave cable change is there's a change where you can make it, oh yeah you
+
+00:50:23.400 --> 00:50:25.920
+ can make it sound more like a mark one piston.
+
+00:50:25.920 --> 00:50:26.920
+ Okay.
+
+00:50:26.920 --> 00:50:29.080
+ There's like a setting that'll degrade a bit.
+
+00:50:29.080 --> 00:50:33.840
+ Where apparently but I think even in 16 bit mode it's really hard to tell the difference
+
+00:50:33.840 --> 00:50:34.840
+ for me.
+
+00:50:34.840 --> 00:50:38.680
+ I'll put up some of those classic banks that the piston mark one has and it's like wow
+
+00:50:38.680 --> 00:50:41.480
+ that's I don't know it sounds exactly the same in some ways.
+
+00:50:41.480 --> 00:50:42.480
+ Cool.
+
+00:50:42.480 --> 00:50:45.000
+ But the FM way clearer.
+
+00:50:45.000 --> 00:50:47.240
+ Yeah no more discontinuity.
+
+00:50:47.240 --> 00:50:51.920
+ There's something I kind of liked on the mark one too about how you switched the ROMs
+
+00:50:51.920 --> 00:50:56.040
+ even though it was a hacked like hold the button and show those windows it kind of stuck
+
+00:50:56.040 --> 00:50:58.320
+ because you couldn't get to it if you had CV going in.
+
+00:50:58.320 --> 00:51:01.440
+ It was just like yeah luck of the draw.
+
+00:51:01.440 --> 00:51:07.080
+ But there's something kind of odd about having the third slider select so much possibly on
+
+00:51:07.080 --> 00:51:08.080
+ the module itself.
+
+00:51:08.080 --> 00:51:10.360
+ Like you don't want to touch that it's more drastic.
+
+00:51:10.360 --> 00:51:15.240
+ It's weird it's like least drastic change on XY is a little more because it's scanning
+
+00:51:15.240 --> 00:51:20.640
+ through the variance of X and other ones like whole ROMs kind of.
+
+00:51:20.640 --> 00:51:22.400
+ And how many are there per slider?
+
+00:51:22.400 --> 00:51:24.080
+ Just eight and eight.
+
+00:51:24.080 --> 00:51:25.080
+ Okay.
+
+00:51:25.080 --> 00:51:28.920
+ Strange touches though like even when you're on the screen it's always like one one two
+
+00:51:28.920 --> 00:51:34.240
+ two like Scott puts like weird stuff in there when you select through it all.
+
+00:51:34.240 --> 00:51:36.240
+ It's like you're not scanning through one through eight.
+
+00:51:36.240 --> 00:51:41.000
+ Oh and another nice thing is um I love this do the way the wave tables are designed.
+
+00:51:41.000 --> 00:51:46.960
+ It always ends on the waveform it starts off at even though it's not symmetrical you
+
+00:51:46.960 --> 00:51:52.280
+ can always get to like I know if it starts sign you can always get exactly to that sound.
+
+00:51:52.280 --> 00:51:55.560
+ So you can like it's musically very nice because you can get to the point you want to
+
+00:51:55.560 --> 00:51:59.160
+ and then scan through it the other way but it's like this point of return that you know
+
+00:51:59.160 --> 00:52:00.160
+ about.
+
+00:52:00.160 --> 00:52:03.960
+ Oh yeah and then fucking tuning um the way it does it it's always quantized but there's
+
+00:52:03.960 --> 00:52:06.520
+ like some slew between the values.
+
+00:52:06.520 --> 00:52:12.080
+ I love it shows the note value on the piston of what it's playing.
+
+00:52:12.080 --> 00:52:16.200
+ So I'm able to like go to my sequencer and knock it up and octave and see the like D1
+
+00:52:16.200 --> 00:52:17.760
+ went to D2 or something like that.
+
+00:52:17.760 --> 00:52:21.060
+ It's just really nice you know like oh yeah that's exactly in tune and it's really easy
+
+00:52:21.060 --> 00:52:23.400
+ to get it back in tune.
+
+00:52:23.400 --> 00:52:27.040
+ Huge improvement I wish every oscillator had a similar model.
+
+00:52:27.040 --> 00:52:32.840
+ It's fucking yeah it's just really refined um even though I like the Mark 1's a lot which
+
+00:52:32.840 --> 00:52:35.680
+ we were talking about before the Mark 1's are no slouch.
+
+00:52:35.680 --> 00:52:39.160
+ This has made me look more for like older Mark 1 modules too.
+
+00:52:39.160 --> 00:52:40.640
+ I'd love that time so far.
+
+00:52:40.640 --> 00:52:45.600
+ Yeah I can do it exactly.
+
+00:52:45.600 --> 00:52:47.920
+ I always miss my Mark 1 times far too.
+
+00:52:47.920 --> 00:52:50.480
+ I've owned one three different times.
+
+00:52:50.480 --> 00:52:54.760
+ I like because I'll go you know I'll spend a lot of time with it.
+
+00:52:54.760 --> 00:52:58.480
+ I'll do a shit ton of recording with it and I'll be like okay I got everything I need
+
+00:52:58.480 --> 00:53:00.920
+ to get out of a Mark 1 for a time far right now.
+
+00:53:00.920 --> 00:53:04.440
+ I don't need this right now and then I sell it and then I'm like okay the month later
+
+00:53:04.440 --> 00:53:07.120
+ I'm like fuck the third time though that's ridiculous.
+
+00:53:07.120 --> 00:53:10.400
+ Yeah by that point you should have figured it out that you want one and you should just
+
+00:53:10.400 --> 00:53:11.400
+ keep it.
+
+00:53:11.400 --> 00:53:15.000
+ Yeah the first two it's like okay that we get it but like the third one that's that's
+
+00:53:15.000 --> 00:53:16.000
+ entirely on you.
+
+00:53:16.000 --> 00:53:17.520
+ You got a lot of mileage out of that.
+
+00:53:17.520 --> 00:53:19.440
+ I remember you back in the day.
+
+00:53:19.440 --> 00:53:20.920
+ That was probably my favorite mod.
+
+00:53:20.920 --> 00:53:27.280
+ There was point time where I had to like sell most of my modular stuff and all I kept was
+
+00:53:27.280 --> 00:53:33.280
+ a dope for beauty case that had my time Safari Mark 1 in there with the sound of thunder
+
+00:53:33.280 --> 00:53:36.280
+ expansion and a waggle bug.
+
+00:53:36.280 --> 00:53:38.720
+ And that kept me fucking happy for a while.
+
+00:53:38.720 --> 00:53:42.600
+ I got so much mileage just out of those two modules you know me and just running external
+
+00:53:42.600 --> 00:53:48.080
+ sound through the Safari, glitching it up you know I mean like that was my makeshift
+
+00:53:48.080 --> 00:53:52.240
+ like granular processor box you know what I mean before things like clouds and things
+
+00:53:52.240 --> 00:53:56.920
+ like that existed like I love the time Safari.
+
+00:53:56.920 --> 00:54:04.280
+ I've enjoyed the Mark 2 but I feel like the Mark 1 just had a very distinct sound, very
+
+00:54:04.280 --> 00:54:06.160
+ distinct distortion that I could get out of it.
+
+00:54:06.160 --> 00:54:09.560
+ Very interesting noises like there was times where I wouldn't even route anything through
+
+00:54:09.560 --> 00:54:14.000
+ it I would feedback patch it and just find interesting patches using you know the sound
+
+00:54:14.000 --> 00:54:19.280
+ of thunder expanders to make interesting just noise that I would record you know what I
+
+00:54:19.280 --> 00:54:25.120
+ mean and unshape and sculpt but yeah I love that module and it's like impossible to find
+
+00:54:25.120 --> 00:54:30.600
+ you know and also there was a lot of variance between them you know I mean like every Mark
+
+00:54:30.600 --> 00:54:36.040
+ 1 time Safari did not sound like the next you know I mean some of them have very distinct
+
+00:54:36.040 --> 00:54:41.080
+ sound some of them are noisier than others you know I mean things like that so and I
+
+00:54:41.080 --> 00:54:47.800
+ think there were some minor changes with like Ninja updated firmware between them too so
+
+00:54:47.800 --> 00:54:54.480
+ very unique module you know that was all based off of the fucking SK1 right you know
+
+00:54:54.480 --> 00:54:59.920
+ so probably hard to even make these days you know I mean like I don't know if it used
+
+00:54:59.920 --> 00:55:04.720
+ like actual chips from the SK1 or if it was just inspired by I forget I know Scott explained
+
+00:55:04.720 --> 00:55:08.320
+ it to me back in the day but I'll be damned if I remember now but if you if you need
+
+00:55:08.320 --> 00:55:15.600
+ you can have my SK1 I was gonna say I have one too send a Scott yeah that'll be 10,000
+
+00:55:15.600 --> 00:55:19.680
+ dollars and that's what the sound of thunder like expander was supposed to replicate with
+
+00:55:19.680 --> 00:55:25.480
+ certain bends that Scott knew because Scott was well versed with the SK1 to that for a
+
+00:55:25.480 --> 00:55:29.240
+ fact I think before he started making harvest man modules I think that's what he was doing
+
+00:55:29.240 --> 00:55:35.280
+ for people was circumventing SK1's yeah there's a million bends on it yeah because that's
+
+00:55:35.280 --> 00:55:43.480
+ the one I have I was supposed to do the table beast mod for someone else and then only now
+
+00:55:43.480 --> 00:55:50.000
+ might remember I agree to do that that's why you have the SK1 that's why I have it yeah
+
+00:55:50.000 --> 00:55:55.520
+ yeah but yeah I love that module I miss it dearly if I yeah I would scoop one up in a
+
+00:55:55.520 --> 00:56:00.600
+ heartbait if I saw one again too I don't know if I would pay like ridiculous price
+
+00:56:00.600 --> 00:56:06.560
+ gouging prices for it but like a fair price I'd be like yeah I would like that if even
+
+00:56:06.560 --> 00:56:11.480
+ if I don't feel like I need to use it for recording at this point in time I would just
+
+00:56:11.480 --> 00:56:17.680
+ like to have one for nostalgic sake you know I mean yeah you're your your eyes are twinkling
+
+00:56:17.680 --> 00:56:21.560
+ yeah like this thing about like the nostalgia that you're going through right now it made
+
+00:56:21.560 --> 00:56:25.800
+ it onto a lot of different recorded material yeah yeah a lot of Prometheus burning stuff
+
+00:56:25.800 --> 00:56:31.840
+ I think even some early to shovel stuff definitely used it live a lot for Prometheus burning
+
+00:56:31.840 --> 00:56:38.840
+ towards the end there yeah it was just a great module that was one of the modules that got
+
+00:56:38.840 --> 00:56:45.880
+ me into modular yeah you know I mean well if any of our listeners out there have one I
+
+00:56:45.880 --> 00:56:51.040
+ want to send it to Greg and Nick we could just share it we'll do a time Safari time share
+
+00:56:51.040 --> 00:56:58.840
+ mint it super booth stuff the grand booth wait what did we call it at the show we soup
+
+00:56:58.840 --> 00:57:04.400
+ and buns super yeah we call it I know you made a sticky or something you made a note
+
+00:57:04.400 --> 00:57:12.440
+ because we were cracking the fuck up at the time new from Panera bread this is soup and
+
+00:57:12.440 --> 00:57:19.440
+ buns with bungalows or weird little tiny cabins or shallays like I don't know what
+
+00:57:19.440 --> 00:57:26.320
+ the where so that looks like a certain city super booth yeah or like a like a like a
+
+00:57:26.320 --> 00:57:34.880
+ park vibe what else can I really so I think it's probably unanimous amongst this which
+
+00:57:34.880 --> 00:57:40.280
+ which announced and stole the show I don't even have a joke I was going to do a bait and
+
+00:57:40.280 --> 00:57:47.720
+ switch here but like not the the Erica since Perkins HD one right yeah that only thing
+
+00:57:47.720 --> 00:57:54.120
+ that I could remember actually I have it at the top here and it basically there's no note
+
+00:57:54.120 --> 00:58:00.000
+ be beside it because it is like the very obvious the biggest thing yeah like everything else
+
+00:58:00.000 --> 00:58:04.400
+ I had to like take notes for because I might not remember and I took some news for because
+
+00:58:04.400 --> 00:58:10.040
+ there's a lot to say about it it was definitely on the socials the most like people who went
+
+00:58:10.040 --> 00:58:15.560
+ there and like famously people it was always the thing they pointed out hmm everyone had
+
+00:58:15.560 --> 00:58:20.520
+ to have a go with the Perkins I'm probably saying that completely wrong but I feel like
+
+00:58:20.520 --> 00:58:24.960
+ I heard someone say Perkins or Perkins I'm just gonna refer to it as like Perkins like
+
+00:58:24.960 --> 00:58:32.440
+ the restaurant oh or like Perkins like the from Star Wars yeah yeah yeah yeah yeah yeah
+
+00:58:32.440 --> 00:58:38.240
+ those pork ins that was yeah I'm gonna think about the restaurant makes me think a secret
+
+00:58:38.240 --> 00:58:45.240
+ in gravy pork pork ins as a Perkins that was a that is a missed cross promotional
+
+00:58:45.240 --> 00:58:51.480
+ opportunity wow well we'll hit up the Perkins and Lucas arts after that's a new Star Wars
+
+00:58:51.480 --> 00:59:02.640
+ scramble Perkins stay on target to your stomach but you know get the fuck out yeah that was
+
+00:59:02.640 --> 00:59:10.280
+ nice thing about being the editor I can just take that out I thought you dare yeah that's
+
+00:59:10.280 --> 00:59:14.680
+ the quality nerd shit people have grown to love and expect it's right it's right it's
+
+00:59:14.680 --> 00:59:20.920
+ right here this makes dumpster up this but however you pronounce it I believe I saw in
+
+00:59:20.920 --> 00:59:28.520
+ the notes that it's Baltic for thunder oh oh yeah yeah thunder kind of theme so Eric since
+
+00:59:28.520 --> 00:59:37.120
+ bringing the thunder oh so every sound demo I heard mmm fucking killed I loved every like
+
+00:59:37.120 --> 00:59:45.480
+ I was that sounds amazing mmm real oh okay you what didn't you like the Heinbach one the
+
+00:59:45.480 --> 00:59:51.880
+ Heinbach one didn't really do it for me that was the first one that came out and I was
+
+00:59:51.880 --> 00:59:55.400
+ like super excited to see this thing in action and I watched that and I was just like kind
+
+00:59:55.400 --> 01:00:00.840
+ of like the codec one the blush response one great blush was great I was a few random
+
+01:00:00.840 --> 01:00:04.600
+ ones from just random people that were actually pretty good you know just fit my brain filtered
+
+01:00:04.600 --> 01:00:07.960
+ out some of the bad ones because the ones that I really enjoyed were like I was bad but
+
+01:00:07.960 --> 01:00:11.920
+ it wasn't the first one that I wanted to hear you know I mean like I'm not a huge fan
+
+01:00:11.920 --> 01:00:15.880
+ of like his production to start with sure and I feel like this machine belongs in hands
+
+01:00:15.880 --> 01:00:20.120
+ of someone a little more aggressive yeah you know I mean and he was I kind of go and gentle
+
+01:00:20.120 --> 01:00:25.120
+ with it and made like kind of a boring repetitive patch honestly I think I'm completely
+
+01:00:25.120 --> 01:00:29.040
+ forgot about it yeah I was really focusing on the ones that I really enjoyed which were
+
+01:00:29.040 --> 01:00:35.240
+ more recent and some of them were from super booth mm-hmm and that's yeah and I was so
+
+01:00:35.240 --> 01:00:42.200
+ there's a lot it seems there's a lot of limitations and I think there is the sort of 800 pound
+
+01:00:42.200 --> 01:00:47.800
+ elephant in the room of it being astronomically expensive how much was it again it's too grand
+
+01:00:47.800 --> 01:00:56.680
+ that's not that's the projection right and for what is on it I agree it seemed and but
+
+01:00:56.680 --> 01:00:59.520
+ we talked about the we sort of talk about this offline and I think we bring it up now
+
+01:00:59.520 --> 01:01:04.480
+ is like yes all of all of those things are true but generally things are more expensive
+
+01:01:04.480 --> 01:01:09.520
+ right now and inflation is happening and part scarcity and all of these things and it's
+
+01:01:09.520 --> 01:01:14.360
+ probably not going to be mass produced in a way that you know like they're gonna have
+
+01:01:14.360 --> 01:01:18.040
+ to make a profit on each of these ones and it's gonna probably take a long time to make
+
+01:01:18.040 --> 01:01:24.680
+ like I'm not trying to justify boutique pricing but that I'm wondering how much of it is not
+
+01:01:24.680 --> 01:01:28.280
+ boutique pricing and simply this is just how much it's gonna cost and if we want to keep
+
+01:01:28.280 --> 01:01:32.920
+ doing this they're gonna have to charge that I kind of yeah I take back what I said I think
+
+01:01:32.920 --> 01:01:37.800
+ after I thought about it a little the lack of bio lack of CV the fact that it's totally
+
+01:01:37.800 --> 01:01:43.360
+ digital is it just like a chip in there with some outputs filters or analogs oh the filters
+
+01:01:43.360 --> 01:01:48.760
+ are in the master effects like I think that's a I think it's an analog BBD chip I could
+
+01:01:48.760 --> 01:01:55.320
+ be wrong here I know the compressor in the saturation circuit I think our analog I think
+
+01:01:55.320 --> 01:02:02.200
+ if I remember right now I take my but the drum voices are definitely digitally I yeah
+
+01:02:02.200 --> 01:02:06.320
+ I remember I had a lot of sticker shock to when I first read that for what it is you know
+
+01:02:06.320 --> 01:02:12.840
+ I mean but I wasn't surprised because as much as I like I recastened stuff I feel like
+
+01:02:12.840 --> 01:02:17.600
+ the prices have been a little high lately especially when it comes with their standalone
+
+01:02:17.600 --> 01:02:25.000
+ type devices centrix is my number one go to to reflect that like I don't think that thing
+
+01:02:25.000 --> 01:02:30.600
+ is a machine that is worth near four thousand dollars oh you don't understand pricing at all
+
+01:02:30.600 --> 01:02:36.120
+ I do gather it's the custom case it's something that all the R&D they put into the pin shit
+
+01:02:36.120 --> 01:02:41.220
+ so this kind of falls in line there with like the the higher pricing of you know their
+
+01:02:41.220 --> 01:02:50.600
+ standalone devices if this machine was semi modular I would be able to shake some of that
+
+01:02:50.600 --> 01:02:55.840
+ sticker show yeah you know but it has not right which is strange because Erica since I think
+
+01:02:55.840 --> 01:03:03.480
+ is primarily known for being a modular manufacturer overall I feel like it just came out of left
+
+01:03:03.480 --> 01:03:09.120
+ field you know what I mean like I don't think anyone was expecting a big hunk and drum machine
+
+01:03:09.120 --> 01:03:15.360
+ like that to be announced sampling it all playback samples no sampling another minus
+
+01:03:15.360 --> 01:03:21.980
+ you're trying to yeah yeah at least to me like I was like we were talking about offline I
+
+01:03:21.980 --> 01:03:28.940
+ feel like I feel like this machine kind of like how you were saying like you know after
+
+01:03:28.940 --> 01:03:32.900
+ two years quarantine people were coming up with ideas one of the things that was blowing
+
+01:03:32.900 --> 01:03:42.140
+ up over the last two years was the Pulsar 23 by Soma yeah and I feel like this was probably
+
+01:03:42.140 --> 01:03:49.420
+ conceived shortly after Erica witnessed the success of the Pulsar and thought okay how
+
+01:03:49.420 --> 01:03:55.020
+ can we tap into this market clearly there's a lot of demand for this type of machine and
+
+01:03:55.020 --> 01:04:00.100
+ they spent the last two years of quarantine coming up with their own contender to throw
+
+01:04:00.100 --> 01:04:06.820
+ in the ring and like even though it's clearly a very different machine than the Pulsar I
+
+01:04:06.820 --> 01:04:13.820
+ think there's a lot of fucking similarities that I would I made notes to point out here
+
+01:04:13.820 --> 01:04:21.220
+ some of them being both machines have four voices only both machines are big metal hands-on
+
+01:04:21.220 --> 01:04:30.660
+ devices they are both totally menu less they both feature an onboard BBD slash delay circuit
+
+01:04:30.660 --> 01:04:37.260
+ and an onboard distortion slash like compression circuit and they both have a very like aggressive
+
+01:04:37.260 --> 01:04:45.740
+ hard industrial vibe and they both cost roughly around two grand so it seems like it's made
+
+01:04:45.740 --> 01:04:55.340
+ to compete with it you know I mean yeah whereas like where they defer is the Pulsar has like
+
+01:04:55.340 --> 01:05:03.580
+ limitless modulation you know like anything can be hit with CV or MIDI or a body contact
+
+01:05:03.580 --> 01:05:12.300
+ or recorded on the sequencer you know like memory recording of parameters like it's so
+
+01:05:12.300 --> 01:05:16.940
+ much modulation possibilities on the Pulsar that I found it very overwhelming you know
+
+01:05:16.940 --> 01:05:22.700
+ I mean like it's limitless whereas looked like Erica kind of was like okay that's where we're
+
+01:05:22.700 --> 01:05:28.260
+ going to stand out and be different we're not going to have that much you know ability
+
+01:05:28.260 --> 01:05:34.540
+ to modulate everything we're not going to have any CV at all things can be I think hit
+
+01:05:34.540 --> 01:05:41.140
+ with MIDI it said it has vast MIDI capabilities but as far as modulation goes it seems to
+
+01:05:41.140 --> 01:05:47.220
+ be strictly only parameter recording on the sequencer or it has an LFO which it says in
+
+01:05:47.220 --> 01:05:53.660
+ description can be mapped to everything but even still like I believe it's a single LFO
+
+01:05:53.660 --> 01:06:00.660
+ oh wow oh holy shit I think it's hard to tell looking at it it's not even like a LFO per
+
+01:06:00.660 --> 01:06:09.180
+ channel no oh that's the so in the early prototype leaks there was pictures showing a joystick
+
+01:06:09.180 --> 01:06:14.700
+ on the right hand corner which in my opinion would have been an awesome addition but that's
+
+01:06:14.700 --> 01:06:22.300
+ been replaced with like the modulation speed wheel now for the I take it the LFO so yeah
+
+01:06:22.300 --> 01:06:29.220
+ the modulation capability seemed pretty limited and I don't know why they couldn't do both
+
+01:06:29.220 --> 01:06:34.820
+ have the joystick and the modulation I think that would have been really cool you know I
+
+01:06:34.820 --> 01:06:39.580
+ mean it was a nice looking joystick right off of like the Cintrex device but maybe it
+
+01:06:39.580 --> 01:06:45.180
+ keeps cost down they've removed it I don't know but so but I mean sonically like did
+
+01:06:45.180 --> 01:06:50.420
+ you think it was a capable machine yes cuz that's the thing I kept coming back to was
+
+01:06:50.420 --> 01:06:55.460
+ like everything you said everything yeah I'm 100% agree but there was a part of the kept
+
+01:06:55.460 --> 01:06:59.940
+ coming back and going like damn but it sounds good like I'd like the way that it sounded
+
+01:06:59.940 --> 01:07:05.620
+ yeah it sounds good but I think I think it would be risky for me because I think I would
+
+01:07:05.620 --> 01:07:09.220
+ get bored with him like that was one of the things that was cool about the Paul Sores like
+
+01:07:09.220 --> 01:07:14.380
+ yes there's only four voices they sound cool on their own but you can do a lot of interesting
+
+01:07:14.380 --> 01:07:20.980
+ sound design with the Paul Sore with this you're lacking a lot of sound design functionality
+
+01:07:20.980 --> 01:07:26.380
+ yes there's a couple on board effects and yes each channel does have its own send return
+
+01:07:26.380 --> 01:07:32.460
+ individual out for routing it through external effects which is cool it is cool but you're
+
+01:07:32.460 --> 01:07:36.220
+ still gonna be very limited with like what you can do with just four voices you know and
+
+01:07:36.220 --> 01:07:45.540
+ how you shape that and I don't see any information anywhere explaining what these voices can do
+
+01:07:45.540 --> 01:07:50.900
+ it says there's three modes for each voice like that's it's kind of cool that each voice
+
+01:07:50.900 --> 01:07:55.140
+ isn't locked into a certain you don't have a BD you know the snare exactly yeah yeah so
+
+01:07:55.140 --> 01:08:00.580
+ that's cool but like what are these three modes I don't fucking know it might only be
+
+01:08:00.580 --> 01:08:06.180
+ kick mode snare mode hat mode right yeah I mean so you're working within three variations
+
+01:08:06.180 --> 01:08:13.580
+ of that or are each of these engine modes like a whole plethora of choices that you can
+
+01:08:13.580 --> 01:08:19.020
+ shape through like each one had a tables or samples or whatever you know or if each one
+
+01:08:19.020 --> 01:08:23.700
+ had different sets of three like this one actually some like you know like they're not
+
+01:08:23.700 --> 01:08:31.860
+ three different hat modes yeah something like that yeah so it's really unclear and it seems
+
+01:08:31.860 --> 01:08:39.220
+ possibly a little too limited for my taste that's fair especially for the price yeah yeah
+
+01:08:39.220 --> 01:08:44.060
+ we'll see I don't know I'm I definitely have my eye on it I'm curious about it I want to
+
+01:08:44.060 --> 01:08:51.460
+ see more demos of it the machine itself looks fucking gorgeous you know yeah yeah and the
+
+01:08:51.460 --> 01:08:56.500
+ fact that there's no menu like that's really appealing to me yeah like a parameter locks
+
+01:08:56.500 --> 01:09:01.220
+ and other stuff in there without that it's pretty cool yeah I that's one thing I hate about
+
+01:09:01.220 --> 01:09:06.900
+ drum machines is having a menu dive into things you know I mean yeah yeah even the the
+
+01:09:06.900 --> 01:09:13.620
+ Roland's like I kind of like the TR8 more than the TR8s agreed because the TR8s is so
+
+01:09:13.620 --> 01:09:19.700
+ dependent on jumping through that tiny shitty little menu yeah I mean whereas like the TR8
+
+01:09:19.700 --> 01:09:25.700
+ kind of lacked that you could just jump in make a rhythm you know yeah so those seem
+
+01:09:25.700 --> 01:09:34.180
+ really good hands-on quick to you know break out a beat on but I don't know like the longevity
+
+01:09:34.180 --> 01:09:39.780
+ of it you know I mean like what I get sick of that sound quickly is the right right right
+
+01:09:39.780 --> 01:09:44.020
+ and can you deviate from that really aggressive sound that it has like you know are you going
+
+01:09:44.020 --> 01:09:47.940
+ to be making IDM stuff on this are you going to be making techno on this are you just going
+
+01:09:47.940 --> 01:09:52.580
+ to be making like industrial like seems like you might be kind of locked into a specific
+
+01:09:52.580 --> 01:09:58.020
+ sound with it right right hard to break out of which might be what they wanted you know
+
+01:09:58.020 --> 01:10:04.100
+ just something that was aiming at a very specific target and yeah I mean even the list
+
+01:10:04.100 --> 01:10:09.940
+ of people that we just referenced for demoing it true but if you listen to any of those demos
+
+01:10:09.940 --> 01:10:15.300
+ blindfolded would you have been able to tell probably not anyone's you know demoed with
+
+01:10:15.300 --> 01:10:19.220
+ that I was talking that up to like this being a relatively new machine that you know I don't
+
+01:10:19.220 --> 01:10:23.060
+ know how long they had to spend with it before they were doing these demos but you're right
+
+01:10:23.060 --> 01:10:28.020
+ if it ends up being like the next round of demos all still sound the same it might just be that's
+
+01:10:28.020 --> 01:10:31.300
+ what it sounds like great that was kind of the just I was getting like the only one that was
+
+01:10:31.300 --> 01:10:35.540
+ different was the Heimbach one which I didn't like but at the same time I still was like okay at least
+
+01:10:35.540 --> 01:10:40.820
+ that demo stood out a little bit I can remember that showed you something rain yeah more so than
+
+01:10:40.820 --> 01:10:44.900
+ all that rest of them because they all had a very similar vibe and everyone was just making like
+
+01:10:44.900 --> 01:10:51.700
+ you know basically four to the floor industrial techno on it which sounded very close to the
+
+01:10:51.700 --> 01:10:58.980
+ next demo of it yeah so I don't know I still go back to I like that sound oh yeah there was a
+
+01:10:58.980 --> 01:11:02.820
+ part of me I was like oh sounds really good but yeah you're right as far as like paying that much
+
+01:11:02.820 --> 01:11:07.700
+ money to sound like everyone else who has one that's not exciting yeah because it's at the point
+
+01:11:07.700 --> 01:11:12.420
+ where you could buy another sequence or in some draw modules and maybe have a lot more flexibility
+
+01:11:12.420 --> 01:11:19.060
+ not pay as much or maybe equivalent that's hard choice right yeah and on the opposite side of
+
+01:11:19.060 --> 01:11:24.180
+ the spectrum for that same amount of money you get the Paulsar yeah which every demo of the Paulsar
+
+01:11:24.180 --> 01:11:31.860
+ sounds nothing like if they're using the machine you know in a capable way and they're utilizing
+
+01:11:31.860 --> 01:11:37.620
+ the CV and things like that like you know that is a highly versatile four voice the machine you know
+
+01:11:37.620 --> 01:11:45.620
+ yeah so I don't know I'm curious to see when this is actually going to come out I think it's supposed
+
+01:11:45.620 --> 01:11:49.860
+ to come out before the end of the year right if I recall that's what that's what I remember I
+
+01:11:49.860 --> 01:11:54.500
+ remember them saying something about that but like I don't know how much that can be trusted at this
+
+01:11:54.500 --> 01:12:01.940
+ point and all of the supply issues so yeah I mean for that type of money it's like I think I'll
+
+01:12:01.940 --> 01:12:05.940
+ stick with my machine drum from now you know what I mean yeah but it would be nice to have something
+
+01:12:06.820 --> 01:12:11.460
+ next to my machine drum that adds a little bit of a different approach yeah but this is not a
+
+01:12:11.460 --> 01:12:18.020
+ casual purchase exactly yeah like so it's I'm definitely gonna wait and see you know for more
+
+01:12:18.020 --> 01:12:23.380
+ demos and see if I like them but I'm definitely gonna be keeping my eye on it I think you're
+
+01:12:23.380 --> 01:12:28.420
+ you're seemed kind of sold immediately so you think you're gonna be pre-ordering or I don't know
+
+01:12:28.420 --> 01:12:33.540
+ what a pre-order yeah because that's a lot of money right that's really the only thing I'm
+
+01:12:33.540 --> 01:12:41.060
+ bulking at is like can I justify that cost for what I'm gonna get out of it and right now it
+
+01:12:41.060 --> 01:12:47.140
+ seems like the answer is yes but actually yeah I mean I don't I don't know if I'm ready to pre-order
+
+01:12:47.140 --> 01:12:51.940
+ anything right now but I don't know if I'm then going to become oh crap I want this and now it's
+
+01:12:51.940 --> 01:12:56.580
+ impossible to get yeah there's definitely that risk I think but that's not a great reason to do
+
+01:12:56.580 --> 01:13:01.060
+ something I'm not a fear of missing out I mean the policy was like that and that was before part
+
+01:13:01.060 --> 01:13:06.340
+ shortage right I mean like it took months and months to be I was like always interested in the
+
+01:13:06.340 --> 01:13:11.300
+ Paulsar but I was more like oh that'd be cool if someone I had one like that was my level of
+
+01:13:11.300 --> 01:13:16.820
+ interest where this I was like this seemed really just resonated with you yeah yeah it really hit me
+
+01:13:16.820 --> 01:13:20.980
+ like I can get a lot of use out of this especially if you have lots of processing that you can
+
+01:13:20.980 --> 01:13:25.300
+ route through those and that could be it but it all depends on how does it sound you know yeah
+
+01:13:25.940 --> 01:13:32.340
+ like like you said was it gonna last in the long run so our manual for it yet and see one
+
+01:13:32.340 --> 01:13:37.780
+ I see one either on the website was pretty fucking vague about stuff um they're pretty good with
+
+01:13:37.780 --> 01:13:44.660
+ manuals I mean they've they've had manuals out before modules came out so um maybe as it is it gets
+
+01:13:44.660 --> 01:13:50.100
+ closer and they nail down what everything does I'm extra curious about the sequencer I'm wondering
+
+01:13:50.100 --> 01:13:55.540
+ if like there's a mode because it's four lanes you know I mean I'm wondering if you can have all
+
+01:13:55.540 --> 01:14:00.740
+ four lanes while you're editing a voice be dedicated to that voice for that moment so you have like
+
+01:14:00.740 --> 01:14:06.340
+ 64 steps at your disposal you know instead of like 16 that would be nice yeah then you hit a button
+
+01:14:06.340 --> 01:14:09.700
+ and then you're on the next voice and you have 64 step you know I mean like yeah let me curious
+
+01:14:09.700 --> 01:14:15.780
+ if they're doing anything like that um especially having 64 steps all right there in front of you
+
+01:14:15.780 --> 01:14:19.620
+ that's what I'm saying that would be really nice like I don't even know if that's possible I don't
+
+01:14:19.620 --> 01:14:25.380
+ know if it's you know you only get the four lanes and each lane is dedicated to each voice that
+
+01:14:25.380 --> 01:14:30.180
+ you know at a time or well maybe it wasn't possible but you just put them idea in their head and
+
+01:14:30.180 --> 01:14:35.940
+ food for thawl yeah that's the great feature I I would like to see that for sure that would be
+
+01:14:35.940 --> 01:14:40.500
+ awesome yeah the sequencer layout and the keys on it reminds me very much of their drum sequencer
+
+01:14:40.500 --> 01:14:46.020
+ module yeah I'm hoping there's a lot of functionality from that module in this thing and it seems like
+
+01:14:46.020 --> 01:14:51.300
+ there is it looks like there's like some looks like you can do some time fuckery and some ratcheting
+
+01:14:51.300 --> 01:14:56.820
+ and things of that nature probably probability if I recall there's in there so yeah I think so
+
+01:14:56.820 --> 01:15:02.420
+ since it seemed like a pretty powerful sequencer just it would just be extra nice to be able to
+
+01:15:02.420 --> 01:15:06.180
+ have 64 steps you're supposed to at a time you absolutely agree yeah um
+
+01:15:06.180 --> 01:15:12.740
+ because they're they're already there you know what I mean it's I mean what the what you just
+
+01:15:12.740 --> 01:15:18.900
+ described makes sense so hopefully they're listening and or already did it but yeah a lot
+
+01:15:18.900 --> 01:15:24.820
+ a lot of questions how does the compressor sound how does the bbd sound how tight can it go
+
+01:15:24.820 --> 01:15:30.820
+ right into getting the car plus strong type territory how long can it go you know who knows
+
+01:15:30.820 --> 01:15:38.740
+ questions questions questions that need answers it's still the show yeah super booth but yeah
+
+01:15:39.300 --> 01:15:50.020
+ little steal our hearts um so yeah I agree I think that was the
+
+01:15:50.020 --> 01:15:56.980
+ I hadn't told above everything else uh well what else was that super booth godfather
+
+01:15:56.980 --> 01:16:04.020
+ that caught my attention but enjoy electronics it is yes Nathan godfather also caught my eye
+
+01:16:04.020 --> 01:16:08.820
+ great video yeah as I said before we even get into what it is let we have to give
+
+01:16:09.380 --> 01:16:16.980
+ mention to that video yeah that was stellar probably the best module uh slash gear
+
+01:16:16.980 --> 01:16:23.700
+ demo video I've ever seen I don't know how well not demo video but like an ounce or it was a teaser
+
+01:16:23.700 --> 01:16:27.860
+ it was a teaser I'm trying to think of what even the second best one was I would say my
+
+01:16:27.860 --> 01:16:34.820
+ second favorite probably the old school um electron ones with um Hector Hector oh yeah those
+
+01:16:34.820 --> 01:16:42.740
+ those were cool yeah I like those um I'm this Hector but but this I mean you want to
+
+01:16:42.740 --> 01:16:46.660
+ describe what happens in it I mean it's just like a playoff the godfather you know I mean
+
+01:16:46.660 --> 01:16:52.900
+ there's some shady looking Italian gentlemen and fine dress suits in a gorgeous car yeah which
+
+01:16:52.900 --> 01:16:56.980
+ I forget the name of uh john luke did tell me what the hell that thing was called the
+
+01:16:56.980 --> 01:17:04.020
+ not forget it was a Fiat something it's a classic car classic Fiat but yeah pristine
+
+01:17:04.020 --> 01:17:09.620
+ conditional black very nice looking uh john luke made sure to tell me that uh I should never
+
+01:17:09.620 --> 01:17:15.700
+ consider even trying to get in one he said I'm way too tall he was like you'd be sticking out the
+
+01:17:15.700 --> 01:17:21.620
+ roof I was like oh okay um yeah pretty pretty cool little car and they're just you know walking
+
+01:17:21.620 --> 01:17:26.740
+ around with a briefcase you know it's looking like some mobster type shit and then they go to
+
+01:17:26.740 --> 01:17:32.820
+ a capo of some sort uh you know a crime boss looking dude sitting at a table and they pop open
+
+01:17:32.820 --> 01:17:38.580
+ the briefcase and there is the godfather effects processing unit and uh it's just well done you
+
+01:17:38.580 --> 01:17:45.940
+ know it's cute yeah um I like to see you know a little bit of imagination like that with a product
+
+01:17:45.940 --> 01:17:51.140
+ announcement you know yeah yeah definitely I totally agreed and like once I saw the demos of
+
+01:17:51.140 --> 01:17:56.820
+ it later I was like oh shit that's that one like it did do a good job of sort of like putting
+
+01:17:56.820 --> 01:18:02.260
+ it to forefront of my of my brain sure I would agree with that so what does it I actually don't
+
+01:18:02.260 --> 01:18:06.740
+ know at all what it does because while I saw the teaser I didn't look at it beyond that
+
+01:18:06.740 --> 01:18:15.140
+ enlightenment so it is a four channel uh processor audio processor um the left side is uh saturation
+
+01:18:15.140 --> 01:18:21.220
+ double pulse delay reverb filter and the right side is reverb delay
+
+01:18:21.220 --> 01:18:28.260
+ uh LFO and compressor uh and it looks like there's some sort of routing between all of these
+
+01:18:28.260 --> 01:18:33.860
+ different channels double pulse delay like a gate delay I think it's I think it's kind of like a
+
+01:18:33.860 --> 01:18:40.100
+ more evolved delay circuit of what is featured on their reminder oh okay okay I could do some
+
+01:18:40.100 --> 01:18:47.700
+ crazy shit um I'm willing to bet that it there's not too much spillover like you know I mean I
+
+01:18:47.700 --> 01:18:54.100
+ don't realize that was the same same company yet okay that was their first big hit um and now
+
+01:18:54.100 --> 01:18:59.220
+ they're following up with this you almost got a reminder I had one for a while um and I liked it
+
+01:18:59.220 --> 01:19:05.460
+ um but I just didn't have this space you know I mean like for outboard processing at that time
+
+01:19:05.460 --> 01:19:10.500
+ I'm kind of now that I have more space because I have a new house I'm considering going like you
+
+01:19:10.500 --> 01:19:15.540
+ know a little bit more of the outboard processing again so this definitely caught my eye as well
+
+01:19:15.540 --> 01:19:20.580
+ you know so far I'm like okay that could be cool could definitely route like the machine
+
+01:19:20.580 --> 01:19:25.380
+ drum through this you know I mean things like that is the same size yeah yeah looks like kind of
+
+01:19:25.380 --> 01:19:31.300
+ like a similar form factors and it sounded good like all the demos that they were they were showing
+
+01:19:31.300 --> 01:19:35.620
+ uh in versatile they there's a couple of different influencers and youtubers coming up and like
+
+01:19:35.620 --> 01:19:41.220
+ asking for demos um and it's telling there was a for like a real variety of different uh stuff
+
+01:19:41.220 --> 01:19:46.900
+ it could do yeah I I hope it's less menu divey that was one thing I didn't like about reminder like
+
+01:19:46.900 --> 01:19:53.460
+ it was very versatile too um like it had like some hidden features like on board reverbs and
+
+01:19:53.460 --> 01:19:58.900
+ things like that and you could change different things within there there's a little like I don't
+
+01:19:58.900 --> 01:20:02.100
+ want to say it was super menu divey but like there was a lot of functionality that was like
+
+01:20:02.100 --> 01:20:06.980
+ you couldn't just twist the knob and get it you know I mean like when it did seem like godfather
+
+01:20:06.980 --> 01:20:12.660
+ did have a screen and had a lot of stuff yeah yeah and and I didn't I didn't obviously catch
+
+01:20:12.660 --> 01:20:16.740
+ everything it did it just seemed like it had a lot of different modes there's a lot of different
+
+01:20:16.740 --> 01:20:21.460
+ things that you were doing on the screen um so I don't know if that's something to be a little
+
+01:20:21.460 --> 01:20:24.980
+ concerned about there's a lot more knobs than on the reminder that's for sure oh that's good
+
+01:20:24.980 --> 01:20:30.500
+ I'm glancing at it now there's at least there's like 30 some knobs on this that's a lot more
+
+01:20:30.500 --> 01:20:36.980
+ surface buttons and knobs right right so you're not doing everything from a parameter value knob
+
+01:20:36.980 --> 01:20:47.860
+ combination yeah it's uh apparently 60 hp and can be racked if you want it to be so I guess they
+
+01:20:47.860 --> 01:20:53.780
+ built this with modular in mind which is kind of cool um they actually had it in one of those
+
+01:20:53.780 --> 01:21:01.300
+ three tier mooks synths stands for the demos hmm was there ever a price mentioned I'm looking
+
+01:21:01.300 --> 01:21:06.740
+ for that now I am a possible release date but I didn't I kept looking for the price and I couldn't
+
+01:21:06.740 --> 01:21:10.820
+ find it anywhere I'm looking at this article and even the person who wrote this article says I didn't
+
+01:21:10.820 --> 01:21:16.820
+ catch a price but they are going to be open for pre-orders in a couple months so I guess this is
+
+01:21:16.820 --> 01:21:22.900
+ a 2022 release I don't think this is something that's going to be out tomorrow um was the reminder
+
+01:21:22.900 --> 01:21:29.220
+ your rack or was that destiny okay it was pure desktop and it was pretty long if I recall um I
+
+01:21:29.220 --> 01:21:34.260
+ think that would have been longer than like your standard rack but it was a nice box you know yeah
+
+01:21:34.260 --> 01:21:40.020
+ it's great I wanted one just halfway because the box because it looked nice to use and I figured
+
+01:21:40.020 --> 01:21:44.900
+ if they were gonna bother with something like that it would be worth it yeah I'm glad to see them
+
+01:21:44.900 --> 01:21:52.180
+ you know coming out with more stuff because like the reminder was pretty successful from you know
+
+01:21:52.180 --> 01:21:57.380
+ what I gathered looking at like the Kickstarter and stuff you know I mean like um so that was a
+
+01:21:57.380 --> 01:22:03.300
+ while ago yeah it took them a while to roll them out to something like that like the reminder I
+
+01:22:03.300 --> 01:22:09.060
+ think was like around four or five hundred bucks yeah I would bet something like this is probably like
+
+01:22:09.060 --> 01:22:16.260
+ $6.99 that's what I was just guessing like $600 something yeah it feels like I'm shifting a lot
+
+01:22:16.260 --> 01:22:22.260
+ of my processing back in the box lately like from audio wise like I use the effects aids and I don't
+
+01:22:22.260 --> 01:22:27.940
+ count like beads or some other stuff like that but um just like the standards I would spin using
+
+01:22:27.940 --> 01:22:32.900
+ the shit out of my UAD stuff and eat Apollo too because it's sometimes I forget it's there and
+
+01:22:32.900 --> 01:22:37.060
+ then I realized that it sounds fucking great I don't need much CV control and the recall is kind
+
+01:22:37.060 --> 01:22:44.020
+ of worth it but yeah just been shifting that way a little more funny considering like we were all
+
+01:22:44.020 --> 01:22:50.020
+ hyped on stereo for a minute or at least I was but no I'm not so much anymore no yeah I still kind of
+
+01:22:50.020 --> 01:22:57.300
+ am um doesn't surprise me yeah I don't know why exactly because it makes everything more of a pain
+
+01:22:57.300 --> 01:23:04.980
+ in each other but um it's useful sometimes yeah I mean obviously I just I don't know I like to do
+
+01:23:04.980 --> 01:23:12.900
+ a lot with space you know yeah I feel like you know you achieve that with weird stereo field
+
+01:23:12.900 --> 01:23:16.980
+ shit you know I mean like no matter how much you pan a mono signal it's still going to be a mono
+
+01:23:16.980 --> 01:23:22.660
+ signal you know I mean it's like I don't know it's hard to create it's hard to make sounds
+
+01:23:22.660 --> 01:23:28.740
+ wrap around your fucking face yeah yeah yeah yeah I'm on but oh absolutely yeah you need something
+
+01:23:28.740 --> 01:23:36.180
+ or at least we do but yeah the effects aids I still use and modulate the show but I still have
+
+01:23:36.180 --> 01:23:41.460
+ yet to get one and I need to that so below is my fucking line yeah considering how much I can do
+
+01:23:41.460 --> 01:23:46.340
+ like even if I don't like I don't need reverb in this I can use something else there's been
+
+01:23:46.340 --> 01:23:51.700
+ some specific type of effects I wished I had in modulate lately and I would like dig around
+
+01:23:51.700 --> 01:23:59.220
+ on modular grid trying to find it and oh only one thing pops up yeah okay it's like yeah yeah
+
+01:23:59.220 --> 01:24:04.660
+ anything you can dream up generally he'll probably build in the things it's worth it absolutely so
+
+01:24:04.660 --> 01:24:13.620
+ wait super birth that so that was sorry I have um and a couple other things on my list um one was
+
+01:24:13.620 --> 01:24:19.940
+ ritual electronics they have a bunch of new things um I I think I just like them there's just
+
+01:24:19.940 --> 01:24:25.220
+ something about like I think I totally miss this like the stuff that like new one you stuff yeah
+
+01:24:25.220 --> 01:24:28.660
+ new one you stuff and um I think I don't know I just generally feel like I'm like on the same
+
+01:24:28.660 --> 01:24:35.700
+ page with them like they're the only like outwardly a cab manufacturer yes yes so they've got that
+
+01:24:35.700 --> 01:24:41.620
+ going for exactly those are pretty fucking great absolutely and everything is like and listen to
+
+01:24:41.620 --> 01:24:45.940
+ how noisy this is and like it's the noise that I like and I'm just like oh man I kind of want
+
+01:24:45.940 --> 01:24:50.260
+ to hang out with you guys yeah um so I might be standing for them a little bit um just because
+
+01:24:50.260 --> 01:24:54.900
+ I I must be drawn like I don't remember what these guys make like french dudes they make the
+
+01:24:54.900 --> 01:25:00.580
+ meosma they make their this shit's always black with like gold accents they make that meosma
+
+01:25:00.580 --> 01:25:05.620
+ distortion yeah we have the one you guillotine modules I think we talked about this yeah we did
+
+01:25:05.620 --> 01:25:11.380
+ talk about guillotine and they make a couple of like pedal interfaces yeah um and they also make
+
+01:25:11.380 --> 01:25:17.860
+ things that they announced at super booth what do we got such as um they have something that's
+
+01:25:17.860 --> 01:25:24.340
+ just um a little um one you noise generator for pink white and his which is a high pass on white
+
+01:25:24.340 --> 01:25:29.700
+ and rumble which is a little pass on pink outputs and it's probably the least interesting thing
+
+01:25:29.700 --> 01:25:34.100
+ that they're making but like I'll probably end up grabbing one because it's a tiny little noise
+
+01:25:34.100 --> 01:25:39.540
+ generator um but what is interesting is the I'm going to butcher this fucking name the ruse
+
+01:25:39.540 --> 01:25:44.580
+ cell mall oh yeah it's like it's not a french to me oh it's french shit you sold me on it
+
+01:25:44.580 --> 01:25:53.460
+ Trebiel um it is an eight it is an eight stage shift register uh it has two uh eight gates and two
+
+01:25:53.460 --> 01:26:01.220
+ cv and it's generated from one gate signal and then another input um like whatever like whatever
+
+01:26:01.220 --> 01:26:05.380
+ you want to send to it and this is where things get a little rough because my notes um
+
+01:26:05.380 --> 01:26:13.300
+ a they got chewed by a cat and you'll see um yes and first off they're trying to make they
+
+01:26:13.300 --> 01:26:19.700
+ are working to make it compatible with the um Turing machine expansions oh like pulses and yeah
+
+01:26:19.700 --> 01:26:25.540
+ all of those um there's a reset input and what's interesting is it there's an uh
+
+01:26:26.580 --> 01:26:34.260
+ xor input adds random to it which I think is an interesting twist and that's a one new module
+
+01:26:34.260 --> 01:26:40.260
+ okay yeah they're obviously fired up for making things in one new so um and then the other one is
+
+01:26:40.260 --> 01:26:46.820
+ um Greg this might be up here Ali because you like a good comparator shoot uh this is called
+
+01:26:46.820 --> 01:26:54.580
+ reprosial this is probably like offensive level of like bad french like I'm I apologize to any
+
+01:26:54.580 --> 01:27:01.140
+ of our French listeners um so it's a comparator with um threshold and it has gates triggered and
+
+01:27:01.140 --> 01:27:08.020
+ bipolar out depending on the input level and the threshold itself is cvable I like that yeah and
+
+01:27:08.020 --> 01:27:15.620
+ as a one you one you yeah I still don't have any one you compatible racks but I'm going to soon
+
+01:27:15.620 --> 01:27:21.380
+ because there's a company that's making something pretty slick and I forgot to put notes so maybe
+
+01:27:21.380 --> 01:27:30.180
+ next time um but yeah there's something I'm tracking now on mod wigglers um these guys are making
+
+01:27:30.180 --> 01:27:37.460
+ racks that are intelligible you know compatible racks that fit in through you and that layers
+
+01:27:37.460 --> 01:27:45.780
+ them up so you can oh shit you can have a row of three one you yes but they do do they do the power
+
+01:27:45.780 --> 01:27:52.660
+ because I've seen these they have something that is a solution for it I believe that's awesome um
+
+01:27:52.660 --> 01:27:59.140
+ yeah so I don't know how it fully works yet but I'm paying attention I didn't pay too much
+
+01:27:59.140 --> 01:28:03.300
+ attention to it just yet because the modules that I wanted that were one you were bigger than what
+
+01:28:03.300 --> 01:28:08.820
+ the racks were that they were offering right what they said that will be the next goal and they had
+
+01:28:08.820 --> 01:28:13.940
+ a little survey to see who's be interested in what sizes and what formats I can tell you only or
+
+01:28:13.940 --> 01:28:18.740
+ other ones so I filled that out let them know that like the ones I wanted I think were 24
+
+01:28:18.740 --> 01:28:25.620
+ HP one use like the IntelliJel multi-effects yeah the step sequencer I think those are both
+
+01:28:25.620 --> 01:28:33.540
+ around 24 so yeah um I'll be able to join in the fun with you guys with one you shit hopefully you
+
+01:28:33.540 --> 01:28:38.100
+ and being able to sort of put it off on its own like that I don't know maybe it's just the way
+
+01:28:38.100 --> 01:28:44.100
+ my brain works but like the three you stuff is like the the meat and to have the little row
+
+01:28:44.100 --> 01:28:48.900
+ sitting at the top on the little garnish yeah exactly and so good for utilities absolutely
+
+01:28:48.900 --> 01:28:55.620
+ yeah and and right now I don't have any one you space left every every fucking HP is taken I do
+
+01:28:55.620 --> 01:29:01.860
+ have some I was actually rearranging the one you stuff before I came over here and um switched out
+
+01:29:01.860 --> 01:29:06.660
+ to another output of my gel 7u instead of the input because I need another stereo pair but um
+
+01:29:06.660 --> 01:29:10.500
+ I was thinking uh yeah I need to figure out what to put in there and I saw the
+
+01:29:10.500 --> 01:29:15.780
+ comparator from ritual electronics and that was one of the ones that I was thinking might go in
+
+01:29:15.780 --> 01:29:21.060
+ there yeah so I don't have a good comparator right now I don't either I have been using math
+
+01:29:21.060 --> 01:29:28.340
+ this is one which I usually do again I maybe I fall in love too easily Greg but I've really
+
+01:29:28.340 --> 01:29:32.420
+ yeah I'm really really stoked on what ritual is doing um and
+
+01:29:35.140 --> 01:29:40.420
+ I don't really want to get into the dread to the dread box nymphs yeah I have a lot like that's
+
+01:29:40.420 --> 01:29:47.700
+ super fucking offensive like fuck them maybe I did get into it and that's I can expand on it more
+
+01:29:47.700 --> 01:29:54.020
+ but I don't fuck them they're well they're pretty like not great defense about it right or like
+
+01:29:54.020 --> 01:30:00.660
+ they're like here's what we're doing to I only saw the edges of it and was like oh that's sad each
+
+01:30:00.660 --> 01:30:07.380
+ note sues the pain of an abused woman away fuck you oh yeah I didn't I don't think I saw that
+
+01:30:07.380 --> 01:30:15.700
+ that's fucked up so I missed all of this you missed yeah it I thought like originally when
+
+01:30:15.700 --> 01:30:21.060
+ you were saying like you might touch upon it I thought you just didn't like the functionality of
+
+01:30:21.060 --> 01:30:29.060
+ Oh the scent itself is fine no the machine itself is fine I wouldn't have been interested in it it
+
+01:30:29.060 --> 01:30:34.740
+ it seems a little underwhelming name didn't even like register on my brain yeah and I definitely
+
+01:30:34.740 --> 01:30:41.860
+ didn't hear this shit yeah they've got like a highfalutin but like incredibly misguided like
+
+01:30:41.860 --> 01:30:50.100
+ concept behind it and it's um really this is for this is dedicated to and for abused and
+
+01:30:50.100 --> 01:30:57.860
+ mistreated women okay and again maybe on paper that is not a bad motivation but then to trivialize
+
+01:30:57.860 --> 01:31:03.700
+ and use it as is like using trauma as a cross marketing scheme is fucking terrible and then
+
+01:31:03.700 --> 01:31:11.460
+ the say shit like each note sues their pain away it doesn't fuck you fuck you for trivializing
+
+01:31:11.460 --> 01:31:17.540
+ yes kind of pain yeah it is that is horror is it like it's like pink to and do they need you
+
+01:31:17.540 --> 01:31:24.340
+ infer like oh this is you know it's a woman's you know there's everything it's like why do they
+
+01:31:24.340 --> 01:31:29.460
+ have to bring that gimmick into just just put the synthesizer out and then make a donation or
+
+01:31:29.460 --> 01:31:34.260
+ something exactly yes there is a there was a way if you were genuine about your concern and you
+
+01:31:34.260 --> 01:31:39.940
+ wanted to be involved there's a way to do it and this was not it yeah they fucked this up and it's
+
+01:31:39.940 --> 01:31:44.740
+ offensive you know like they were like they could have done this in such a way that was like genuine
+
+01:31:44.740 --> 01:31:48.980
+ productive bringing like you know like hey this is something we need to talk about something that's
+
+01:31:48.980 --> 01:31:53.620
+ important to us that nothing about what you've done suggests you actually give a shit about this
+
+01:31:53.620 --> 01:31:58.900
+ yeah you just say that you donate x percentage of something to some organization and people like
+
+01:31:58.900 --> 01:32:03.460
+ I'll see that and be like oh shit I'll look to you for a few two things if you're just like low
+
+01:32:03.460 --> 01:32:10.180
+ key like helping instead of like high key it's offensive shit exactly by our synthesizers
+
+01:32:10.180 --> 01:32:19.700
+ melt away people's dramas yeah it's not much problem works no so okay I I guess I did want to
+
+01:32:19.700 --> 01:32:26.420
+ talk about it yeah I'm glad you did because I was totally unaware of any of this like I I
+
+01:32:26.420 --> 01:32:32.580
+ remember seeing the teaser for this like it was just like a shady video showing a box that you
+
+01:32:32.580 --> 01:32:36.340
+ couldn't really make out and you know there was like some drones or something behind it and said
+
+01:32:36.340 --> 01:32:40.660
+ it would be revealed at Super booth and like I could make out enough of the box that I saw it was
+
+01:32:40.660 --> 01:32:44.900
+ just another like little analog desktop box and I was like well I'm not really interested in that
+
+01:32:44.900 --> 01:32:50.340
+ so it just kind of immediately fell off my radar I did not know that there's all this going on
+
+01:32:50.340 --> 01:32:57.220
+ controversy wise with it um but yeah I think it's good that you're bringing it
+
+01:32:57.220 --> 01:33:08.500
+ okay and others who might have also not been aware of that that's kind of shitty yeah yeah it is
+
+01:33:08.500 --> 01:33:13.620
+ yeah yeah I mean it seems like their intent was good but yeah that's yeah there's definitely like
+
+01:33:13.620 --> 01:33:18.980
+ the the hearts in the right place maybe no yeah I mean as someone who has been diagnosed with PTSD
+
+01:33:18.980 --> 01:33:24.660
+ type of thing like if anyone ever if I ever saw a fucking synthesizer being marketed as like
+
+01:33:24.660 --> 01:33:33.540
+ you know curing people of their PTSD if you buy this it'll probably be a big fuck you from me you
+
+01:33:33.540 --> 01:33:43.220
+ know what I mean like what are you thinking yeah no interesting wonder where that came from
+
+01:33:43.220 --> 01:33:47.940
+ no and I don't know where it came from and why no one said hey this might be a business yeah
+
+01:33:47.940 --> 01:33:50.900
+ like this is this is not how this is not how you should do this
+
+01:33:50.900 --> 01:33:54.980
+ I don't know I don't know the story behind it I just know that
+
+01:33:54.980 --> 01:34:03.540
+ I we just all be in result and it was yeah might want to scale that back a bit there trip
+
+01:34:03.540 --> 01:34:10.980
+ yeah I mean it sounds almost like it like a joke oh yes trivializing or you know
+
+01:34:11.700 --> 01:34:16.740
+ it you're right like if it's an important enough matter to you that you're gonna like make this
+
+01:34:16.740 --> 01:34:22.020
+ the subject line of your sin why would you follow it up with something like that that seems so like
+
+01:34:22.020 --> 01:34:26.020
+ that you're not taking it seriously or why would you not stupid joke about it right or why would you
+
+01:34:26.020 --> 01:34:31.380
+ not involve different organizations that are doing this work to try to actually actually have help
+
+01:34:31.380 --> 01:34:37.140
+ not yeah which is a shame too because they have like reasonably priced decent sounding gear
+
+01:34:38.100 --> 01:34:42.180
+ the polyphonic uprising these are the most
+
+01:34:42.180 --> 01:34:50.340
+ lush digital reverb support charities for abused women we do the same very bottom of the
+
+01:34:50.340 --> 01:34:56.020
+ page it is literally the bottom of the page and northerly it's fine that's very big yeah they
+
+01:34:56.020 --> 01:35:01.780
+ don't specify what groups they are look at that graphic I didn't even notice the shadows of women
+
+01:35:02.420 --> 01:35:10.420
+ oh my god oh i didn't want to say what you're saying so that was okay i guess the shadowy thing
+
+01:35:10.420 --> 01:35:18.020
+ that i saw in the teaser was actually supposed to be the figure of women this is bizarre so here's
+
+01:35:18.020 --> 01:35:24.660
+ yeah here's the um here was the tagline the synthesizer is dedicated to all abused and oppressed women
+
+01:35:24.660 --> 01:35:29.460
+ may our voices unite and bring light joy and happiness to this world of injustice and
+
+01:35:29.460 --> 01:35:33.700
+ inequality each time you play a note on the synthesizer imagine that you sued their
+
+01:35:33.700 --> 01:35:37.300
+ pain away and you will become a better human being and synth player what
+
+01:35:37.300 --> 01:35:44.900
+ not even fun like i have to look at this one okay so you're dedicating a synth to abused and
+
+01:35:44.900 --> 01:35:50.500
+ oppressed women that's strange to begin with but then to follow it up with this like i don't have
+
+01:35:50.500 --> 01:35:56.660
+ to imagine i lived in a very broken home for a long time i saw a lot of a domestic violence occur
+
+01:35:57.540 --> 01:36:02.180
+ never once did i think geez i wish some fucking synth nerd out there was making a synthesizer
+
+01:36:02.180 --> 01:36:08.580
+ that would help soothe this boy like yeah what the fuck is that supposed to me i have no idea
+
+01:36:08.580 --> 01:36:13.380
+ that's what i'm saying this is just uh across the board misguided hey mom hold up don't call the
+
+01:36:13.380 --> 01:36:22.820
+ police dread box is releasing a synth it'll be all okay yes we'll be all right sorry i don't
+
+01:36:22.820 --> 01:36:27.460
+ mean to take it that yeah no that's but no that's this is dark territory that it's dipping into
+
+01:36:27.460 --> 01:36:32.260
+ and it's making light of it and it's in a very strange way i don't i don't wrap my head around
+
+01:36:32.260 --> 01:36:40.020
+ it at all it's kind of confusing me yeah and if they're trying to help it's not clear how they're
+
+01:36:40.020 --> 01:36:44.580
+ going about that or they didn't even say like x percentage of sales will be doing exactly like
+
+01:36:44.580 --> 01:36:48.580
+ not even listening what the charities are what they're doing i mean bottom line this synth is not
+
+01:36:48.580 --> 01:36:54.260
+ helping with domestic violence exactly it's doing nothing for them but at the very least maybe they're
+
+01:36:54.260 --> 01:36:59.140
+ donating something but like you should fucking really make that clear like yeah that should be the
+
+01:36:59.140 --> 01:37:02.980
+ that should be the emphasis this is the group we're working with this is how we think this could
+
+01:37:02.980 --> 01:37:08.340
+ be important we're taking this seriously and these are the steps we're taking could be interpreted as
+
+01:37:08.340 --> 01:37:15.300
+ virtue signaling to capitalize off of it a hundred percent like yes that's a hundred percent
+
+01:37:15.300 --> 01:37:22.180
+ so that was something that was on that's that super booth as well and the actual synthesizer as i
+
+01:37:22.180 --> 01:37:28.740
+ listened to it was like you said it was not what i thought you caught this because this one right
+
+01:37:28.740 --> 01:37:34.820
+ past me yeah completely and now i'm just kind of like now i need to i want to look more into this
+
+01:37:34.820 --> 01:37:41.700
+ advance and be like you know where is this coming from and why um interesting like noise
+
+01:37:41.700 --> 01:37:48.660
+ engineering they make it quite clear when they're when a module is being used like to you know
+
+01:37:48.660 --> 01:37:55.140
+ generate revenue for them to donate to something yes cause like the cause is forefront right and
+
+01:37:55.140 --> 01:38:00.500
+ very clear and explicit this is the group you can research this group and find out for yourself
+
+01:38:00.500 --> 01:38:05.060
+ if you want to help contribute to this group the message is clear and they don't market it as a
+
+01:38:05.060 --> 01:38:12.100
+ hey every time you buy a module you're saving a a penguin yeah exactly yeah something it's like
+
+01:38:12.100 --> 01:38:19.380
+ that would be completely false right yeah like how do you back up that claim like and it's not even
+
+01:38:19.380 --> 01:38:24.740
+ but it's not even buying it's it's when you play it you're like imagine soothing their pain oh
+
+01:38:24.740 --> 01:38:32.660
+ do you cannot and also do you understand do you understand how offensive somebody that you think
+
+01:38:32.660 --> 01:38:40.100
+ you're helping is taking this like you think that's all it takes is that really i can't i can't
+
+01:38:40.100 --> 01:38:43.940
+ help but like laugh like i can't get going because it's just so fucking absurd to me like that's
+
+01:38:43.940 --> 01:38:49.140
+ ridiculous but no i think you're right i think the noise engineering is an example of
+
+01:38:49.140 --> 01:38:53.700
+ how you do it correctly and how you do it respectfully and how you do it in a way that like
+
+01:38:53.700 --> 01:38:58.100
+ like it's it's genuine and earnest and everything is upfront and forward facing like
+
+01:38:58.100 --> 01:39:02.820
+ that like that's the way you do this like if you're taking it seriously and they obviously are
+
+01:39:02.820 --> 01:39:07.700
+ very serious about this noise engineering i mean they're very serious about the causes they're
+
+01:39:07.700 --> 01:39:12.340
+ participating they don't have to be coy they don't have to be cagey they don't have to do it in this
+
+01:39:12.340 --> 01:39:17.940
+ absurd way yeah i don't know if i want to end on that on that no we gotta bring it back up what
+
+01:39:17.940 --> 01:39:25.700
+ else you got okay so i got um this one thing i did want to mention is um but facko the plethora
+
+01:39:25.700 --> 01:39:31.540
+ yeah so it is i'm going to preface this and this probably a shitty way to put it but like i don't
+
+01:39:31.540 --> 01:39:36.020
+ think i would need something like that now but there were definitely times like as i was like
+
+01:39:36.580 --> 01:39:41.780
+ did more stuff with noise and did more stuff with like less gear there are there are going to be
+
+01:39:41.780 --> 01:39:46.020
+ people out there that are really fired up for this oh is it called the plethora it is called the
+
+01:39:46.020 --> 01:39:55.140
+ plethora yeah and um some of my notes are it's a hole in there's a hole through it um but it's um
+
+01:39:55.140 --> 01:40:01.700
+ three channels um and you have access to a database of noise textures and clusters that um
+
+01:40:02.340 --> 01:40:07.700
+ sequels over database it is all through sequel servers so you have to know sequel um but you know
+
+01:40:07.700 --> 01:40:13.940
+ there's a lot of built-in queries and joins you know you see two instances yes um so there's
+
+01:40:13.940 --> 01:40:18.660
+ independent outs and then there's a third channel of just dirty outputs and they have
+
+01:40:18.660 --> 01:40:24.180
+ gritty filtered and white noise and so the first two channels have independent filters
+
+01:40:24.180 --> 01:40:31.700
+ and like their own controls over these like databases of different noises and um textures
+
+01:40:32.420 --> 01:40:40.500
+ like samples yes but it wasn't clear like what the samples are or if they are generated through
+
+01:40:40.500 --> 01:40:44.020
+ if there's something generative about them this wasn't like it's generating these textures
+
+01:40:44.020 --> 01:40:49.620
+ or is it just playing back it was not clear um there might be more information do they use the
+
+01:40:49.620 --> 01:40:57.860
+ term database they didn't literally use the term database um weary the module i like it um
+
+01:40:57.860 --> 01:41:01.380
+ but yeah i mean the sounds that they were getting us they were like going through these different
+
+01:41:01.380 --> 01:41:09.220
+ kind of able high availability yes for that secondary and crash oh god we're fucking nerds
+
+01:41:09.220 --> 01:41:15.780
+ yeah seriously tech nerds wow they use they just they use it's their fault they use the term
+
+01:41:15.780 --> 01:41:22.740
+ they use the term database so database module but it sounds that we're getting uh like someone
+
+01:41:22.740 --> 01:41:28.420
+ who is looking for a small footprint to get a lot of different noise and textures um this seems
+
+01:41:28.420 --> 01:41:32.420
+ like it's got a lot of noise and textures yeah this seems like it's a fucking love database
+
+01:41:32.420 --> 01:41:40.740
+ wow and it's everything and it's probably a buffeto we've got to get track record yeah um
+
+01:41:40.740 --> 01:41:44.420
+ give it to you so there's one other thing i want to mention and this is not really related to the
+
+01:41:44.420 --> 01:41:51.380
+ music oh i think it's um 100 hp no it's i think it was on the order of like 16 104 hp
+
+01:41:51.780 --> 01:41:57.540
+ someone said what is the widest module boy let's continue
+
+01:41:57.540 --> 01:42:04.740
+ listeners please uh we've got the thickest wide food what's the thickest bitch out there
+
+01:42:04.740 --> 01:42:16.180
+ well i had one thing i was surprised it was on your list i thought maybe you would bring it up
+
+01:42:16.180 --> 01:42:22.500
+ is the wall roof one no no what is it uh the winter modular collaboration with plankton
+
+01:42:22.500 --> 01:42:30.980
+ electron shit i didn't see them i didn't see it um at super booth i saw it oh was it i saw it from
+
+01:42:30.980 --> 01:42:36.020
+ their website they did a little teaser before super booth you know they posted a couple youtube
+
+01:42:36.020 --> 01:42:41.060
+ videos um given like an overview and things like that then yeah super booth was like the big reveal
+
+01:42:41.060 --> 01:42:46.020
+ showed off the oh let's go i somehow missed that yeah i just saw the the teaser mmm it was over there
+
+01:42:46.660 --> 01:42:50.980
+ with the other plankton stuff they had some things that they were showing off oh cool um
+
+01:42:50.980 --> 01:42:59.140
+ i was pretty largely unfamiliar with plankton before this announcement um it seems like for the
+
+01:42:59.140 --> 01:43:06.100
+ most part they're just known for like releasing effects modules they uh they had something called
+
+01:43:06.100 --> 01:43:14.500
+ spice it was like a big multi-effects box that had like a filter and distortion and their distortion
+
+01:43:14.500 --> 01:43:23.380
+ as it seems to be based off of this corg new tone inspired vacuum tube distortion okay okay um
+
+01:43:23.380 --> 01:43:29.940
+ not the first module to use that there was that plasma whatever the fuck yeah oh so you can take on
+
+01:43:29.940 --> 01:43:36.980
+ the aricle one yeah yeah plasma drive that's the yes i believe it's like a fluorescent tube oh yeah
+
+01:43:36.980 --> 01:43:41.300
+ remember this spice thing i was remember being kind of interested in this so some of the modules
+
+01:43:41.300 --> 01:43:46.820
+ they're showing off were like it's like they've broken down spice into individual components and
+
+01:43:46.820 --> 01:43:52.100
+ released modules that were a little more versatile like you can get a dual distortion uh you know
+
+01:43:52.100 --> 01:43:57.220
+ using this new tone tube uh they had like the filter broken out and i think like an envelope
+
+01:43:57.220 --> 01:44:03.460
+ follower things like that yeah um which is cool nothing really caught my eye there but the zaps
+
+01:44:03.460 --> 01:44:10.180
+ percussion module definitely caught my attention um the concept of it and like the layout reminds
+
+01:44:10.180 --> 01:44:17.460
+ me very much of a vst plugin that i used to use and cannot remember the name of um i know i used to
+
+01:44:17.460 --> 01:44:24.660
+ use it and plug but duel a lot um remember who made it nope i'm not micro tonic it was a slide no
+
+01:44:24.660 --> 01:44:30.820
+ it wasn't micro tonic um but it was some sort of drum synth it might have just been called drum synth
+
+01:44:30.820 --> 01:44:36.500
+ oh i think i remembered drum or something actually i forget that might have been something else entirely
+
+01:44:36.500 --> 01:44:45.300
+ but i know it was like kind of like an FM based slider you know looking um not not too many bells
+
+01:44:45.300 --> 01:44:49.620
+ and whistles but i would hit it with a lot of randomization and plug with duel and bring it to life
+
+01:44:49.620 --> 01:44:57.220
+ yeah and make like glitchy percussion with it and this looks to be like the hardware version of that
+
+01:44:57.220 --> 01:45:02.980
+ you know i mean like it seems like the point of this is to not create static percussion but to
+
+01:45:02.980 --> 01:45:10.100
+ create like evolving percussion oh that's cool which is like what i like to do in modular you know
+
+01:45:10.100 --> 01:45:14.260
+ are they going for something subtle like like no like a drummer would do or you're talking about
+
+01:45:14.260 --> 01:45:20.900
+ like full on like full on like like totally right not totally um yeah not sequence wise but like
+
+01:45:20.900 --> 01:45:30.180
+ parameter wise you make a drum sound that is constantly shifting um it has a lot of randomization
+
+01:45:30.180 --> 01:45:34.900
+ options like you can randomize the whole patch um and then you can save that as a snapshot
+
+01:45:34.900 --> 01:45:41.780
+ and then you can modulate your way through these snapshots that's a fun or you can just
+
+01:45:41.780 --> 01:45:48.820
+ CV the randomization options and you also have the ability to set what level of randomization
+
+01:45:48.820 --> 01:45:54.020
+ and on what parameters sort of like i used to do implode but duel so it doesn't have to be totally
+
+01:45:54.020 --> 01:45:57.540
+ wild randomization exactly like you thought along yeah right which is what i used to do in
+
+01:45:57.540 --> 01:46:02.660
+ bedoll with that type of thing and it was cool because you know you could have a sound that was
+
+01:46:02.660 --> 01:46:07.620
+ just shifting in certain ways and not in others you know every time it would strike or whatever
+
+01:46:07.620 --> 01:46:13.700
+ so the ability to do this with a modular now and have snapshots of it too that i could
+
+01:46:13.700 --> 01:46:18.900
+ morph it has morphing too so you're not just balancing between yeah snapshot you can actually
+
+01:46:18.900 --> 01:46:25.140
+ like do morphing uh really exciting reactor kind of yeah maybe it was re-astered that i did this
+
+01:46:25.140 --> 01:46:31.140
+ yeah i can't remember at all but it's been a while but as soon as i saw it it like triggered that
+
+01:46:31.140 --> 01:46:36.100
+ memory in mind like oh this reminds me something that i used to use can't quite put my finger on it
+
+01:46:36.100 --> 01:46:40.580
+ but like regardless even if i didn't have like you know some sort of nostalgia for something like
+
+01:46:40.580 --> 01:46:48.660
+ that like in itself like of itself rather it's pretty appealing to me i've been trying to not do
+
+01:46:48.660 --> 01:46:53.140
+ modular drums anymore but if i were to get back into it i think this would be the module i would
+
+01:46:53.140 --> 01:46:59.700
+ grab in a heartbeat um it's it's a little weird to me that plankton is doing this because i don't
+
+01:46:59.700 --> 01:47:05.700
+ think they have any other sound generators or voices out but with winter module and with winter module
+
+01:47:05.700 --> 01:47:11.300
+ on top of that he's kind of gone like a wall on the ela cleansing yeah like to say the least so like
+
+01:47:11.300 --> 01:47:17.380
+ i don't know how i feel about this collaboration right like i don't like how winter has handled
+
+01:47:17.380 --> 01:47:26.020
+ the firmware for the ela quons are so far um but like i guess they were shifting focus to this so
+
+01:47:26.020 --> 01:47:31.700
+ maybe this got a lot of good attention it was used as a reason at one point not work on the ela
+
+01:47:31.700 --> 01:47:36.020
+ quons are for a minute it was like i'm working on something else now and it was this was i don't
+
+01:47:36.020 --> 01:47:41.700
+ know if we talked about this before but after not dropping that update the pandemic update uh since
+
+01:47:41.700 --> 01:47:48.500
+ like you know 20 to april 2020 um and it's still not out apparently um like oh we're working on
+
+01:47:48.500 --> 01:47:53.700
+ this instead even though it was like one fix that needed to be made uh to the code like a year later
+
+01:47:53.700 --> 01:47:59.620
+ but yeah it's strange like what is the part that they're playing in this yeah maybe a manufacturer
+
+01:47:59.620 --> 01:48:05.620
+ maybe or yeah or maybe they were just adding like you know some of these generative functions to it
+
+01:48:05.620 --> 01:48:11.460
+ or something yeah i mean like i don't know like maybe the display um possibly plankton
+
+01:48:11.460 --> 01:48:21.540
+ actually maybe it's that because the ela quons are certainly as a display
+
+01:48:31.700 --> 01:48:37.460
+ people always ask why don't we just do this live oh my god there's reasons yeah there is reasons
+
+01:48:37.460 --> 01:48:40.820
+ i have so much dirt on all of you
+
+01:48:40.820 --> 01:48:46.740
+ fuck i mean that's 100 percent staying in right yeah i eat
+
+01:48:46.740 --> 01:48:52.740
+ no you're gonna be on the fence i'm gonna be very much on the fence that might be the um
+
+01:48:52.740 --> 01:49:00.020
+ me request my edit now to have you get back in yeah let's stay in all right maybe at the end
+
+01:49:00.020 --> 01:49:02.420
+ maybe after the outro okay
+
+01:49:02.420 --> 01:49:15.940
+ the after credits oh shit that's gonna be hard to keep in that's that's rough
+

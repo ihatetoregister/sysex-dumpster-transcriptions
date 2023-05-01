@@ -1,0 +1,1547 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:23.440
+ [Music]
+
+00:00:23.440 --> 00:00:30.800
+ So before we get into the NAM wrap-up episode, we have an apology you would like to make to
+
+00:00:30.800 --> 00:00:35.920
+ our listeners. At the end of the last episode, we mentioned that the next episode would be
+
+00:00:35.920 --> 00:00:42.320
+ an interview with noise engineering. We did do a noise engineering interview,
+
+00:00:42.320 --> 00:00:49.120
+ and it was great. It was fantastic. However, due to some technical difficulties,
+
+00:00:49.840 --> 00:00:55.840
+ the audio for that interview turned out to be complete shit. The laptop we were recording on
+
+00:00:55.840 --> 00:01:03.840
+ crapped itself, so we switched to plan B and we tried to record everything through a portable
+
+00:01:03.840 --> 00:01:11.760
+ recorder. The interview was done via Skype, so we were trying to record us asking them questions
+
+00:01:11.760 --> 00:01:16.400
+ and their answers through the speakers, through the portable recording device.
+
+00:01:17.280 --> 00:01:24.320
+ Unfortunately, it just turned out way too poor quality to release. We really appreciate
+
+00:01:24.320 --> 00:01:31.120
+ Stephen and Chris taking the time to answer our questions and just hanging out with us for a while.
+
+00:01:31.120 --> 00:01:35.360
+ But yeah, if you're wondering why you don't hear us mentioning noise engineering modules,
+
+00:01:35.360 --> 00:01:39.840
+ and there's quite a few good ones that did come out, or at least was announced at NAM,
+
+00:01:40.560 --> 00:01:47.360
+ in this wrap-up episode, that is why, because we had planned on dedicating an entire episode to that.
+
+00:01:47.360 --> 00:02:12.080
+ [Music]
+
+00:02:12.080 --> 00:02:19.840
+ So, it's a NAM, 2018. It's wrapped up. It's done. The year of the semi-modular.
+
+00:02:19.840 --> 00:02:29.040
+ Lots of semi-modular. Or how I stopped worrying and learned to love the wavetable asks.
+
+00:02:29.040 --> 00:02:34.560
+ You picked the title. I'm one with the other. You just put a semicolon between like this.
+
+00:02:34.560 --> 00:02:39.440
+ Just keep going forever. That entire thing or? Yeah, yeah, like the Dr. Strangelove style.
+
+00:02:40.160 --> 00:02:45.840
+ There were a lot of monos. I think first off the bat was the manther. We were all curious to see
+
+00:02:45.840 --> 00:02:51.920
+ what Milleco's been cooking up for a while. Manther being, what is it like 2600-based or
+
+00:02:51.920 --> 00:02:57.120
+ something? Or am I wrong on that? Are 2600-ish? They have their own shit all over it.
+
+00:02:57.120 --> 00:03:00.560
+ I took notes. Oh, he did. Yeah, because I was excited about it.
+
+00:03:00.560 --> 00:03:05.360
+ I will say I was happy to see the BFF right behind it. Although there were no samples of that,
+
+00:03:05.360 --> 00:03:09.600
+ I was like, cool. Because that's the interesting one to me. Yeah, I don't think that was functional.
+
+00:03:09.600 --> 00:03:13.440
+ This is creepy, but it was on, you know, we're friends with Ben Davis on Facebook.
+
+00:03:13.440 --> 00:03:17.680
+ And he was like, go back from now. And I saw Scott Yeager posted like, all right, BFF time.
+
+00:03:17.680 --> 00:03:24.000
+ So nice. That's well. Maybe they're just best friends. Yeah, maybe they're just best friends.
+
+00:03:24.000 --> 00:03:30.080
+ Still no sight or sound of Mr. D, but at least we know the BFF is in progress right behind it.
+
+00:03:30.080 --> 00:03:35.520
+ But yeah, I took some technical notes on it. Ooh. Because I didn't know I was in the market
+
+00:03:35.520 --> 00:03:40.720
+ for a monosynth until I saw this thing at name. And now I'm kind of sold.
+
+00:03:40.720 --> 00:03:46.320
+ Milico posted it all on the website. So it's got a SIM 3340 voice chip.
+
+00:03:46.320 --> 00:03:53.120
+ Same is found in the 101. Yep. And the two. Nice. So that made me happy right off the bat.
+
+00:03:53.120 --> 00:03:56.240
+ Because that was immediately what I thought of when I was watching this video. I was like,
+
+00:03:56.240 --> 00:04:00.240
+ there's a lot of stuff out there right now that is trying to tap into the 101 territory. I was
+
+00:04:00.240 --> 00:04:05.200
+ like, but none of them have got me as excited as this thing did in like a five minute demo video.
+
+00:04:05.200 --> 00:04:09.760
+ Because it's got like the form factor. It kind of had the sound. You know, the filter isn't very
+
+00:04:09.760 --> 00:04:14.240
+ 101ish, but it still sounds good. You know, and just everything looks immediate on it. I was like,
+
+00:04:14.240 --> 00:04:20.960
+ this thing looks like somebody shot a 101 into space, had it circumvented by fucking aliens
+
+00:04:20.960 --> 00:04:25.120
+ and shot it back down the earth. And I was like, so what the fuck is in this thing?
+
+00:04:25.120 --> 00:04:34.160
+ But for the filter, it's running a CEM or I'm sorry, SSM 2044, which is found in the Monopoly
+
+00:04:34.160 --> 00:04:39.200
+ in the Poly six. It's in a bunch of other stuff too, but nothing I was too familiar with.
+
+00:04:39.200 --> 00:04:45.200
+ That's a I love that filter. Luke actually made a DIY version of that and I had a module of it
+
+00:04:45.200 --> 00:04:50.080
+ for a while. It was just PCB panel. Nice. And man, it sounded really good. Awesome. Actually,
+
+00:04:50.080 --> 00:04:55.280
+ I'm going to try to get that. I mean, the demo sounded good, you know, like I was analyzing it.
+
+00:04:55.280 --> 00:04:59.520
+ I was like, okay, doesn't sound like a mini brute. You know, it's definitely not like a Parker
+
+00:04:59.520 --> 00:05:04.000
+ Steiner vibe, but it's also not like 101ish, but it did have like a really nice sound. That's
+
+00:05:04.000 --> 00:05:09.120
+ the two main chips in it. And then you got all the sequencer functions from the Veriget A+ and the
+
+00:05:09.120 --> 00:05:15.680
+ four plus embedded in there. That's cool. Parameter recording on everything. It's got a built in delay.
+
+00:05:15.680 --> 00:05:20.080
+ I couldn't find any details on what the delay is. I don't know if it's analog, digital or one
+
+00:05:20.080 --> 00:05:26.560
+ of their pedals, maybe. Yeah, they definitely have a few on me. It sounded good. It's a nice touch.
+
+00:05:26.560 --> 00:05:31.360
+ That's the only effect, I believe, that's on it. It's a delay, you know, it definitely added flavor
+
+00:05:31.360 --> 00:05:34.640
+ in the demos that they were giving us. I was like, okay, I can appreciate that for sure.
+
+00:05:34.640 --> 00:05:39.920
+ Yeah, we'll save all the mono synths that seem like they came out. First, I just lumped that one
+
+00:05:39.920 --> 00:05:44.800
+ out and was like, oh, these stupid mono synths. But that's the one I think after watching demo
+
+00:05:44.800 --> 00:05:49.920
+ videos that you kind of after triangulating the sound through various kind of halfway there
+
+00:05:49.920 --> 00:05:56.080
+ videos, I'm like, that one is the most promised, I think. Yeah, all the mono synths seem to have
+
+00:05:56.080 --> 00:06:02.320
+ like, you know, semi modular capabilities. But this one seems to have the best modular capabilities.
+
+00:06:02.320 --> 00:06:07.120
+ It might be at least ones that are most interesting to me. I like the layout to the way they have
+
+00:06:07.120 --> 00:06:13.360
+ the 16 step keyboard, 16 step, you know, sequencer and then the little keyboard keys after it.
+
+00:06:13.360 --> 00:06:18.400
+ Yeah. That's like, I wish everything was kind of like that. Yeah, it's 16 keys, but I believe it's a
+
+00:06:18.400 --> 00:06:24.880
+ 64 step pattern that you can do that. The suggested retail is going to be 650. That's not bad. Yeah,
+
+00:06:24.880 --> 00:06:33.040
+ that's cool. Not terrible. You know, it's more than the mini brute S2 or 2S rather. I don't know,
+
+00:06:33.040 --> 00:06:38.160
+ the mini boots look pretty good too, but this just is more appealing to me. You know, the mini
+
+00:06:38.160 --> 00:06:44.000
+ brute seems good if you want to do a very traditional synth thing. You know, this thing looks like you
+
+00:06:44.000 --> 00:06:50.320
+ get a little more freaky with it. I do have notes about the mini, mini brute S2, and most of them are
+
+00:06:50.320 --> 00:06:57.360
+ glowing. Take it away. Yeah, go for it. So, I mean, just the idea of skipping the keys all together
+
+00:06:57.360 --> 00:07:03.440
+ and going with the sequencer and pads, I think it's brilliant because not everyone plays with
+
+00:07:03.440 --> 00:07:08.400
+ keys. And the patch bay, I thought, everything looks brilliantly laid out. Yeah, I think you can
+
+00:07:08.400 --> 00:07:14.000
+ see the everything like the metalizer or all that jazz. Some odd normalizations on it, I'll say.
+
+00:07:14.000 --> 00:07:20.000
+ Like they have AD going to the VCA and ADSR going to the filter by default. You think it would be
+
+00:07:20.000 --> 00:07:26.000
+ flipped? I don't know what the logic was. Yeah, I don't either. Yeah, a lot of patch points though.
+
+00:07:26.000 --> 00:07:33.520
+ Yeah, 40 or something. And even the rack brute, the weird sort of like thing with the rack behind
+
+00:07:33.520 --> 00:07:37.840
+ it, at first I was like, "Ah, that seems like a gimmick. That seems kind of dumb." But the more I
+
+00:07:37.840 --> 00:07:42.160
+ saw it, and especially with it collapsed, I sort of warmed up to it. If you're interested in, you know,
+
+00:07:42.160 --> 00:07:48.240
+ sort of like dipping a toe in the modular, this seems like a great way to sort of get in on that.
+
+00:07:48.240 --> 00:07:53.440
+ And I thought it sounded great. A lot of videos did sound like shit. But I think that's just the
+
+00:07:53.440 --> 00:08:02.000
+ nature of synths shows and even the archery one on their site. It's like, like, "Oh, I'm going to be
+
+00:08:02.000 --> 00:08:07.040
+ the keyboardist in a band." And like, they're just playing like really, really mundane shit.
+
+00:08:07.040 --> 00:08:11.600
+ But then there was a couple of other videos where like someone's like really tinkering with it.
+
+00:08:11.600 --> 00:08:15.760
+ And they were getting some decent sounds out of it. Yeah, that video on their website was kind of
+
+00:08:15.760 --> 00:08:21.200
+ hard to judge because there was a lot going on. Like there's this girl singing. And he has like
+
+00:08:21.200 --> 00:08:24.160
+ another keyboard going underneath it. And there was all the other elements. I'm like, "Okay, I just
+
+00:08:24.160 --> 00:08:29.680
+ want to hear this thing. I don't need a video trying to get me to visualize myself as a rock star
+
+00:08:29.680 --> 00:08:35.840
+ in a band. Like just show me what this thing can do." But yeah, the videos that I did check out that
+
+00:08:35.840 --> 00:08:40.720
+ were just like demos at NAMM, they sounded fairly good. It's got two oscillators this time, which is
+
+00:08:40.720 --> 00:08:48.000
+ nice. It's got all the stuff. I believe it has the R-Pengen and all the sequencer features, which
+
+00:08:48.000 --> 00:08:52.320
+ if I remember correctly, you can have three different layers going on, which is pretty cool.
+
+00:08:52.320 --> 00:08:59.040
+ Really? Yeah. I don't know how that works. But it's a monosynth, but you can have three
+
+00:08:59.040 --> 00:09:05.200
+ separate layers, I think, going simultaneously on the sequencer. Yeah, it sounded good. And I
+
+00:09:05.200 --> 00:09:09.760
+ agree that RAC RUD, I think, is genius on their part. You know what I mean? Obviously the theme
+
+00:09:09.760 --> 00:09:18.640
+ right now is make shit integratable. Modules are compatible. A lot of people are doing that slowly
+
+00:09:18.640 --> 00:09:22.800
+ Arteria. This isn't the first time they've done the patch bay. That was a good first step. Seems like
+
+00:09:22.800 --> 00:09:26.720
+ a lot of other people are following suit. And now all of a sudden they're like, "We're going to sell
+
+00:09:26.720 --> 00:09:34.480
+ you our own RAC. You can expand upon our synths and act as a gateway into the modular world for
+
+00:09:34.480 --> 00:09:38.400
+ people that don't already have a case." I think that's genius. Yeah, because now you can go to
+
+00:09:38.400 --> 00:09:42.880
+ Guitar Center, get a keyboard you can play, and the little RAC thing that integrates right with it,
+
+00:09:42.880 --> 00:09:47.840
+ and you're ready to start the addiction and order stuff. Attaches right to it. Yeah.
+
+00:09:47.840 --> 00:09:53.280
+ Makes me wonder if they're actually going to maybe offer a module soon. You know what I mean?
+
+00:09:53.280 --> 00:09:59.040
+ That seems like a logical next step. You've supplied the Gillette model, and now I can start
+
+00:09:59.040 --> 00:10:06.240
+ selling some razors. Yeah, because they could just even the Steiner and Filter. Yeah, they'll say
+
+00:10:06.240 --> 00:10:12.480
+ stuff like that. Totally buy a Steiner Parker Filter for them. Sounds good. And with a
+
+00:10:12.480 --> 00:10:21.040
+ CVable brute force function, you know? I would buy it for the right price. Just say.
+
+00:10:21.040 --> 00:10:27.280
+ A little bit of quantum. That's been teased before, but now they're like,
+
+00:10:27.280 --> 00:10:31.840
+ should be out in a few months. Did you see how much is going to cost? Oh, yeah. Five grand.
+
+00:10:31.840 --> 00:10:38.720
+ I have my two super pricey things that I really like from NAMM, that I would, if I had infinite
+
+00:10:38.720 --> 00:10:48.400
+ infinite money. Waldorf Quantum, Eventide H9000. Both fucking stellar. Both together would probably
+
+00:10:48.400 --> 00:10:56.160
+ be around $12,000. That's crazy. Yeah, it is. Even though I knew I couldn't afford, I didn't
+
+00:10:56.160 --> 00:11:02.880
+ watch the videos for their quantum. I love Waldorf, man. I mean, there's always, I'm sure there's
+
+00:11:02.880 --> 00:11:07.520
+ something wrong with it, but it's actually working. It looks great. The specs look great.
+
+00:11:07.520 --> 00:11:15.440
+ I'll never own it, but it's lost. Oh, that looks great. I just hope, oh, please just do a smaller
+
+00:11:15.440 --> 00:11:21.840
+ one that's cheaper. You know? Like a pared-down, blow-filed style thing with some new shit in it.
+
+00:11:22.800 --> 00:11:27.440
+ I'd be all over it. They did have another keyboard that they debuted there.
+
+00:11:27.440 --> 00:11:32.320
+ Oh, the string strength. The vocoder. That was kind of cool too. Not up my alley.
+
+00:11:32.320 --> 00:11:38.160
+ Right. I actually had a very strikingly different response to that. It's the STVC.
+
+00:11:38.160 --> 00:11:45.840
+ It's the string and vocoder. I listened to a bunch of videos and I kept coming back to it.
+
+00:11:45.840 --> 00:11:51.280
+ I imagined myself walking past a piano store in the mall in the 80s, and that was the sound that
+
+00:11:51.280 --> 00:11:57.760
+ was coming out. Yeah. And it was not in a good way. It was really, I was really underwhelmed by it,
+
+00:11:57.760 --> 00:12:02.880
+ and sounds goofy. And then when someone starts singing into the vocoder, it seemed like a joke
+
+00:12:02.880 --> 00:12:07.040
+ at some point. I think that thing is going to sell like hotcakes. Oh, definitely. In the synth
+
+00:12:07.040 --> 00:12:13.200
+ wave scene. Oh, absolutely. Oh, definitely. Absolutely. Yeah, there was more, more monosyns.
+
+00:12:13.200 --> 00:12:20.800
+ We had radical delta C-E-P-A and the new boom stars from Studio Electronics.
+
+00:12:20.800 --> 00:12:26.160
+ They're doing like Mark IIs of these, I believe. Oh, I didn't get that. I mean, there wasn't much
+
+00:12:26.160 --> 00:12:32.240
+ coverage on them. But yeah, they're like, they have wood panels on the sides now. Yeah. That's
+
+00:12:32.240 --> 00:12:36.960
+ new. And they're like twice as much as those other ones were. Just for the wood panel.
+
+00:12:36.960 --> 00:12:41.520
+ That's when people were joking about online. They're like, I would love to upgrade my current one,
+
+00:12:41.520 --> 00:12:45.040
+ but why is it almost twice to price? Is it just because of the wood panels?
+
+00:12:45.040 --> 00:12:49.680
+ But are they supposed to be new features? I mean, all kidding aside about the wood panels.
+
+00:12:49.680 --> 00:12:53.600
+ And you see much about the features themselves or even what they were modeled on. It was a real
+
+00:12:53.600 --> 00:12:57.920
+ brief blurb I found online just showing a screenshot of a couple of them and suggested
+
+00:12:57.920 --> 00:13:01.120
+ price and things like that. We would probably dig it up. Were they actually there? Because I
+
+00:13:01.120 --> 00:13:04.960
+ don't remember seeing any videos of anyone stopping at the booth and talking to them.
+
+00:13:05.520 --> 00:13:13.200
+ I don't know. I found it on Matrix synth. It was from them, but maybe it was just like an
+
+00:13:13.200 --> 00:13:18.400
+ announcement type thing. Maybe there weren't any demos or any. Gotcha. Gotcha. That radical one.
+
+00:13:18.400 --> 00:13:25.440
+ That's the, like the huge voice, but it's in Euro-Rach form. It's in both. They have it as a module
+
+00:13:25.440 --> 00:13:31.280
+ or a semi-module standalone monosome. I didn't see the standalone, but I saw a
+
+00:13:31.280 --> 00:13:35.920
+ bunch of videos of the Euro-Rach version. It's not really for me because I'm not looking for a
+
+00:13:35.920 --> 00:13:41.040
+ giant full voice. Full voice like that. But they were getting good sounds out of it. It sounded good.
+
+00:13:41.040 --> 00:13:48.400
+ Yeah. Even the Sonic State guy was like, "This is a fat sounding soon." It definitely had a good tone
+
+00:13:48.400 --> 00:13:54.640
+ to it, but yeah, not really my thing. I have here marked under my underwhelming section
+
+00:13:55.520 --> 00:14:03.440
+ have DSI profit revision two, which is another yearly profit revision. I think we've gotten one
+
+00:14:03.440 --> 00:14:07.200
+ every year now for like the last eight years. Yeah, I've lost. I don't even know what their
+
+00:14:07.200 --> 00:14:12.400
+ product line is anymore. They didn't even talk anything new. It's like, okay, another profit revision.
+
+00:14:12.400 --> 00:14:19.680
+ Bit underwhelming. Dave, I think you have some words about this one. The Yudou Newman
+
+00:14:20.640 --> 00:14:25.280
+ touch screen synthesizing. Oh, shit. I heard you were really excited about this one. I was super excited
+
+00:14:25.280 --> 00:14:29.440
+ for it. You watched the entire video. I could only get through five seconds. Yeah, same here.
+
+00:14:29.440 --> 00:14:33.600
+ You watched the whole thing? No, no. I could only get through like five seconds. So what you guys
+
+00:14:33.600 --> 00:14:38.560
+ didn't actually hear the sound of it? I skipped forward and heard like one piano sound and I just
+
+00:14:38.560 --> 00:14:44.400
+ closed it. I think watching the video really helped because there's so much build-up and there's so
+
+00:14:44.400 --> 00:14:48.640
+ much talking and there's so much, it's a huge touch screen. There's all kinds of controls,
+
+00:14:48.640 --> 00:14:54.400
+ everything sort of flashing and then to have that build-up, that anticipation and then he presses
+
+00:14:54.400 --> 00:15:00.400
+ on those keys and it is a fucking piano. I was just like, you know what? Good for you, man. I feel
+
+00:15:00.400 --> 00:15:07.520
+ like you might be fucking with me. Like, good job. You got me to watch your fucking video. It was a
+
+00:15:07.520 --> 00:15:13.280
+ calamity. It's really a truly remarkable calamity. I saw it and was like, this is truly the worst
+
+00:15:13.280 --> 00:15:19.760
+ of all worlds. It's not worse than a laptop. I'd rather just have a window. I don't know.
+
+00:15:19.760 --> 00:15:24.160
+ So it's inconvenient on every level. It's probably going to cost a million dollars
+
+00:15:24.160 --> 00:15:28.720
+ and it kind of looks fragile. So it's going to break almost immediately. Yeah, that screen's going
+
+00:15:28.720 --> 00:15:37.120
+ to get shattered immediately. It's not really a glass. The minute someone drops their quarter-inch
+
+00:15:37.120 --> 00:15:42.960
+ cable trying to plug it in and things just spider webs across the whole screen, it's just a constant
+
+00:15:42.960 --> 00:15:50.480
+ piano drone. Yeah, I mean, it's essentially a giant iPad attached to a keyboard at like five times
+
+00:15:50.480 --> 00:15:58.400
+ to praise. Yeah, and only does that. Yeah. So it props to you for getting through the entire video.
+
+00:15:58.400 --> 00:16:04.320
+ Yeah, thanks. Took one for the team there. Yes. Stepped into the plate. I have here the
+
+00:16:04.320 --> 00:16:18.080
+ Alisis Vortex. What? Yeah. A brand new innovative midi-ketar. Oh, shit. Yeah. I have one note for that.
+
+00:16:18.080 --> 00:16:25.440
+ Yeah. Okay. It just is fuck off. I'm glad I'm not the only one to cut it, dude. Like,
+
+00:16:25.440 --> 00:16:30.240
+ I'm digging through all the stuff looking for, you know, did I miss anything important? Then I was
+
+00:16:30.240 --> 00:16:36.720
+ like, the fuck did I just scroll past the keytar? I was like, okay, I'll give it a shot and open it.
+
+00:16:36.720 --> 00:16:39.600
+ It's not even a keytar. It's just a fucking controller. Yeah, just a controller. Like,
+
+00:16:39.600 --> 00:16:44.640
+ doesn't this exist in like a million different formats already? Like, who the hell still uses them?
+
+00:16:44.640 --> 00:16:52.720
+ Like a keytar mini controller, but this one has like eight pads on it. Yeah. And a slider. Oh,
+
+00:16:52.720 --> 00:17:02.320
+ so innovative. How much? A one that I was kind of a on was the Volca mixer. It was like so close.
+
+00:17:02.320 --> 00:17:07.200
+ I missed that. They're so far away. There's a lot of problems with that. Yeah. I mean,
+
+00:17:07.200 --> 00:17:12.320
+ first off, it claims to be four channels, but it's actually not. Three. It's two mono and one
+
+00:17:12.320 --> 00:17:19.200
+ stereo. Oh, so they did that? Yeah. Also, it's not battery powered. You have to plug it in.
+
+00:17:19.200 --> 00:17:23.280
+ Every all the other Volca's are battery powered. This is going to be the first one that doesn't
+
+00:17:23.280 --> 00:17:27.840
+ run off of batteries. Makes sense. Fucking mix. All right. There's the speakers. It might be
+
+00:17:27.840 --> 00:17:33.040
+ the speakers because for some fucking reason, they decided to waste real estate to put fucking
+
+00:17:33.040 --> 00:17:36.560
+ speakers on it. You know what you could also do? Just have a little jack on the side of it and
+
+00:17:36.560 --> 00:17:40.400
+ then sell a little fucking speaker. You know, just plug your speaker into this thing. And then for
+
+00:17:40.400 --> 00:17:44.800
+ 90% of the people who don't want speakers don't want to fucking deal with it. You could even make
+
+00:17:44.800 --> 00:17:49.520
+ the speakers the size of the little Volca form factor. Yeah. This is I think it's just a miss
+
+00:17:49.520 --> 00:17:53.440
+ across the fucking board. Whereas, you know, everybody wants like everyone's looking for the
+
+00:17:53.440 --> 00:17:57.440
+ $200 mixer you can use play live set with. Yeah. Everybody kind of gets to it and then they
+
+00:17:57.440 --> 00:18:02.400
+ fuck it up. I feel like they just fucked it up. Yeah. Because this like if they would have done
+
+00:18:02.400 --> 00:18:07.040
+ this right, this could have been a mixer that people even who weren't using it for Volca's
+
+00:18:07.040 --> 00:18:11.280
+ could have used. Now I can't imagine someone with Volca's using it, let alone someone who
+
+00:18:11.280 --> 00:18:19.120
+ doesn't have those. Yeah. I have one more on my underwhelming list. Oh yeah. New and Terra's Auto
+
+00:18:19.120 --> 00:18:27.680
+ Tune. Oh, I was that I didn't even see that. Yeah. It's basically a reskin of Auto Tune 5.
+
+00:18:27.680 --> 00:18:34.240
+ That's it. Oh, is it like a graphic of key pain though? No, no. It allows you to access
+
+00:18:34.240 --> 00:18:40.320
+ Auto Tune 5 mode, which a lot of people liked more than the other versions. So now you can upgrade
+
+00:18:41.280 --> 00:18:48.560
+ for $500 to go back to go back. Yeah. Holy shit. Two steps forward one step back, right?
+
+00:18:48.560 --> 00:18:52.720
+ I'm looking on gear slots always where like, yes, finally I can get the sound back from Auto
+
+00:18:52.720 --> 00:18:58.240
+ Tune 5. Just fucking install Auto Tune 5. I mean, it had like one or two extra things that it
+
+00:18:58.240 --> 00:19:03.040
+ mentioned, but it wasn't anything crazy. Like they got a milkit right now though, because every
+
+00:19:03.040 --> 00:19:08.080
+ fucking trap song that exists right now is an open tuned fuck. Yeah. And now you can get that
+
+00:19:08.080 --> 00:19:17.040
+ classic sound back. Yeah, the classic Auto Tune 5. I found a toy in, I can't remember where I was
+
+00:19:17.040 --> 00:19:22.400
+ like target or something. It was a little little microphone like toy. You know what I mean? It had
+
+00:19:22.400 --> 00:19:28.400
+ his image on it and it said the T-Pain microphone sing like a pro. Dude, did it have Auto Tune 5 on
+
+00:19:28.400 --> 00:19:33.440
+ it? Where people go nuts? You pushed a button and it was just his voice all auto tuned. It said
+
+00:19:33.440 --> 00:19:39.920
+ seeing like a pro. I was just like, got to buy this. It's really meta. You're going to buy a
+
+00:19:39.920 --> 00:19:44.400
+ microphone, but all that you do is play him saying you should sing like a pro. Yeah, buy this
+
+00:19:44.400 --> 00:19:51.120
+ micro. Wait, what? That was it on my, the bad list. Yeah, mine says digi-meh underneath the
+
+00:19:51.120 --> 00:19:57.520
+ vocal mixer, but I don't know how much I want to go into that. We can. Yeah, I'm not allowed yet.
+
+00:19:59.600 --> 00:20:04.720
+ So the digi tone. So which videos did you see? Did you see the ones with Simon?
+
+00:20:04.720 --> 00:20:11.280
+ I saw the one with Chank. I saw the ridiculous one with him like with data line playing with
+
+00:20:11.280 --> 00:20:18.320
+ Koi Fish and walking around in a garden. Yeah, that was that was very inspiring. I instantly
+
+00:20:18.320 --> 00:20:23.120
+ pre-ordered three of them. Inauspicious starts. That was like the first video I think. That was
+
+00:20:23.120 --> 00:20:30.000
+ like the teaser and it's going downhill from there. Yeah, I don't it's as Greg very eloquently said,
+
+00:20:30.000 --> 00:20:34.080
+ it's like it's like it's a preset synth, but it's not a preset synth that are like fixed,
+
+00:20:34.080 --> 00:20:38.160
+ you know, there are ratios and frequencies that sound good that they want you to use.
+
+00:20:38.160 --> 00:20:43.840
+ And a lot of the point of FM is yeah, you might get to a point where it's phased out and you hear
+
+00:20:43.840 --> 00:20:48.640
+ nothing, but you can completely experiment with it. You start to understand how an operator works,
+
+00:20:48.640 --> 00:20:54.240
+ you start to build things that have like very weird areas that are in between certain frequencies
+
+00:20:54.240 --> 00:20:59.200
+ that someone might want you to use. But they were so proud of removing that from the user.
+
+00:20:59.200 --> 00:21:05.200
+ Okay, fine. There should be some presets that get you started, but to remove the editing capabilities
+
+00:21:05.200 --> 00:21:10.800
+ that make an FM synth so attractive and allows you to get a sound that's pretty unique and
+
+00:21:10.800 --> 00:21:16.240
+ dial into what you're trying to do that comes from understanding what it's doing or not understanding
+
+00:21:16.240 --> 00:21:20.000
+ what it's doing and just sit there for a while and fucking play with it and go,
+
+00:21:20.000 --> 00:21:25.040
+ Oh shit, I came across something that sounds good. Save that. Yeah, and especially in 2018,
+
+00:21:25.040 --> 00:21:30.480
+ are you going to tell me that you can't do an advanced mode where the knobs now just scan through
+
+00:21:30.480 --> 00:21:34.880
+ all the regular values instead of some array of the safe values you want people to use?
+
+00:21:34.880 --> 00:21:39.760
+ Did you read the John Chowning interview on the electron site? No, that was interesting. It was
+
+00:21:39.760 --> 00:21:45.760
+ him talking about just him, you know, discovering FM, not inventing it. And he even like, you could
+
+00:21:45.760 --> 00:21:49.680
+ tell he tried to like compliment them. He's like, Oh, you've made this in a way that's very different
+
+00:21:49.680 --> 00:21:55.360
+ and easy to use. Like, we'll see, we'll see how it proves itself out. Like, I think that
+
+00:21:55.360 --> 00:22:00.720
+ Digitact is obviously doing what it's doing right now because, you know, for better or worse,
+
+00:22:00.720 --> 00:22:05.280
+ generally kind of worse because of the way they've decided to treat it as an instrument. So we'll
+
+00:22:05.280 --> 00:22:10.080
+ see if they're new, small things kind of hold up over time. I'm a little skeptical right now.
+
+00:22:10.720 --> 00:22:16.880
+ Yeah, I wasn't too hyped on it. Like, I don't see why they couldn't have integrated that into,
+
+00:22:16.880 --> 00:22:23.440
+ you know, like the Digitact. We had that conversation via email, like, you were kind of for the fact
+
+00:22:23.440 --> 00:22:27.120
+ that it's its own thing. I could see that, but like me, I looked at it and I just kind of thought,
+
+00:22:27.120 --> 00:22:32.480
+ like, this could be a mono machine Mark three. You know what I mean? It's funny because after
+
+00:22:32.480 --> 00:22:35.760
+ we had that email thing, I thought about it for a while. And then the next day I was like,
+
+00:22:36.400 --> 00:22:40.720
+ why couldn't they just have made something that was a little less specific and be like, we're
+
+00:22:40.720 --> 00:22:45.520
+ going to make this kind of platform. It's very simple that will allow you to have some modes
+
+00:22:45.520 --> 00:22:50.400
+ charge me like 50 bucks for the FM mode or something like that. I'm on board if you can do it right
+
+00:22:50.400 --> 00:22:55.360
+ in a way that doesn't suck. Yeah. So I kind of went back, I like single purpose things, but I
+
+00:22:55.360 --> 00:23:00.720
+ think especially if you're going to dupe an interface very closely like that and maybe step back and
+
+00:23:00.720 --> 00:23:06.160
+ think about how you could repurpose something. Yeah. And I feel too, like I fucking love the
+
+00:23:06.160 --> 00:23:11.280
+ analog rhythm from electrons, my favorite drum machine ever. And I've learned a little now with
+
+00:23:11.280 --> 00:23:16.000
+ having the Digitact that there's a certain depth that it doesn't have in the Digitact that I really
+
+00:23:16.000 --> 00:23:21.040
+ like in the rhythm. I like that there are a bevy of different options. I don't know if I like
+
+00:23:21.040 --> 00:23:26.480
+ their paired down equipment that much. Yeah. It's just give me that depth that I want to do
+
+00:23:26.480 --> 00:23:30.800
+ designer, give me the flexibility to have that depth be in other things like the multi-outs or
+
+00:23:30.800 --> 00:23:35.920
+ with some other like forward thinking stuff and maybe just let us load one FM voice into the Digitact
+
+00:23:35.920 --> 00:23:40.000
+ or like I guess. It seemed like it was really well received. I mean, as far as like the videos
+
+00:23:40.000 --> 00:23:45.360
+ and the hype and I mean, it's probably going to sell well. Yeah. People seem really high. I mean,
+
+00:23:45.360 --> 00:23:49.520
+ people already buying it. Yeah. It sold out instantly for the run that they made, but
+
+00:23:49.520 --> 00:23:55.040
+ how much of that is this going to be like people jumping on the hype train, you know, like look
+
+00:23:55.040 --> 00:23:58.640
+ how many Digitact are up for sale right now. You know, now that the honeymoon and
+
+00:23:58.640 --> 00:24:02.720
+ face is worn off of that, you know, and people are going to get bored with this thing in three
+
+00:24:02.720 --> 00:24:07.120
+ months. I have to assume that it won't even take that long, but the Digitact that I feel like the
+
+00:24:07.120 --> 00:24:14.160
+ from beginning to boredom is it's a pretty short walk. Yeah. I think they may have a real problem.
+
+00:24:14.160 --> 00:24:18.720
+ If people keep buying their stuff and realizing there's no legs on them anymore,
+
+00:24:18.720 --> 00:24:23.280
+ they might be doing well with sales now and they're getting a lot of like hype people
+
+00:24:23.280 --> 00:24:26.480
+ buying them. But if the secondary market blows up with this shit, people are going to notice.
+
+00:24:26.480 --> 00:24:31.200
+ People are going to notice that this stuff gets unloaded. Maybe there's something
+
+00:24:31.200 --> 00:24:35.600
+ there's something not so great about them. Yeah, I'd honestly rather have a Volca FM. If I wanted
+
+00:24:35.600 --> 00:24:39.360
+ something like that, I would just parameter log it with the Digitact or something else.
+
+00:24:39.360 --> 00:24:45.280
+ The Volca even has parameter logging. True. Yeah. All the Volca's do.
+
+00:24:45.280 --> 00:24:50.160
+ And that seems to be the biggest things people are saying. Well, no, the four operator and,
+
+00:24:50.160 --> 00:24:55.040
+ you know, presets into saying, aren't that innovative, but you're getting the electron
+
+00:24:55.040 --> 00:24:59.600
+ sequencer, which takes to a whole different level that you can't get with other stuff. And it's like,
+
+00:24:59.600 --> 00:25:04.240
+ well, if you already owned something like the Digitact, you could just do that to a different
+
+00:25:04.240 --> 00:25:09.760
+ FM box with more features. You know what I mean? Yeah. But they tried to call out like, oh,
+
+00:25:09.760 --> 00:25:14.480
+ we have different waveforms. And it's like, sort of the TX81Z, you know, this is nothing.
+
+00:25:14.480 --> 00:25:21.200
+ It's nothing new. Yeah. Digitme. Are we still on? I'm out of me. Yeah, I don't think I've any
+
+00:25:21.200 --> 00:25:31.600
+ mail that. That's it for my math. No, wait, I did have, well, well, huh? Yeah. Honestly,
+
+00:25:31.600 --> 00:25:38.000
+ I don't even know what it's worth talking about, but the Sonic where ELZ1, it looks like an OP1 rip-off.
+
+00:25:38.000 --> 00:25:43.360
+ Oh, yeah. I remember seeing that and thinking that whatever that is, it looks like an OP1 rip-off.
+
+00:25:44.240 --> 00:25:48.560
+ Actually, all the comments in the YouTube video were basically, wait, is this another
+
+00:25:48.560 --> 00:25:53.680
+ teenage engineering thing? I was like, no. But the sound of it was incredibly boring.
+
+00:25:53.680 --> 00:25:59.600
+ Like, it was almost like decidedly like lo-fi, like not eight, not full on 8-bit, but it was very
+
+00:25:59.600 --> 00:26:05.840
+ like raw and like not in an interesting sort of like, teethy way. It just sounded like a toy.
+
+00:26:05.840 --> 00:26:12.320
+ A very expensive and like well over designed toy. Teenage engineering didn't announce anything
+
+00:26:12.320 --> 00:26:19.120
+ except for the two new little pocket operators. Pocket operators, yeah. It just seems so silly.
+
+00:26:19.120 --> 00:26:26.080
+ Yeah. I have one. I like never use it. But like, anytime I'm like actually working on something,
+
+00:26:26.080 --> 00:26:31.680
+ like it's, I'm not going to go to this little toy usually like I'll go towards a bigger,
+
+00:26:31.680 --> 00:26:42.160
+ more robust actual drum machine or the much more, you know what I mean?
+
+00:26:42.160 --> 00:26:54.640
+ [Music]
+
+00:26:54.640 --> 00:27:00.480
+ We circling back to the good? Well, we circling back to Euro because I feel there's a number of
+
+00:27:00.480 --> 00:27:05.200
+ things to talk about in Euro. One thing that I did want to bring up was the Geiger Counter Pro.
+
+00:27:05.200 --> 00:27:10.560
+ It's only a fucking pedal. There's got to be a module follow up with that. I presume I would hope
+
+00:27:11.440 --> 00:27:15.440
+ because yeah, I thought the same thing. I got super excited and then I read it. I was just a pedal.
+
+00:27:15.440 --> 00:27:20.720
+ Do you know what the big features are of the two? Like what the differences are versus one?
+
+00:27:20.720 --> 00:27:26.480
+ I didn't look at specs or anything. There were more controls. There's more controls way more
+
+00:27:26.480 --> 00:27:32.720
+ waves now and I think higher quality sound overall. I don't think it's limited to eight bit anymore.
+
+00:27:32.720 --> 00:27:36.640
+ I think they touched up the preamp a bit. Yeah, I don't know. Like I glanced at it, but I was like,
+
+00:27:36.640 --> 00:27:41.040
+ well, until this is in module format, I'm looking to pay it too much mind. But I'm surprised it
+
+00:27:41.040 --> 00:27:44.880
+ didn't announce like, yeah, like you said, like why wait? Like why not? And release them both at
+
+00:27:44.880 --> 00:27:50.720
+ same time. Kind of weird, but the fuck were we talking about? Euro announced in man.
+
+00:27:50.720 --> 00:27:59.760
+ Erika since fucking killing it. Yeah, yeah, yeah. Everything they announced, I was like,
+
+00:27:59.760 --> 00:28:06.160
+ I want that. I want that. Like even the basic 909, you know, there's already a bunch of modules
+
+00:28:06.160 --> 00:28:12.640
+ that do 909 drum sounds, but for some reason, they look nice. They sounded good. Very to the point.
+
+00:28:12.640 --> 00:28:18.880
+ I have CV control on like some of the tip top ones. You know, they sounded pretty good. I think
+
+00:28:18.880 --> 00:28:26.080
+ you were hyped up the most about the graphic VCO. The graphic VCO. It's coming out in February,
+
+00:28:26.080 --> 00:28:29.680
+ towards the end of February, allegedly, it's supposed to be his birthday. So it's going to be like
+
+00:28:29.680 --> 00:28:33.920
+ the first one out then from the whole new lineup. Yeah. Well, it's also, I think the one that was
+
+00:28:33.920 --> 00:28:39.280
+ announced the longest ago. It's actually been announced like well over a year ago. I thought
+
+00:28:39.280 --> 00:28:43.840
+ it was out. Yeah, I guess we've been working out this whole time. Yeah. Like everything sounded
+
+00:28:43.840 --> 00:28:48.480
+ great that they were going through. All of this sort of like post morph effects. Yeah, it sounded
+
+00:28:48.480 --> 00:28:54.400
+ good as hell. I liked it. It appealed to me, but at the same time, I'm like, man, there's a lot of
+
+00:28:54.400 --> 00:28:59.920
+ good wavetable options out there. There are now like it's really hard to pick. Like you got the
+
+00:28:59.920 --> 00:29:05.760
+ 352, you got that. The piss and Hana Mark III was announced. Like there's a lot of good stuff out
+
+00:29:05.760 --> 00:29:11.360
+ there as far as wavetable since go. But like I like the look of that too. And it goes well with
+
+00:29:11.360 --> 00:29:17.440
+ the other new stuff that they announced that I kind of want, you know, like the sequencer is
+
+00:29:17.440 --> 00:29:24.400
+ huge. The drum computer. Yeah. Yeah. Man, it's a little fun. The crazy buttons. Yeah. Yeah. I
+
+00:29:24.400 --> 00:29:29.200
+ love the fact that like there are buttons, not everything's behind a menu. Yeah.
+
+00:29:29.200 --> 00:29:34.400
+ They're like the nine or nine buttons too. Yeah. Exactly. Yeah. Exactly. Yeah. Like little mechanical
+
+00:29:34.400 --> 00:29:39.200
+ with the lights on. I was like, that's a nice touch to pair up with your 909
+
+00:29:39.200 --> 00:29:43.840
+ Erica drum modules, you know, and like, I think it's 48 HP. Like it's yeah,
+
+00:29:43.840 --> 00:29:50.320
+ fucking gigantic, but it has like 16. Yeah, the entire top is just filled with fucking outs. Like
+
+00:29:50.320 --> 00:29:55.120
+ it is your, you can control every channel. Every channel has a trigger and an accent. Plus,
+
+00:29:55.120 --> 00:30:00.880
+ there is I think one CV and gate channel. So you can do notes with it as well. It's like an LFO out
+
+00:30:00.880 --> 00:30:07.040
+ to one or two. I think so. Yeah, there's like a modulation output. It has instant pattern changing.
+
+00:30:07.040 --> 00:30:12.240
+ It has that's nice. What the hell else did it have? Probability per step. Probability per step.
+
+00:30:12.240 --> 00:30:14.160
+ Direction per track.
+
+00:30:14.160 --> 00:30:23.280
+ Their demos were just great. Yeah. Like the new what the hell they were talking about. They
+
+00:30:23.280 --> 00:30:27.760
+ looked like they were having fun playing with it. They jammed out a bunch. I think they're taking
+
+00:30:27.760 --> 00:30:34.720
+ Erica since the next level with this new batch of stuff. Yeah, the resonant EQ. Oh, that looks
+
+00:30:34.720 --> 00:30:41.760
+ fucking great. It's insane. Like that was awesome. Digital control over pretty much every band.
+
+00:30:41.760 --> 00:30:48.480
+ Every band. Yeah. Get the fuck out. I want to hear more demos of how it sounds. You know what I mean?
+
+00:30:48.480 --> 00:30:52.560
+ But like functionality wise and just how it looks, the GUI and everything. Like this looks
+
+00:30:52.560 --> 00:30:59.600
+ fantastic. You know, like I've been asking for a CV controllable resonant, you know, EQ for a while.
+
+00:30:59.600 --> 00:31:04.320
+ I just feel like they know what the fuck they're doing as a company too. Like they have
+
+00:31:04.320 --> 00:31:08.880
+ kind of their vision. They make their products. They're always very solid. They're rarely like
+
+00:31:08.880 --> 00:31:14.320
+ derivative. It's always some new twist on stuff. And they have black panels. Yeah. It's always like,
+
+00:31:14.320 --> 00:31:18.160
+ oh, you guys just seem to like just be killing it. And even too, like, I mean, they have the big
+
+00:31:18.160 --> 00:31:23.200
+ stuff. But also the Pico series. Yeah. Yeah. That's right. The Pico's, the Black series,
+
+00:31:23.200 --> 00:31:28.000
+ yeah. They're kind of noise rig. They made that's too based. They have a very diverse like catalog.
+
+00:31:28.000 --> 00:31:36.080
+ Yeah. Stuff. They announced the black hole DSP version too, also, which I kind of want like,
+
+00:31:36.080 --> 00:31:41.280
+ I didn't own the version one, but I do have the Pico DSPs, which is like, you know, the junior version
+
+00:31:41.280 --> 00:31:47.120
+ of it. Yeah. And it's left me wanting more to accompany them, not as a replacement to the Pico's.
+
+00:31:47.120 --> 00:31:50.480
+ Like, I like them. I like them. Yeah. I like how they're small, but I'd also like one bigger too,
+
+00:31:50.480 --> 00:31:55.360
+ for when I need to do more complex processing. Yeah. And it seemed pretty cool. And it has a,
+
+00:31:55.360 --> 00:32:01.760
+ like a dial on the front that you can basically downscale the CPU. You know what I mean? Like,
+
+00:32:01.760 --> 00:32:04.720
+ Oh, like in the ZDSP. Exactly. Yeah. That's cool. Yeah. That's cool. Yeah. That's cool.
+
+00:32:04.720 --> 00:32:08.640
+ Yeah. That's cool. Yeah. You have to do it with, you know, CV. And it's kind of touchy. You know what
+
+00:32:08.640 --> 00:32:14.720
+ I mean? It's hard to like, and you got to go up to 30 kilohertz to get it back up to nominal pace.
+
+00:32:14.720 --> 00:32:19.920
+ Yes. Which is not a lot. I mean, outside of their own VC. Yeah. It's not how many things do that.
+
+00:32:19.920 --> 00:32:24.640
+ Yeah. Never thought about that. This has a knob right on front. Yeah. You just tweak it and all of
+
+00:32:24.640 --> 00:32:30.400
+ sudden you're, you know, bit crushing your entire affected. And you're not, you're not dedicating an
+
+00:32:30.400 --> 00:32:36.880
+ oscillator just to power this thing. Right. Another one I saw was the SSF Muton. I thought that was
+
+00:32:36.880 --> 00:32:41.440
+ kind of a sleeper. I missed that. It's kind of announced later. It's really, it's kind of simple.
+
+00:32:41.440 --> 00:32:47.920
+ It's like an eight channel VCA in like 14 HP. And it's also a cascading mixer with
+
+00:32:47.920 --> 00:32:53.280
+ mute buttons on it. Really like, I think I could get rid of a few modules, put that in,
+
+00:32:53.280 --> 00:32:58.480
+ have mute buttons on a mixer, and then be able to patch out and have eight separate VCAs.
+
+00:32:58.480 --> 00:33:03.760
+ I saw that and like CV control over the VCAs too. Yep. That and the
+
+00:33:04.560 --> 00:33:11.360
+ Mordax granular sampler though I didn't hear it. I thought like just seeing it, I was like,
+
+00:33:11.360 --> 00:33:15.760
+ oh, if that's simple, that could be interesting. I watched a demo before that. I wasn't blown away.
+
+00:33:15.760 --> 00:33:20.320
+ The screen is real nice. It seems real cool to be able to see what you're doing.
+
+00:33:20.320 --> 00:33:26.160
+ But like audio wise, it didn't seem to offer much that you can't already do.
+
+00:33:26.160 --> 00:33:32.800
+ With like clouds and looping mode or like a time safari, Mark II. Gotcha. You know what I mean?
+
+00:33:32.800 --> 00:33:38.080
+ Like it's just you can do obviously really tight grains and move throughout it and things like that.
+
+00:33:38.080 --> 00:33:44.160
+ The last thing on my list is Bitbox 2.0 firmware like destroys that Mordax module.
+
+00:33:44.160 --> 00:33:49.680
+ While it looks interesting to me that new Bitbox 2.0 stuff, like if that module had been released
+
+00:33:49.680 --> 00:33:54.240
+ with that firmware, I would still have it for sure. It's ridiculous now. You can do like multiple
+
+00:33:54.240 --> 00:34:00.480
+ loop points that you set running any direction. Like it's they fixed pretty much all the issues
+
+00:34:00.480 --> 00:34:05.200
+ that I would have had with it. Yeah, I think I've mentioned a few episodes, but I was getting
+
+00:34:05.200 --> 00:34:09.120
+ kind of leaning more and more towards getting one. And as soon as I watched that, I was like,
+
+00:34:09.120 --> 00:34:14.400
+ well, I'm sold. Yeah, I have one now. The way you can have like multiple loops within one sample
+
+00:34:14.400 --> 00:34:18.720
+ and then kind of step through those as a group sounds. That's exactly what I've been looking for.
+
+00:34:18.720 --> 00:34:25.600
+ Yeah, that's so smart. But there was one other granular thing to cut my eye and name the
+
+00:34:25.600 --> 00:34:31.520
+ qubit Nebula version two. I saw the two that I did say that. Yeah, I don't know what the
+
+00:34:31.520 --> 00:34:40.080
+ difference is a lot. It's like a mutant cloud slash morphogen now that isn't as expensive or hard to
+
+00:34:40.080 --> 00:34:46.000
+ use. Like I took some notes on that one. Did you two do? So you're gonna cheat. I actually have
+
+00:34:46.000 --> 00:34:52.800
+ notes on a different qubit. Oh, I have notes on the scanned. Also looks awesome. Okay. Yeah, the
+
+00:34:53.520 --> 00:34:59.840
+ Nebula two because I own the version one for a minute and it just kind of just didn't get into
+
+00:34:59.840 --> 00:35:04.400
+ it too much. Yeah, I mean, it wasn't what I was looking for. I ended up getting like two clouds
+
+00:35:04.400 --> 00:35:09.600
+ instead and did things that way. But can do sound on sound destructive, overdubbing,
+
+00:35:09.600 --> 00:35:15.120
+ five minute recording buffer time. And unlike the one it does, you know, the real time
+
+00:35:15.120 --> 00:35:20.560
+ processing, recording and all that, you're not just reading from the card. It's like a full
+
+00:35:20.560 --> 00:35:27.440
+ functional sampler with granular options on top. Independent pitch and speed.
+
+00:35:27.440 --> 00:35:32.640
+ That's cool. That is cool. I don't understand how it works though, because like I was looking
+
+00:35:32.640 --> 00:35:42.240
+ closely at the module. I did not see like a BPM or like clock in. So I don't understand how it's
+
+00:35:42.240 --> 00:35:48.560
+ gonna do time stretching without you telling it the parameters of the time. Maybe just pull like
+
+00:35:48.560 --> 00:35:53.280
+ pulls it apart kind of thing, like regard to your beat. He did like some audio examples of too.
+
+00:35:53.280 --> 00:35:57.920
+ It sounded great. I was like, that's pretty cool. But like, yeah, I don't understand what
+
+00:35:57.920 --> 00:36:03.200
+ magic's going on under the hood there. Or if it's just doing like an auto detect, you know what I mean?
+
+00:36:03.200 --> 00:36:08.800
+ I don't know. But either way, it's it's nice. Is that module one you can load like pure data
+
+00:36:08.800 --> 00:36:14.640
+ patches into? Yeah, and you can do it with this as well. He did mention at the end that the firmware
+
+00:36:14.640 --> 00:36:21.200
+ is open source and that you can load pure data, see sound, and super collider patches into it.
+
+00:36:21.200 --> 00:36:24.560
+ Wow. That's awesome. And like, turn it into your own thing basically. That's cool. Yeah.
+
+00:36:24.560 --> 00:36:31.680
+ So I presume even if the firmware out of the factory is like what people want,
+
+00:36:31.680 --> 00:36:36.240
+ someone's gonna fine tune it to do crazy or shit. I'm sure because it's gonna seems like a fully
+
+00:36:36.240 --> 00:36:42.080
+ capable machine. You wanted to talk to scanner? Scanned. Scanned. Is that what it's called? Yeah.
+
+00:36:43.360 --> 00:36:49.760
+ So it is a organic wavetable VCO. And this is going based on their description. It's a
+
+00:36:49.760 --> 00:36:56.000
+ uses scan synthesis to generate complex sounds. So basically there's vibrating string sort of
+
+00:36:56.000 --> 00:37:01.760
+ things. And it's based on like how much this hammer hits it gives it it's different qualities.
+
+00:37:01.760 --> 00:37:05.840
+ It kind of sounded a little bit like an elements. Yeah, as I say, it sounds kind of like physical
+
+00:37:05.840 --> 00:37:10.640
+ modeling to some degree. The sounds didn't sound like that though. It had like this like very
+
+00:37:10.640 --> 00:37:15.840
+ hyper staccata sound. It like tapered off. Yeah, that one has no screen of display too.
+
+00:37:15.840 --> 00:37:20.880
+ No, really. Just kind of rare with newer wave tables. Right. But I was intrigued by it, but
+
+00:37:20.880 --> 00:37:25.600
+ didn't know much about what was going on. I'm intrigued. I don't know if I'm gonna get it,
+
+00:37:25.600 --> 00:37:29.360
+ but it definitely caught my eye. Yeah, that's kind of helpful about the nebula. I was like,
+
+00:37:29.360 --> 00:37:34.640
+ I don't like I've been wanting, you know, granular stuff. But the fact that it's like one sound
+
+00:37:34.640 --> 00:37:37.440
+ that you're manipulating. You know, you can't layer them. Like at the same time, I could also
+
+00:37:37.440 --> 00:37:42.880
+ get a bit box and probably achieve similar stuff. Well, I mean, while we're on the topic of wave
+
+00:37:42.880 --> 00:37:49.760
+ table, we did not bring up the form a spherical wave table navigator. She's interesting because
+
+00:37:49.760 --> 00:37:56.480
+ it's like eight voice, right? It's six independent voices. Six independent voices. Whoa, they have
+
+00:37:56.480 --> 00:38:04.160
+ their own global and individual voice proactive. There's also independent LFOs that are either
+
+00:38:04.160 --> 00:38:09.040
+ independent or synced. And there's basically like a mixer section at the top that have mutes for
+
+00:38:09.040 --> 00:38:13.120
+ each of them on and off. Then there's the LFO section in the middle. And then there's the wave
+
+00:38:13.120 --> 00:38:20.480
+ table sphere selector. And the way that described it was basically, think of it as like a sphere of
+
+00:38:20.480 --> 00:38:27.360
+ wave tables. And you're controlling the beam that goes through it. Hmm. It seems like a little
+
+00:38:27.360 --> 00:38:36.240
+ abstract. And some of the sounds were a little wonky. But some of the videos, it was just like,
+
+00:38:36.240 --> 00:38:41.840
+ oh, like a one module drone machine. And like really crazy stuff, like really, really dynamic,
+
+00:38:41.840 --> 00:38:46.720
+ really changing. And you can see like, you know, there's a ton of these modulation points for it.
+
+00:38:46.720 --> 00:38:51.280
+ And as they're just feeding it with this modulation and turning mutes on and off,
+
+00:38:51.280 --> 00:38:55.600
+ some of the videos were pretty amazing, actually. I don't know how necessarily musical it is.
+
+00:38:56.960 --> 00:39:00.720
+ But as if you were looking for like a drone oscillator, that that seems like it would be
+
+00:39:00.720 --> 00:39:06.480
+ a good candidate. I think they're independent, like both proactive inputs.
+
+00:39:06.480 --> 00:39:09.280
+ So they're either independent or there's a global
+
+00:39:09.280 --> 00:39:14.480
+ vocal proactive. And that was the only complaint that I had was there was a lot of
+
+00:39:14.480 --> 00:39:20.640
+ global versus local. And it was like crazy key combinations. Yeah, I noticed that because
+
+00:39:20.640 --> 00:39:24.480
+ it seemed like there was like some sequence remote at the top. Yeah. It was like, oh, that's kind of
+
+00:39:24.480 --> 00:39:30.000
+ like weird how you got there. I don't know if I like hold this and this and yeah,
+
+00:39:30.000 --> 00:39:35.520
+ shit like that can get old. But it's how the STS is to get to a lot of the stuff.
+
+00:39:35.520 --> 00:39:41.040
+ Oh, I forgot about them like a modules. We talked about the manther. We forgot about the reveal.
+
+00:39:41.040 --> 00:39:45.840
+ I think all the new ones are well, except for the manther growl, which is obviously
+
+00:39:47.280 --> 00:39:55.360
+ the voice of the manther in euro format or like quad style. You have the quad drum, the quad
+
+00:39:55.360 --> 00:40:03.520
+ LFO, the quad envelope. And you also have the random module, which looks pretty cool.
+
+00:40:03.520 --> 00:40:08.720
+ I think Dave, you're kind of hyped on that one because it's kind of Turing machine-ish.
+
+00:40:08.720 --> 00:40:10.640
+ Oh, that was far enough for that. Yeah. Yeah.
+
+00:40:12.640 --> 00:40:18.640
+ The quad drum, I don't know if that's going to be like perhaps the heart of the future
+
+00:40:18.640 --> 00:40:23.120
+ Mr. D or something, but it's pretty cool from what I know it's purely analog.
+
+00:40:23.120 --> 00:40:28.400
+ You get a lot of control over four different kick drums, I guess. I don't think it's being
+
+00:40:28.400 --> 00:40:32.800
+ labeled just like kick drums. You can get other sounds with it, but for the most part,
+
+00:40:32.800 --> 00:40:36.240
+ it seems like it's going to be brutal for just crazy ass kicks.
+
+00:40:36.240 --> 00:40:39.440
+ Was there videos of this stuff where they actually went through each of the modules?
+
+00:40:40.720 --> 00:40:44.240
+ Not like, I remember there was like a, like not like a jam, but like,
+
+00:40:44.240 --> 00:40:47.760
+ yeah, he was basically talking. They just kind of demoed them, mentioned that there
+
+00:40:47.760 --> 00:40:51.440
+ were prototypes. Yeah, I never saw like an in-depth one. That's why I'm wondering like,
+
+00:40:51.440 --> 00:40:54.320
+ because I think they're all still very much prototypes. So I guess they don't want to
+
+00:40:54.320 --> 00:40:58.880
+ talk about it too much because it all might be changed in the near future.
+
+00:40:58.880 --> 00:41:03.600
+ Right. But yeah, it's cool that they're using the varigate for format for some more stuff.
+
+00:41:03.600 --> 00:41:06.240
+ I think it lends itself well. They have that quad envelope.
+
+00:41:06.240 --> 00:41:08.720
+ Yeah, and all the sliders. It looks nice. Yeah, it makes sense.
+
+00:41:09.360 --> 00:41:14.080
+ I like seeing the prototypes in black, which I could get the retail in black.
+
+00:41:14.080 --> 00:41:17.360
+ It's like, that looks pretty sweet. There's a sense of theme here listeners.
+
+00:41:17.360 --> 00:41:22.480
+ So Dave, yes, you have a game for us. I do have a game.
+
+00:41:22.480 --> 00:41:29.360
+ Now, full disclosure, this is Greg's idea. I was just watching videos at work.
+
+00:41:29.360 --> 00:41:35.520
+ I hate myself in like a really powerful way. So one of the ways that I emphasize that is,
+
+00:41:35.520 --> 00:41:39.200
+ I will often read YouTube comments. Yeah. And I just go home of punishment.
+
+00:41:39.200 --> 00:41:42.560
+ It is. It is. It is. It's like a masochistic act. Digital
+
+00:41:42.560 --> 00:41:48.880
+ flagellation. Yes, it is exactly that. For some reason, I thought the ones on based on them would be
+
+00:41:48.880 --> 00:41:53.840
+ bland or so, you know, sounds awesome. No, it turns out they're crazy.
+
+00:41:53.840 --> 00:42:02.480
+ So Greg came up with this idea for this game. So I'm going to read you a comment
+
+00:42:02.480 --> 00:42:10.080
+ and give you four choices for four. And you guys are going to guess what video you think it was for.
+
+00:42:10.080 --> 00:42:14.160
+ So the first one, you guys ready? I'm ready. Are you ready?
+
+00:42:14.160 --> 00:42:19.200
+ This thing is the fucking future. Unfortunately, I can't afford that future.
+
+00:42:19.200 --> 00:42:22.880
+ Hopefully in 10 years, I can pick one up used on eBay for a hundred bucks.
+
+00:42:22.880 --> 00:42:30.160
+ Was this from a video for A, the Waldorf quantum? B, the Barringer neutron?
+
+00:42:30.880 --> 00:42:36.080
+ C, the court prologue? Or D, the Udo Newman synthesizer?
+
+00:42:36.080 --> 00:42:42.960
+ Oh, God. I hope no one really wants to buy the Udo. I'm going to go with A, the quantum,
+
+00:42:42.960 --> 00:42:48.880
+ just because that thing is insanely expensive. I'm going to be the new. The new. The new.
+
+00:42:48.880 --> 00:42:53.040
+ The new. The new. The new. The. The correct answer is A, the Waldorf quantum.
+
+00:42:53.040 --> 00:42:58.080
+ Okay. Right now, this ticket price is $4,300. Yeah. That's the last one. I saw that.
+
+00:42:58.080 --> 00:43:03.920
+ That'll never drop $200 on eBay, but yeah, that's what maybe dreaming. Think of the Barringer one.
+
+00:43:03.920 --> 00:43:11.840
+ You guys ready for the next one? Oh, yeah. I really like it. By the way, I have brain damage.
+
+00:43:11.840 --> 00:43:22.480
+ Was this from a video for A, the Geiger counter pro? B, Deckard's dream? C, the
+
+00:43:22.480 --> 00:43:29.920
+ Struckle Orcel tube distortion module? Or D, the Maleko Mather? Oh, shit. This is a hard one.
+
+00:43:29.920 --> 00:43:38.560
+ See. Which one was C? The Struckle distortion. You're going with distortion? Yeah. This is tough.
+
+00:43:38.560 --> 00:43:46.480
+ I'm going to go with A, the Geiger counter pro. The correct answer was D, the Maleko Mather.
+
+00:43:46.480 --> 00:43:51.360
+ Ah, gosh, this was not someone who was not a fan. You clearly have to have brain damage to
+
+00:43:51.360 --> 00:43:58.560
+ appreciate a mono synth. I guess. Okay. All right. All right. Next question. Vinegar tits.
+
+00:43:58.560 --> 00:44:09.040
+ That's it. That's Alphan Omega in this comment. Was this from a video for A, the Empress affects
+
+00:44:09.040 --> 00:44:17.760
+ Zoya pedal? B, the Strymon Magneto delay module? C, the STG envelope generator? Or D,
+
+00:44:17.760 --> 00:44:25.120
+ Pittsburgh microvolt 3900? I'm going to go with the fucking Pittsburgh. Yeah. D, D. You are both
+
+00:44:25.120 --> 00:44:33.360
+ correct. I have no idea if that's good or bad. Vinegar tits. You know, some reason it just seems
+
+00:44:33.360 --> 00:44:38.240
+ appropriate. Like, we are wondering who would disappear to? Obviously people that like vinegar
+
+00:44:38.240 --> 00:44:46.000
+ tits. Yeah, there we go. We found the Democrats. All right. Next question. Patwell.
+
+00:44:46.800 --> 00:44:55.440
+ Wow, wow, wow. Phew. Was this from a video for A, the teenage engineering pocket operator 33?
+
+00:44:55.440 --> 00:45:04.880
+ B, the Pittsburgh microvolt 3900? C, the Strymon Magneto delay? Or D, the Korg Volka mixer?
+
+00:45:04.880 --> 00:45:15.440
+ C, would see the Strymon Magneto delay? I'll go with that Volka mixer. The correct answer is C,
+
+00:45:15.440 --> 00:45:20.800
+ the Strymon Magneto delay. And it was not a Kookoo video. This is a perfect circuit video.
+
+00:45:20.800 --> 00:45:28.880
+ How well, well, well. Phew. There's a four. Four O's a poo. For some reason that sound just in
+
+00:45:28.880 --> 00:45:33.920
+ my head was like, I can see that some someone verbally expressing what a delay is doing.
+
+00:45:33.920 --> 00:45:39.360
+ Yeah. Yeah. I don't know why. But you crawled inside to find this YouTube comment.
+
+00:45:39.360 --> 00:45:43.840
+ Joke's on you. I was actually the one making all these comments.
+
+00:45:44.800 --> 00:45:49.440
+ All right. Next question. Can we get this, but with only the Bossa Nova setting?
+
+00:45:49.440 --> 00:46:00.400
+ Was this a video for A, the Korg KR55 Pro Rhythm Machine? B, the Casio CTX700 portable keyboard?
+
+00:46:00.400 --> 00:46:07.280
+ C, the Yamaha Montage OS 2.0 update? Or D, the Korg Pro Log?
+
+00:46:07.280 --> 00:46:11.520
+ Shit. This is a hard one. Go on A.
+
+00:46:11.520 --> 00:46:15.120
+ You're going A, that's kind of what I was leaning towards too. I'm going to go with Nick A.
+
+00:46:15.120 --> 00:46:18.320
+ You guys are both correct. Yeah.
+
+00:46:18.320 --> 00:46:25.920
+ It was the Korg KR55 Pro Rhythm Machine. Hell yeah. Which we forgot to shit all over.
+
+00:46:25.920 --> 00:46:32.560
+ During our bad section. Other than that many people that just need a backing beat like that.
+
+00:46:32.560 --> 00:46:35.280
+ Like is that a real thing? It could be. I don't know.
+
+00:46:35.280 --> 00:46:37.840
+ Is there not a million things that could already handle that?
+
+00:46:38.480 --> 00:46:42.400
+ The teaser video with like the guy has one of those in one hand and it could
+
+00:46:42.400 --> 00:46:46.720
+ acoustic guitar in the other and he's like setting up in a coffee shop that looks like the one from
+
+00:46:46.720 --> 00:46:53.120
+ Friends? Yes. For real we have like fucking super computers in our pockets. You wouldn't just play
+
+00:46:53.120 --> 00:46:57.680
+ like a loopy bod or some shit. I mean that's why drum machines exist in the first place. Like
+
+00:46:57.680 --> 00:47:02.720
+ that's why all the fucking rhythm machines came out and shit was to do that. It's hard. It just
+
+00:47:02.720 --> 00:47:07.920
+ kind of blows my mind that in 2018 we needed a new one to do that. Yeah. Who knows?
+
+00:47:08.240 --> 00:47:17.280
+ Yeah. Next question. That's what the future looked like in 1998. Was this from a video for
+
+00:47:17.280 --> 00:47:24.800
+ A) the Bitwig Studio 2.3 update? B) the Alesis Vortex Wireless Keyboard Controller?
+
+00:47:24.800 --> 00:47:36.320
+ Yes. C) the Udo Newman Synthesizer Concept? Or D) the Roland Cloud TR808 and TR909 Drum Machine
+
+00:47:36.320 --> 00:47:45.120
+ VST Plugins? What? Yeah they released those. I didn't miss that. I'm going to go with B the
+
+00:47:45.120 --> 00:47:52.000
+ key to our Alesis. The correct answer is C. Damn. The Udo Newman Synthesizer Concept.
+
+00:47:52.000 --> 00:47:57.840
+ We've already spent plenty of time shitting on that. Yeah. I can see that being the future in
+
+00:47:57.840 --> 00:48:02.080
+ 1998. Yeah. Yeah. Yeah. Makes sense. I kind of feel like we wanted that future.
+
+00:48:03.280 --> 00:48:08.000
+ At some point in time. Yeah. And we realized it kind of sucked. All right. So this is the last one.
+
+00:48:08.000 --> 00:48:18.160
+ Pretty dumb. That's it. Was this from a video for A) the Korg Volka Mix? B) the Walidorff STVC String
+
+00:48:18.160 --> 00:48:25.600
+ Synthesizer and Vogue Order? C) the Udo Newman Synthesizer Concept? Or D) the Playtime Engineering
+
+00:48:25.600 --> 00:48:31.680
+ Blitbox Children Synthesizer? I'm going to say the children's synthesizer. There's got to be some
+
+00:48:31.680 --> 00:48:38.640
+ asset out there who's going to shit talk a children's synthesizer. No, no. The correct answer is B)
+
+00:48:38.640 --> 00:48:45.520
+ the Walidorff STVC Strength Synthesizer and Vogue Order. Okay. Someone there. No. I don't think
+
+00:48:45.520 --> 00:48:50.960
+ anyone was shit talking the Blitbox Children's synthesizer. The video is for that. Actually,
+
+00:48:50.960 --> 00:48:55.440
+ everyone seemed to be just fired up for either getting it for their kid or pretending for their
+
+00:48:55.440 --> 00:49:01.680
+ kid. Yeah. Here you go. Play with the kid. Yeah. Give me that fucking thing back. That wasn't keeping
+
+00:49:01.680 --> 00:49:06.720
+ score. I'm sure you both did well. We all win. Yeah. We're all winners. And for our listeners at home,
+
+00:49:06.720 --> 00:49:12.800
+ you can get the Play at Home version on DVD and VHS next month. And the Criterion Laser
+
+00:49:12.800 --> 00:49:28.720
+ Disc Shortness. Sure. [laughs] [music]
+
+00:49:28.720 --> 00:49:48.640
+ [music]
+

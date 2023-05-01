@@ -1,0 +1,3092 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:27.400
+ [Music]
+
+00:00:27.400 --> 00:00:31.400
+ We're good. Are we recording? We are recording into an ER 301 this time.
+
+00:00:31.400 --> 00:00:35.400
+ That's very exciting. We've talked about the 301 at length in the past.
+
+00:00:35.400 --> 00:00:36.400
+ Yeah.
+
+00:00:36.400 --> 00:00:42.400
+ Now we're seeing it in action. It's recording right to a mini SD card or micro or whatever the hell.
+
+00:00:42.400 --> 00:00:47.400
+ Looks like it's doing a good job. We only have six hours and eleven minutes at a time, so we gotta be quick.
+
+00:00:47.400 --> 00:00:52.400
+ So, what was our last time recorded? Was January? Did we do one this year?
+
+00:00:52.400 --> 00:00:55.400
+ We put something out in January, but I think the recording was...
+
+00:00:55.400 --> 00:00:59.400
+ No, it might have been January. I don't either. Time is an old illusion.
+
+00:00:59.400 --> 00:01:01.400
+ It's a flat circle.
+
+00:01:01.400 --> 00:01:04.400
+ [Laughter]
+
+00:01:04.400 --> 00:01:06.400
+ You don't watch.
+
+00:01:06.400 --> 00:01:10.400
+ I just did, so it's like crushing my brain. So good.
+
+00:01:10.400 --> 00:01:16.400
+ I think it was following... Shit, I don't know.
+
+00:01:16.400 --> 00:01:20.400
+ I don't remember. It was our Sweet 16 episode. That's all I remember.
+
+00:01:20.400 --> 00:01:21.400
+ Yeah, yeah.
+
+00:01:21.400 --> 00:01:26.400
+ I can look it up. If only we had a device connected the World Wide Web.
+
+00:01:26.400 --> 00:01:29.400
+ Yeah, those are our information. Superhighway.
+
+00:01:29.400 --> 00:01:32.400
+ Let's see if you've gone back to the quad LFO on your ornament and crime.
+
+00:01:32.400 --> 00:01:40.400
+ Yep. Yeah. I was super into sequence after you got me into it just in that one day, and then this guy upset it.
+
+00:01:40.400 --> 00:01:46.400
+ And also I had to take my MFB Dual LFO out, which I'm still... I didn't want to take it out.
+
+00:01:46.400 --> 00:01:47.400
+ That's a bummer.
+
+00:01:47.400 --> 00:01:51.400
+ Yeah, so this is doing LFO duty right now because I can't give up the O&C.
+
+00:01:51.400 --> 00:01:53.400
+ I had a question about that.
+
+00:01:53.400 --> 00:01:58.400
+ One of us in crime, basic firmware, does include first generator.
+
+00:01:58.400 --> 00:02:01.400
+ I saw that the attempt utils does.
+
+00:02:01.400 --> 00:02:03.400
+ Yeah, the attempt utils does.
+
+00:02:03.400 --> 00:02:05.400
+ Well, it just did me hardware.
+
+00:02:05.400 --> 00:02:07.400
+ Yeah. You can't run those.
+
+00:02:07.400 --> 00:02:09.400
+ It just does a good...
+
+00:02:09.400 --> 00:02:11.400
+ I was thinking about getting one of those.
+
+00:02:11.400 --> 00:02:12.400
+ I've always wanted to get one.
+
+00:02:12.400 --> 00:02:16.400
+ It looks like a nice clocking and weird gate trigger device for sure.
+
+00:02:16.400 --> 00:02:19.400
+ But there's no demos out there.
+
+00:02:19.400 --> 00:02:21.400
+ And I'm curious how it works.
+
+00:02:21.400 --> 00:02:27.400
+ It looks great on paper, but I don't like to see every mode in detail how it can be modulated and how effective it is.
+
+00:02:27.400 --> 00:02:29.400
+ Because burst generation is a little weird.
+
+00:02:29.400 --> 00:02:30.400
+ Yep.
+
+00:02:30.400 --> 00:02:33.400
+ You know what I mean? It gets a little wonky there, and I want it to be tight.
+
+00:02:33.400 --> 00:02:36.400
+ If it's sloppy, I have no need for it.
+
+00:02:36.400 --> 00:02:39.400
+ How's that 2HP burst? I saw you just got that.
+
+00:02:39.400 --> 00:02:47.400
+ For the price and size, it's a nice utility, but it's a little sloppy as well.
+
+00:02:47.400 --> 00:02:50.400
+ When you're saying sloppy, it would precisely do me about that.
+
+00:02:50.400 --> 00:02:58.400
+ I want to dial in specific intervals with the burst and modulated very tightly.
+
+00:02:58.400 --> 00:03:01.400
+ It's got to be tight with the rest of the beat.
+
+00:03:01.400 --> 00:03:05.400
+ Sometimes it feels like it's a little drifty.
+
+00:03:05.400 --> 00:03:08.400
+ It's not locked in as tight as it could be.
+
+00:03:08.400 --> 00:03:11.400
+ And that's the problem with gauge generation.
+
+00:03:11.400 --> 00:03:13.400
+ It can't go forward in time.
+
+00:03:13.400 --> 00:03:16.400
+ You know what I mean? So it's going to be a little offset.
+
+00:03:16.400 --> 00:03:21.400
+ I figured TEMSEY TILL, it's all digital, might be really close to what I'm looking for.
+
+00:03:21.400 --> 00:03:26.400
+ I would also check out Hemispheres, because that has a ton of stuff.
+
+00:03:26.400 --> 00:03:31.400
+ I didn't know with Hemispheres on this, you can turn this into a quad midi to CV converter.
+
+00:03:31.400 --> 00:03:34.400
+ Because somebody was asking, they wanted to do something poly, and someone was like,
+
+00:03:34.400 --> 00:03:37.400
+ "Oh, just run this on your ornament or crime."
+
+00:03:37.400 --> 00:03:40.400
+ There's a lot of stuff in Hemispheres that I didn't know about.
+
+00:03:40.400 --> 00:03:42.400
+ So it might have some clocking thing.
+
+00:03:42.400 --> 00:03:46.400
+ I knew they have logic in there, some type of sequence thing.
+
+00:03:46.400 --> 00:03:48.400
+ I need to give that a more proper look.
+
+00:03:48.400 --> 00:03:54.400
+ The only problem I use the default firmware all the time.
+
+00:03:54.400 --> 00:03:58.400
+ The only time I can see myself using Hemispheres is if I got another ornament in crime.
+
+00:03:58.400 --> 00:04:00.400
+ I don't want to give what I have about it.
+
+00:04:00.400 --> 00:04:01.400
+ It's in every patch.
+
+00:04:01.400 --> 00:04:06.400
+ It's either this liquid sequence or the acid curls.
+
+00:04:06.400 --> 00:04:08.400
+ I've been using a lot of.
+
+00:04:08.400 --> 00:04:09.400
+ I didn't see the sequence.
+
+00:04:09.400 --> 00:04:13.400
+ I thought the editing, I was like, "I don't want to put in a sequence with those two knobs."
+
+00:04:13.400 --> 00:04:14.400
+ But it's so easy.
+
+00:04:14.400 --> 00:04:16.400
+ It's actually really fast.
+
+00:04:16.400 --> 00:04:18.400
+ It's just as good as almost any other sequencer.
+
+00:04:18.400 --> 00:04:23.400
+ It does crazy stuff, because you can have the two sequences kind of affect each other.
+
+00:04:23.400 --> 00:04:25.400
+ That's when it gets kind of bananas.
+
+00:04:25.400 --> 00:04:28.400
+ They have their own independent either clock or gate.
+
+00:04:28.400 --> 00:04:32.400
+ Then you can get this weird ship between the two of them as they're affecting one another.
+
+00:04:32.400 --> 00:04:37.400
+ They're not necessarily in time or the way they're affecting each other is not in time.
+
+00:04:37.400 --> 00:04:41.400
+ They finally give that a shot.
+
+00:04:41.400 --> 00:04:45.400
+ Speaking of sequencers, I can kick it off with Bad Boy in front of me here.
+
+00:04:45.400 --> 00:04:50.400
+ I have 12 vector sequencer, which I got yesterday in the mail.
+
+00:04:50.400 --> 00:04:56.400
+ Much like the sequins, it has its own independent clocking.
+
+00:04:56.400 --> 00:05:00.400
+ You can have different multipliers for each track, which is amazing.
+
+00:05:00.400 --> 00:05:01.400
+ Not just a vision.
+
+00:05:01.400 --> 00:05:02.400
+ Not just a vision.
+
+00:05:02.400 --> 00:05:04.400
+ You can have division and multiplication.
+
+00:05:04.400 --> 00:05:05.400
+ The best thing.
+
+00:05:05.400 --> 00:05:06.400
+ I like that.
+
+00:05:06.400 --> 00:05:07.400
+ These two mod inputs right here.
+
+00:05:07.400 --> 00:05:10.400
+ You can CV start position on a sequence.
+
+00:05:10.400 --> 00:05:12.400
+ You can CV the length of a sequence.
+
+00:05:12.400 --> 00:05:13.400
+ You can CV the multiplier.
+
+00:05:13.400 --> 00:05:16.400
+ You can CV the rate that things start happening.
+
+00:05:16.400 --> 00:05:21.400
+ I don't even know all the things you can CV in here yet, because I'm just one day in.
+
+00:05:21.400 --> 00:05:23.400
+ It was kind of the key thing that sold me over.
+
+00:05:23.400 --> 00:05:28.400
+ I want something where I can CV the sequence, because nothing I have really does that.
+
+00:05:28.400 --> 00:05:30.400
+ The Metac Digitallis does it, too, to agree.
+
+00:05:30.400 --> 00:05:31.400
+ That's a nice thing.
+
+00:05:31.400 --> 00:05:33.400
+ This kind of blows it way out.
+
+00:05:33.400 --> 00:05:40.400
+ You can even CV the groove of the steps, the micro positioning and stuff, which Electron has never done that.
+
+00:05:40.400 --> 00:05:43.400
+ I've always won that feature.
+
+00:05:43.400 --> 00:05:51.400
+ That's why I like the audio damage sequencer one for so long, because it has the CV outs that you can route back into itself and CV certain functions.
+
+00:05:51.400 --> 00:05:55.400
+ I love the whole feature set of it.
+
+00:05:55.400 --> 00:05:59.400
+ Other than that, it wasn't a great sequence, but I really dug that element of it.
+
+00:05:59.400 --> 00:06:02.400
+ I don't have the expander that comes with it.
+
+00:06:02.400 --> 00:06:07.400
+ The expander is like 14 HP or something like that, and it's DIN MIDI in and out.
+
+00:06:07.400 --> 00:06:09.400
+ Another set, because this is actually...
+
+00:06:09.400 --> 00:06:10.400
+ Does it give you more CV ins?
+
+00:06:10.400 --> 00:06:11.400
+ E-TAN, sure.
+
+00:06:11.400 --> 00:06:12.400
+ T-T.
+
+00:06:12.400 --> 00:06:14.400
+ T-R-S MIDI out of the hood.
+
+00:06:14.400 --> 00:06:17.400
+ Yeah, it gives you more trigger ins, more CV ins.
+
+00:06:17.400 --> 00:06:19.400
+ You get like 12 trigger ins and outs.
+
+00:06:19.400 --> 00:06:23.400
+ The cool thing is each one is an in or an out, depending on how you have it configured.
+
+00:06:23.400 --> 00:06:25.400
+ Those can affect other sequences.
+
+00:06:25.400 --> 00:06:27.400
+ They can step through other sequences.
+
+00:06:27.400 --> 00:06:34.400
+ Basically, everything with this, you've got to clock it from either USB or the run clock reset CV inputs.
+
+00:06:34.400 --> 00:06:44.400
+ The expander is the only way you get a MIDI input, which I thought these MIDI outs were also inputs, but they're not, which is fine.
+
+00:06:44.400 --> 00:06:45.400
+ One of the cons, I love this thing.
+
+00:06:45.400 --> 00:06:47.400
+ I'm super invested in it.
+
+00:06:47.400 --> 00:06:55.400
+ I don't know, he's going to nail it, but right now I've run into three straight up firmware crashes, where it's like, ooh, error message on the top of the screen.
+
+00:06:55.400 --> 00:06:57.400
+ He's aware of some of them already.
+
+00:06:57.400 --> 00:07:04.400
+ He seems super responsive on the board, but there's certain stuff like, if you're going to know part here, this is where you mute and unmute stuff.
+
+00:07:04.400 --> 00:07:07.400
+ I'm sorry listeners, you can't really see this, that would be pretty cool.
+
+00:07:07.400 --> 00:07:16.400
+ But if you hold down muted, it'll mute it and unmute the part, but if a gate is on or off, sometimes it'll get stuck and I've run into stuff where it's like, oh, this is just the thing.
+
+00:07:16.400 --> 00:07:18.400
+ Oh, this is just like, nothing's playing.
+
+00:07:18.400 --> 00:07:19.400
+ Right, right.
+
+00:07:19.400 --> 00:07:20.400
+ Play anything.
+
+00:07:20.400 --> 00:07:21.400
+ I thought it was broken.
+
+00:07:21.400 --> 00:07:23.400
+ It's just like a known bug right now.
+
+00:07:23.400 --> 00:07:26.400
+ So I have the MIDI box too and a pyramid.
+
+00:07:26.400 --> 00:07:29.400
+ This doesn't invalidate any other sequencer I have.
+
+00:07:29.400 --> 00:07:42.400
+ I still think the pyramid is kind of like my top of the heap, but the cool thing about this and the way it compares to the MIDI box is you have all these like presets up at the top that take you to the stuff that were kind of deeper in layers on the MIDI box.
+
+00:07:42.400 --> 00:07:48.400
+ You've got pitch, you can select your pitches, you can hit shift and it moves it up by an octave, all that shit you would expect.
+
+00:07:48.400 --> 00:07:49.400
+ Gate and groove.
+
+00:07:49.400 --> 00:07:57.400
+ So you can change the gate time or tie them or go into this other menu, move the steps back and forth, which is just right there.
+
+00:07:57.400 --> 00:08:01.400
+ That's like a whole set of steps on other sequencers.
+
+00:08:01.400 --> 00:08:06.400
+ Velocity, you just get like velocity curves, CCs for everything.
+
+00:08:06.400 --> 00:08:16.400
+ It sends MIDI and CV in and out.
+
+00:08:16.400 --> 00:08:17.400
+ This is the weird one.
+
+00:08:17.400 --> 00:08:18.400
+ So length and repeat.
+
+00:08:18.400 --> 00:08:21.400
+ So this is step length, right, which is different than gate length.
+
+00:08:21.400 --> 00:08:26.400
+ But if you make this to a two, your sequence is now 17 steps long.
+
+00:08:26.400 --> 00:08:30.400
+ It's going to chill on this for two steps, which is weird.
+
+00:08:30.400 --> 00:08:33.400
+ Like I still don't even know how I would use that in a piece of music yet.
+
+00:08:33.400 --> 00:08:35.400
+ That's the way like Metropolis is.
+
+00:08:35.400 --> 00:08:41.400
+ We're adjusting the length of each step, not gate length, but like step repeat.
+
+00:08:41.400 --> 00:08:42.400
+ Exactly.
+
+00:08:42.400 --> 00:08:47.400
+ So you could do some weird like shit, I forget what the Metropolis is based off of.
+
+00:08:47.400 --> 00:08:49.400
+ Oh, the old Roland one.
+
+00:08:49.400 --> 00:08:50.400
+ Yeah.
+
+00:08:50.400 --> 00:08:54.400
+ So I guess you could get some type of like weird stuff like that.
+
+00:08:54.400 --> 00:08:58.400
+ But I've never had a sequence that does this, so I'm like, I need to wrap my head around.
+
+00:08:58.400 --> 00:09:00.400
+ Can you CV that parameter?
+
+00:09:00.400 --> 00:09:01.400
+ I think so.
+
+00:09:01.400 --> 00:09:03.400
+ I'm still learning.
+
+00:09:03.400 --> 00:09:08.400
+ It's actually like you can learn the basic functionality of the sequence around like an hour.
+
+00:09:08.400 --> 00:09:09.400
+ It's pretty easy.
+
+00:09:09.400 --> 00:09:10.400
+ You're like, oh, hit chance.
+
+00:09:10.400 --> 00:09:11.400
+ What's that do?
+
+00:09:11.400 --> 00:09:20.400
+ Oh, you can set chance for all of these different layers here and pick the type of thing and say like, I want to set ratchet or ratchet percentage on each step.
+
+00:09:20.400 --> 00:09:21.400
+ Oh modulation.
+
+00:09:21.400 --> 00:09:24.400
+ I think this is where it's at.
+
+00:09:24.400 --> 00:09:25.400
+ You got sub sequences.
+
+00:09:25.400 --> 00:09:35.400
+ So each variable step sequence, which goes up to 64 steps, you get an eight step fixed sequence that's always just running alongside of it at whatever rate you want to pick.
+
+00:09:35.400 --> 00:09:39.400
+ So how do you specify what is it just repeating the same step or like, what do you mean?
+
+00:09:39.400 --> 00:09:40.400
+ Yeah, you can have it.
+
+00:09:40.400 --> 00:09:44.400
+ You can modulate this, I believe and say modulation external.
+
+00:09:44.400 --> 00:09:45.400
+ Oh, here it is.
+
+00:09:45.400 --> 00:09:54.400
+ I want to target gate lengths, start position, ratchet amounts, probability amount, start point length, direction of the sequence.
+
+00:09:54.400 --> 00:09:55.400
+ It's fucking nuts.
+
+00:09:55.400 --> 00:09:56.400
+ And then the amount for each one of these.
+
+00:09:56.400 --> 00:09:57.400
+ That's beautiful.
+
+00:09:57.400 --> 00:10:00.400
+ Yeah, it's got like, here's where you set like a landy.
+
+00:10:00.400 --> 00:10:01.400
+ It's handy.
+
+00:10:01.400 --> 00:10:03.400
+ It's a nice thing there.
+
+00:10:03.400 --> 00:10:11.400
+ You know, it's black and white LEDs LCD screen, like we were saying, it's the same as the ER 301, but just not the colored lens on top.
+
+00:10:11.400 --> 00:10:15.400
+ I love how the modes that I'm watching you shift through are color coded.
+
+00:10:15.400 --> 00:10:18.400
+ Yeah, because I do that a lot with gear.
+
+00:10:18.400 --> 00:10:20.400
+ I color code shit, you know what I mean?
+
+00:10:20.400 --> 00:10:24.400
+ So you can just set for each track what you want the background LED and the steps.
+
+00:10:24.400 --> 00:10:26.400
+ See, notice how this is kind of weird.
+
+00:10:26.400 --> 00:10:32.400
+ Like, I think this is a bug where you can't change the background one, but it'll change depending on some of the settings.
+
+00:10:32.400 --> 00:10:35.400
+ So I know he'll get that nailed down.
+
+00:10:35.400 --> 00:10:39.400
+ But yeah, it's like the UI is straightforward.
+
+00:10:39.400 --> 00:10:44.400
+ He spent a couple of years now working on this thing and I feel like he's fucking close.
+
+00:10:44.400 --> 00:10:46.400
+ Like it's not like some far off thing.
+
+00:10:46.400 --> 00:10:47.400
+ He's going to nail it pretty soon.
+
+00:10:47.400 --> 00:10:52.400
+ So you've kind of gotten in bed with like another like other person's crazy life project.
+
+00:10:52.400 --> 00:10:53.400
+ Yes.
+
+00:10:53.400 --> 00:10:55.400
+ Once again.
+
+00:10:55.400 --> 00:11:00.400
+ If any listeners have a crazy life project, they want someone to become heavily invested in.
+
+00:11:00.400 --> 00:11:01.400
+ Hit up neck.
+
+00:11:01.400 --> 00:11:06.400
+ This is like, I'm kind of fucked up in the head and I can't stop myself from doing this.
+
+00:11:06.400 --> 00:11:10.400
+ There's another one I'm going to get fucking model samples to, which I'll talk about.
+
+00:11:10.400 --> 00:11:13.400
+ And I just saw someone today was like, yeah, I can crash this thing.
+
+00:11:13.400 --> 00:11:18.400
+ Fuckin' sequence or disease, man.
+
+00:11:18.400 --> 00:11:21.400
+ But yeah, overall, like, pitches are great.
+
+00:11:21.400 --> 00:11:23.400
+ Like, everything's been solid that works.
+
+00:11:23.400 --> 00:11:28.400
+ I've had a few crashes, but I've also been getting like just sequences that I haven't gotten under by the gear.
+
+00:11:28.400 --> 00:11:29.400
+ It's a joy to use.
+
+00:11:29.400 --> 00:11:33.400
+ To be honest, you can do like, I don't know who knows where he's going to take it.
+
+00:11:33.400 --> 00:11:35.400
+ You get a lot of reset options too.
+
+00:11:35.400 --> 00:11:37.400
+ You can have it automatically reset at the end.
+
+00:11:37.400 --> 00:11:39.400
+ Like reset every three beats, every four beats.
+
+00:11:39.400 --> 00:11:42.400
+ So how many tracks in total is it there?
+
+00:11:42.400 --> 00:11:44.400
+ It's eight tracks.
+
+00:11:44.400 --> 00:11:46.400
+ Yeah, you get eight parts.
+
+00:11:46.400 --> 00:11:48.400
+ And is each part color coded then?
+
+00:11:48.400 --> 00:11:50.400
+ You can change the color coding for each part of each.
+
+00:11:50.400 --> 00:11:51.400
+ Okay, I get it.
+
+00:11:51.400 --> 00:11:53.400
+ And then you get like presets for each part.
+
+00:11:53.400 --> 00:11:55.400
+ So that's really your sequences are like a preset.
+
+00:11:55.400 --> 00:12:01.400
+ So this part will be like, I'm going to always send out of MIDI channel 3 out of MIDI output 2 or something like that.
+
+00:12:01.400 --> 00:12:04.400
+ Or CV output, you know, CV pair, this pair.
+
+00:12:04.400 --> 00:12:11.400
+ And it'll just kind of hold that and then you can change a preset and that's just a different set of sequences and multipliers and all that.
+
+00:12:11.400 --> 00:12:14.400
+ So how do you save and load in this?
+
+00:12:14.400 --> 00:12:15.400
+ Oh, good question.
+
+00:12:15.400 --> 00:12:17.400
+ So one thing is you see that little disk there.
+
+00:12:17.400 --> 00:12:20.400
+ It's always saving some things, I think.
+
+00:12:20.400 --> 00:12:23.400
+ But if you hit shift and save, it's just save project.
+
+00:12:23.400 --> 00:12:25.400
+ And at first I was like, what are all these little lines?
+
+00:12:25.400 --> 00:12:28.400
+ Oh, they just correspond to these numbers.
+
+00:12:28.400 --> 00:12:30.400
+ So you can edit them real quick, hit save.
+
+00:12:30.400 --> 00:12:36.400
+ And there's actually an SD card, another SD card in this system behind it that's saving everything.
+
+00:12:36.400 --> 00:12:40.400
+ And this USB plug, you plug it in and it's just like a disk drive on your computer.
+
+00:12:40.400 --> 00:12:42.400
+ So you can back up everything.
+
+00:12:42.400 --> 00:12:51.400
+ And this is USB host, which actually did, I tried it yesterday, you can plug, I have that a CHI LPK25 plug it in and you can record right away.
+
+00:12:51.400 --> 00:12:53.400
+ Which brings me to another one of the cons.
+
+00:12:53.400 --> 00:12:56.400
+ So this doesn't do real time recording right now.
+
+00:12:56.400 --> 00:13:02.400
+ Even though you think, what the fuck, it records from the MIDI inputs, but it's just like SH101 style.
+
+00:13:02.400 --> 00:13:05.400
+ Where it's like picking the notes and it's going to move you to the next note.
+
+00:13:05.400 --> 00:13:09.400
+ So it's not like, I kind of need it to be real time eventually.
+
+00:13:09.400 --> 00:13:13.400
+ Because the pyramid I'm used to like, I'm going to make the sequence quantize it and I'm fucking done.
+
+00:13:13.400 --> 00:13:17.400
+ I don't have much mental time that I want to spend doing step recording.
+
+00:13:17.400 --> 00:13:19.400
+ That's not how I work.
+
+00:13:19.400 --> 00:13:22.400
+ Unless I'm like doing a 101 style thing.
+
+00:13:22.400 --> 00:13:24.400
+ So that's something that needs to be improved.
+
+00:13:24.400 --> 00:13:26.400
+ I thought it had it built in.
+
+00:13:26.400 --> 00:13:29.400
+ Oh, and you can also do this shit too.
+
+00:13:29.400 --> 00:13:34.400
+ So down here you get shift and you can just generate a new sequence, generate a new sequence.
+
+00:13:34.400 --> 00:13:38.400
+ Or you can pick all these rules to evolve the existing sequence.
+
+00:13:38.400 --> 00:13:40.400
+ And you see how it's just moving certain things.
+
+00:13:40.400 --> 00:13:45.400
+ You can set the percentage that you want it to evolve a pattern and then dupe those out to other things.
+
+00:13:45.400 --> 00:13:47.400
+ Which is like super fucking exciting.
+
+00:13:47.400 --> 00:13:49.400
+ So wait, are you going through major and minor chords?
+
+00:13:49.400 --> 00:13:51.400
+ Like how is it determining what the next note is going to be?
+
+00:13:51.400 --> 00:13:52.400
+ Good question.
+
+00:13:52.400 --> 00:13:53.400
+ You can send chords out of this.
+
+00:13:53.400 --> 00:13:57.400
+ There's a chord part, but I think if I can find it.
+
+00:13:57.400 --> 00:14:00.400
+ Looks like you've gotten pretty deep in the day, man.
+
+00:14:00.400 --> 00:14:02.400
+ Yeah, you're bouncing around it like no problem.
+
+00:14:02.400 --> 00:14:05.400
+ It's been an it's been in some time on it for sure.
+
+00:14:05.400 --> 00:14:07.400
+ But what the fuck is that?
+
+00:14:07.400 --> 00:14:12.400
+ But yeah, you can set the amount that you want it to evolve in certain rules that you want it to kind of obey.
+
+00:14:12.400 --> 00:14:14.400
+ Yeah, there's all these shift functions.
+
+00:14:14.400 --> 00:14:17.400
+ Like you can really quickly to just like shift a sequence back and forth in time.
+
+00:14:17.400 --> 00:14:19.400
+ Oh, which is nice.
+
+00:14:19.400 --> 00:14:20.400
+ Yeah.
+
+00:14:20.400 --> 00:14:22.400
+ The ratcheting shift is really cool.
+
+00:14:22.400 --> 00:14:23.400
+ That's fun.
+
+00:14:23.400 --> 00:14:25.400
+ You only you could just get like ratchet number per step.
+
+00:14:25.400 --> 00:14:29.400
+ Yeah, it's like I'm super impressed.
+
+00:14:29.400 --> 00:14:31.400
+ Even with some crashes like normally.
+
+00:14:31.400 --> 00:14:36.400
+ I would probably sell like something that crashes now unless someone was like, yeah, this is really beta,
+
+00:14:36.400 --> 00:14:39.400
+ but I'll persist with this until he gets it working.
+
+00:14:39.400 --> 00:14:40.400
+ I'm sold.
+
+00:14:40.400 --> 00:14:41.400
+ We met him at NomCon.
+
+00:14:41.400 --> 00:14:42.400
+ Yeah, Jim Coker.
+
+00:14:42.400 --> 00:14:44.400
+ Yeah, real cool dude.
+
+00:14:44.400 --> 00:14:48.400
+ He gave me a great demo of it at NomCon and that's part of what kind of sold me on it.
+
+00:14:48.400 --> 00:14:51.400
+ And eventually this will load numerology sequences.
+
+00:14:51.400 --> 00:14:54.400
+ Jim, he makes numerology the software too.
+
+00:14:54.400 --> 00:14:58.400
+ So shit, if that eventually happens, I would have a Mac now.
+
+00:14:58.400 --> 00:15:01.400
+ I never used to have a Mac so I would try numerology.
+
+00:15:01.400 --> 00:15:02.400
+ Hell, I don't know.
+
+00:15:02.400 --> 00:15:09.400
+ Looks like all the best features of some of my favorite Euro sequencers all packed into one with more tracks and more functionality.
+
+00:15:09.400 --> 00:15:10.400
+ Totally.
+
+00:15:10.400 --> 00:15:16.400
+ And I think he nailed it from that perspective because I know I've been on his website and for him now a good bit.
+
+00:15:16.400 --> 00:15:19.400
+ And you can see two years ago someone was like, oh, check out the pyramid.
+
+00:15:19.400 --> 00:15:21.400
+ And he was like, so these are the features you want, huh?
+
+00:15:21.400 --> 00:15:23.400
+ And they're like all in here.
+
+00:15:23.400 --> 00:15:24.400
+ Nice.
+
+00:15:24.400 --> 00:15:31.400
+ I never expected to see like a Euro rack sequencer become as powerful as like an external one, you know what I mean?
+
+00:15:31.400 --> 00:15:33.400
+ Or be like the heart of any setup.
+
+00:15:33.400 --> 00:15:37.400
+ Like they always just seem like they're designed to be auxiliary sequencers, you know what I mean?
+
+00:15:37.400 --> 00:15:40.400
+ Or to just handle one part in your setup.
+
+00:15:40.400 --> 00:15:42.400
+ But this thing looks like it can handle a lot.
+
+00:15:42.400 --> 00:15:48.400
+ I'm thinking and I think with the expander and this, I think it might fit in the biggest 4ms pod.
+
+00:15:48.400 --> 00:15:50.400
+ It's not too deep for the 4ms pods.
+
+00:15:50.400 --> 00:15:52.400
+ No, it's really flat.
+
+00:15:52.400 --> 00:15:54.400
+ It's like one board behind it.
+
+00:15:54.400 --> 00:15:55.400
+ I don't know.
+
+00:15:55.400 --> 00:15:56.400
+ And he has such experience.
+
+00:15:56.400 --> 00:15:58.400
+ Like he's been working on numerology for like 20 years now.
+
+00:15:58.400 --> 00:16:01.400
+ Like I don't have any doubt that he's going to finish this out.
+
+00:16:01.400 --> 00:16:02.400
+ So you have any help?
+
+00:16:02.400 --> 00:16:03.400
+ Which is all him.
+
+00:16:03.400 --> 00:16:04.400
+ Good question.
+
+00:16:04.400 --> 00:16:05.400
+ I don't know.
+
+00:16:05.400 --> 00:16:09.400
+ He's the one who really responds to everything but he kind of refers to like the team, the fuck you all team.
+
+00:16:09.400 --> 00:16:10.400
+ Okay.
+
+00:16:10.400 --> 00:16:12.400
+ I know he's like building these himself.
+
+00:16:12.400 --> 00:16:14.400
+ I don't think it's not like ticking clock.
+
+00:16:14.400 --> 00:16:17.400
+ Oh, have yours ready in the beginning of February like two months ago.
+
+00:16:17.400 --> 00:16:21.400
+ Like this, at that Monday, the first week of February, he's like, I'm going to ship this and you'll have it when.
+
+00:16:21.400 --> 00:16:22.400
+ I don't know though.
+
+00:16:22.400 --> 00:16:29.400
+ I mean, we're all all three of us are cat people and we probably have referred to sitting upstairs with a cat as the team.
+
+00:16:29.400 --> 00:16:30.400
+ So it is possible.
+
+00:16:30.400 --> 00:16:31.400
+ It's just him.
+
+00:16:31.400 --> 00:16:33.400
+ So yeah, vector sequencer.
+
+00:16:33.400 --> 00:16:35.400
+ Definitely worth checking out.
+
+00:16:35.400 --> 00:16:36.400
+ Yeah.
+
+00:16:36.400 --> 00:16:37.400
+ Super into it.
+
+00:16:37.400 --> 00:16:41.400
+ I'm also wondering how many people this might be the first time they're even hearing about it because this does kind of seem like it's under the radar.
+
+00:16:41.400 --> 00:16:42.400
+ Yeah.
+
+00:16:42.400 --> 00:16:44.400
+ There may be like 20 of these out right now.
+
+00:16:44.400 --> 00:16:45.400
+ Yeah.
+
+00:16:45.400 --> 00:16:46.400
+ I think.
+
+00:16:46.400 --> 00:16:49.400
+ Are they like available now or are the ones that are out in the wild now?
+
+00:16:49.400 --> 00:16:51.400
+ They've been on like pre-order forever.
+
+00:16:51.400 --> 00:16:52.400
+ It's just doing them in small batches.
+
+00:16:52.400 --> 00:16:53.400
+ It's been low key.
+
+00:16:53.400 --> 00:16:56.400
+ Like you've got to email him and then he'll say, oh, you want one?
+
+00:16:56.400 --> 00:16:58.400
+ Like, pay right now and then I'll give you your date.
+
+00:16:58.400 --> 00:16:59.400
+ And that's how it worked.
+
+00:16:59.400 --> 00:17:00.400
+ I'm like, sending the money.
+
+00:17:00.400 --> 00:17:03.400
+ And you said, all right, you're top of February because I waited for a little.
+
+00:17:03.400 --> 00:17:05.400
+ I was like on the fence and I saw some video.
+
+00:17:05.400 --> 00:17:07.400
+ Fucking I'm doing it.
+
+00:17:07.400 --> 00:17:09.400
+ That's how that tacky ons.
+
+00:17:09.400 --> 00:17:11.400
+ I don't think I got was.
+
+00:17:11.400 --> 00:17:12.400
+ You emailed him.
+
+00:17:12.400 --> 00:17:15.400
+ He's like, I got there's four or five people in front of you.
+
+00:17:15.400 --> 00:17:16.400
+ You're on the list.
+
+00:17:16.400 --> 00:17:17.400
+ You're after that.
+
+00:17:17.400 --> 00:17:19.400
+ And it'll be.
+
+00:17:19.400 --> 00:17:21.400
+ I'm not going to give you a date.
+
+00:17:21.400 --> 00:17:23.400
+ Like it was that level of just like, we'll get to it, dude.
+
+00:17:23.400 --> 00:17:24.400
+ I'm like, that's cool.
+
+00:17:24.400 --> 00:17:25.400
+ I can get behind that.
+
+00:17:25.400 --> 00:17:50.400
+ I'm going to let somebody else once we go, I'll start it off with this.
+
+00:17:50.400 --> 00:17:55.400
+ So model samples, the new electron device.
+
+00:17:55.400 --> 00:18:00.400
+ I've high hopes in some ways because I think it might be like just all the shit I want
+
+00:18:00.400 --> 00:18:05.400
+ from an electron device pulled out into new menu screen.
+
+00:18:05.400 --> 00:18:06.400
+ I like the rhythm a lot.
+
+00:18:06.400 --> 00:18:11.400
+ I find that I don't use the scene functionality or the performance pads as much as I used to.
+
+00:18:11.400 --> 00:18:13.400
+ Maybe that's just a habit that I've got to break.
+
+00:18:13.400 --> 00:18:19.400
+ So that may be the case, but model samples is more expensive than it should be for sure.
+
+00:18:19.400 --> 00:18:22.400
+ I think it's like four ten or something like that retail.
+
+00:18:22.400 --> 00:18:25.400
+ So it's comparing with the new electrabs, I feel.
+
+00:18:25.400 --> 00:18:29.400
+ Those new electrabs, which can do more on the surface.
+
+00:18:29.400 --> 00:18:34.400
+ But I almost hope that electron starts to make some more devices that are not neutered
+
+00:18:34.400 --> 00:18:41.400
+ and stripped down, but are a little flatter and not as much like hierarchy and depth for certain things.
+
+00:18:41.400 --> 00:18:44.400
+ Because I've seen some videos of people using them.
+
+00:18:44.400 --> 00:18:47.400
+ What kind of sold me was how fast you can change.
+
+00:18:47.400 --> 00:18:53.400
+ Starting endpoints on a sample are radically changed the sound without having to page over.
+
+00:18:53.400 --> 00:18:56.400
+ I'm going to go to the effects now.
+
+00:18:56.400 --> 00:19:00.400
+ And it seems like the control all functionality that used to be on the machine drum,
+
+00:19:00.400 --> 00:19:02.400
+ hold down one knob and affect everything.
+
+00:19:02.400 --> 00:19:05.400
+ Now it's like, oh, that makes perfect sense on this setup.
+
+00:19:05.400 --> 00:19:07.400
+ I'm going to filter all the drums down.
+
+00:19:07.400 --> 00:19:12.400
+ I'm going to pitch everything on here down or change the end point so that everything gets really short.
+
+00:19:12.400 --> 00:19:14.400
+ And I can kind of get down with that.
+
+00:19:14.400 --> 00:19:17.400
+ It's also got, I don't know if I'll explain this well.
+
+00:19:17.400 --> 00:19:22.400
+ So on the rhythm, you have start and then length as your second parameter on a sample,
+
+00:19:22.400 --> 00:19:25.400
+ which is different than start and end point.
+
+00:19:25.400 --> 00:19:28.400
+ There are certain effects like the digitact does start and end point.
+
+00:19:28.400 --> 00:19:33.400
+ So if you want to do that kind of like, I like this idea, I mean like,
+
+00:19:33.400 --> 00:19:36.400
+ repeat a note really quick and then change the length so it kind of stretches out.
+
+00:19:36.400 --> 00:19:40.400
+ On the rhythm, it doesn't quite hit the end of the sample quite the same way.
+
+00:19:40.400 --> 00:19:44.400
+ And on the digitact and on, apparently the model sample is, it just kind of does it the way it does.
+
+00:19:44.400 --> 00:19:48.400
+ And I think it's simpler and able to, which is like where I've used that trick a lot.
+
+00:19:48.400 --> 00:19:50.400
+ So I'm kind of looking forward to that.
+
+00:19:50.400 --> 00:19:54.400
+ I hope that it's something that they just kind of fucking nail and they don't have to update it.
+
+00:19:54.400 --> 00:19:59.400
+ But then yesterday it was like some dude working through it and he just hit like the play button again
+
+00:19:59.400 --> 00:20:03.400
+ and the whole thing just locked up and you couldn't even hit the power button and turn it down.
+
+00:20:03.400 --> 00:20:04.400
+ Nice.
+
+00:20:04.400 --> 00:20:05.400
+ Oh, okay.
+
+00:20:05.400 --> 00:20:09.400
+ Yeah, that's always scary to see.
+
+00:20:09.400 --> 00:20:11.400
+ Granted, you know, nobody has it yet.
+
+00:20:11.400 --> 00:20:14.400
+ The only people that have it are just beta testers right now.
+
+00:20:14.400 --> 00:20:15.400
+ But I'm hopeful for it.
+
+00:20:15.400 --> 00:20:19.400
+ I hope that I like it enough that it's like, oh no, I want to keep using this thing.
+
+00:20:19.400 --> 00:20:20.400
+ So we'll see.
+
+00:20:20.400 --> 00:20:23.400
+ I'm going to give it a shot because I'm super intrigued by the simplicity of it.
+
+00:20:23.400 --> 00:20:25.400
+ And it's like the stuff from them that I like.
+
+00:20:25.400 --> 00:20:27.400
+ It could be a total lemon though.
+
+00:20:27.400 --> 00:20:32.400
+ When I saw the feature said, I want to like it, you know, but it's from Electron.
+
+00:20:32.400 --> 00:20:35.400
+ So I'm kind of like, I don't want to like it.
+
+00:20:35.400 --> 00:20:43.400
+ I know it's going to be, you know, expensive and probably limited, you know, in the ways
+
+00:20:43.400 --> 00:20:48.400
+ where I don't want it to be limited and then like overly complicated where I don't need
+
+00:20:48.400 --> 00:20:53.400
+ it to be like, that's just my electron experience with everything aside from the fucking machine
+
+00:20:53.400 --> 00:20:54.400
+ drum.
+
+00:20:54.400 --> 00:20:55.400
+ So I don't know.
+
+00:20:55.400 --> 00:20:59.400
+ It does look like there's nothing, nothing complicated about this.
+
+00:20:59.400 --> 00:21:00.400
+ Yeah.
+
+00:21:00.400 --> 00:21:01.400
+ The screens even been simplified.
+
+00:21:01.400 --> 00:21:04.400
+ Like there's like two arguments and some text.
+
+00:21:04.400 --> 00:21:08.400
+ And even the Digitech still has a learning curve to get into like the electron way of
+
+00:21:08.400 --> 00:21:14.400
+ doing things where this is a big step away from like the electron way of doing things.
+
+00:21:14.400 --> 00:21:15.400
+ Yeah.
+
+00:21:15.400 --> 00:21:19.400
+ It should be like, and I've seen people say like, oh, if you know an electron piece of gear,
+
+00:21:19.400 --> 00:21:22.400
+ you're going to be like a half hour in your good kind of thing.
+
+00:21:22.400 --> 00:21:23.400
+ We'll see.
+
+00:21:23.400 --> 00:21:24.400
+ Yeah.
+
+00:21:24.400 --> 00:21:27.400
+ I mean, I watched a couple of videos that did remind me a bit of like the machine drum
+
+00:21:27.400 --> 00:21:29.400
+ more so than the Digitech did.
+
+00:21:29.400 --> 00:21:36.000
+ So like I guess if this format is successful, we could probably see a future drum machine
+
+00:21:36.000 --> 00:21:37.000
+ coming.
+
+00:21:37.000 --> 00:21:38.000
+ I would hope.
+
+00:21:38.000 --> 00:21:39.000
+ Yeah.
+
+00:21:39.000 --> 00:21:43.600
+ Well, it might have been you who said the idea that this might just be the first of a new
+
+00:21:43.600 --> 00:21:44.600
+ model series.
+
+00:21:44.600 --> 00:21:45.600
+ Right.
+
+00:21:45.600 --> 00:21:46.600
+ I would think so.
+
+00:21:46.600 --> 00:21:47.600
+ If they're going to use the colon and everything.
+
+00:21:47.600 --> 00:21:48.600
+ Yeah.
+
+00:21:48.600 --> 00:21:53.600
+ It's weird unless you're going to make model FM next or something, which I mean, that is
+
+00:21:53.600 --> 00:21:55.600
+ the pattern, but they did just make it bigy tone.
+
+00:21:55.600 --> 00:21:56.600
+ Yeah.
+
+00:21:56.600 --> 00:21:57.600
+ Well, they just made the Digitech.
+
+00:21:57.600 --> 00:21:58.600
+ Yeah.
+
+00:21:58.600 --> 00:22:02.960
+ I think this is just like a more flat, laid out version of that, you know.
+
+00:22:02.960 --> 00:22:06.200
+ And that's what's pissing people off because there's still like digitech issues that are
+
+00:22:06.200 --> 00:22:10.000
+ being worked on over bridges been worked on for two and a half years now.
+
+00:22:10.000 --> 00:22:13.200
+ I've never four or five.
+
+00:22:13.200 --> 00:22:15.300
+ So people are like, oh, you're going to work on a new product?
+
+00:22:15.300 --> 00:22:20.240
+ It's, you know, the thing that kind of annoyed me right off the bat was I saw that they implemented
+
+00:22:20.240 --> 00:22:21.240
+ track multiplication.
+
+00:22:21.240 --> 00:22:22.400
+ Yes, they did.
+
+00:22:22.400 --> 00:22:24.200
+ And that's still not in the Digitech.
+
+00:22:24.200 --> 00:22:25.600
+ I'm like, are you kidding me?
+
+00:22:25.600 --> 00:22:28.200
+ And we the Octatrack and the model samples can do it.
+
+00:22:28.200 --> 00:22:29.200
+ Yeah.
+
+00:22:29.200 --> 00:22:30.800
+ They get, they're frustrating in that way.
+
+00:22:30.800 --> 00:22:35.720
+ Like, and it's, this one has velocity sensitive pads, but none of the, you know, they're always
+
+00:22:35.720 --> 00:22:39.200
+ like mixing features around and it's kind of frustrating.
+
+00:22:39.200 --> 00:22:40.600
+ It's like, haven't you learned?
+
+00:22:40.600 --> 00:22:43.120
+ Like, don't you just want to nail it?
+
+00:22:43.120 --> 00:22:46.520
+ Even the Digitech does a step back and now the model samples is like a step back from
+
+00:22:46.520 --> 00:22:47.520
+ that.
+
+00:22:47.520 --> 00:22:48.520
+ Yeah.
+
+00:22:48.520 --> 00:22:49.520
+ Yeah.
+
+00:22:49.520 --> 00:22:50.520
+ I don't know.
+
+00:22:50.520 --> 00:22:51.520
+ Strange.
+
+00:22:51.520 --> 00:22:52.520
+ Yeah.
+
+00:22:52.520 --> 00:22:53.520
+ You better programmers.
+
+00:22:53.520 --> 00:22:55.240
+ I mean, it doesn't seem like, you know, it's a programming issue because they solve it
+
+00:22:55.240 --> 00:22:59.760
+ on one machine, I refuse to believe that that can't, those algorithms, those ideas can't
+
+00:22:59.760 --> 00:23:01.880
+ be ported then to other things.
+
+00:23:01.880 --> 00:23:06.080
+ And I'm not going to be convinced that isn't anything other than a conscious decision not
+
+00:23:06.080 --> 00:23:08.960
+ to share this functionality across the things.
+
+00:23:08.960 --> 00:23:09.960
+ I'd have to agree.
+
+00:23:09.960 --> 00:23:10.960
+ Yeah.
+
+00:23:10.960 --> 00:23:11.960
+ I mean, they have the space in there, right?
+
+00:23:11.960 --> 00:23:13.920
+ Like they could have designed it in.
+
+00:23:13.920 --> 00:23:16.160
+ It's not impossible.
+
+00:23:16.160 --> 00:23:19.200
+ They made one of those as like a little mini mono machine.
+
+00:23:19.200 --> 00:23:24.560
+ I would probably jump on it more so that would be cool than any other, you know, machine.
+
+00:23:24.560 --> 00:23:25.560
+ Yeah, that's the next one.
+
+00:23:25.560 --> 00:23:26.560
+ That'd be sweet.
+
+00:23:26.560 --> 00:23:28.560
+ People have been asking for it forever.
+
+00:23:28.560 --> 00:23:29.560
+ Mm-hmm.
+
+00:23:29.560 --> 00:23:30.560
+ I was tempted by the Digitone.
+
+00:23:30.560 --> 00:23:34.080
+ I was like, well, this could kind of be like a part of a mono machine.
+
+00:23:34.080 --> 00:23:36.440
+ But then I was like, I don't know.
+
+00:23:36.440 --> 00:23:37.840
+ See people loving that thing.
+
+00:23:37.840 --> 00:23:41.720
+ I've seen so much praise for that thing, almost so much that it's like, oh, I'm never
+
+00:23:41.720 --> 00:23:44.280
+ going to touch this thing because everybody's on that shit.
+
+00:23:44.280 --> 00:23:45.280
+ Yeah.
+
+00:23:45.280 --> 00:23:47.520
+ But not that there's sounds in that, of course.
+
+00:23:47.520 --> 00:23:51.280
+ You know, generally my experience with FM programming is like you're 90% garbage most of
+
+00:23:51.280 --> 00:23:54.200
+ the time and then you hit the 10% and you're like, oh, okay.
+
+00:23:54.200 --> 00:23:56.600
+ And then you're always on the cusp of calamity.
+
+00:23:56.600 --> 00:23:57.600
+ Yeah.
+
+00:23:57.600 --> 00:24:00.840
+ That's always, that's what's really exciting to me about FM and working with it.
+
+00:24:00.840 --> 00:24:06.160
+ I feel like maybe they've come up with something where those mistakes are either impossible
+
+00:24:06.160 --> 00:24:12.360
+ or less likely and a lot of people are gravitating towards it because it may have a lot or no
+
+00:24:12.360 --> 00:24:15.480
+ sort of like bad FM scenarios.
+
+00:24:15.480 --> 00:24:21.000
+ If it had more tracks and a more functional sequencer, I would grab a Digitone in a second
+
+00:24:21.000 --> 00:24:23.280
+ just as an FM drum machine, you know what I mean?
+
+00:24:23.280 --> 00:24:26.720
+ Like that was some of my favorite machines in machine drum was the FM.
+
+00:24:26.720 --> 00:24:27.720
+ Yeah.
+
+00:24:27.720 --> 00:24:28.720
+ No doubts.
+
+00:24:28.720 --> 00:24:30.720
+ And same with model machine.
+
+00:24:30.720 --> 00:24:36.200
+ And there really isn't a real good FM drum box out there right now or a groove box, I
+
+00:24:36.200 --> 00:24:37.200
+ should say.
+
+00:24:37.200 --> 00:24:38.200
+ You know what I mean?
+
+00:24:38.200 --> 00:24:39.200
+ There's DX 200.
+
+00:24:39.200 --> 00:24:40.200
+ Yeah.
+
+00:24:40.200 --> 00:24:42.200
+ And there's the Nord's.
+
+00:24:42.200 --> 00:24:48.880
+ So I feel like they could have nailed that niche market, you know, but I don't know.
+
+00:24:48.880 --> 00:24:50.120
+ It's just not there.
+
+00:24:50.120 --> 00:24:53.960
+ You know, maybe that's the next model would be model like FM drums or something.
+
+00:24:53.960 --> 00:24:54.960
+ I can see that.
+
+00:24:54.960 --> 00:24:56.640
+ I'd be into it maybe.
+
+00:24:56.640 --> 00:24:57.640
+ Yeah, maybe.
+
+00:24:57.640 --> 00:24:59.000
+ And more so than the sample.
+
+00:24:59.000 --> 00:25:03.520
+ I just feel like there's so much competition right now for little sampling devices and even
+
+00:25:03.520 --> 00:25:09.800
+ big sampling devices where I don't really see what need this thing is feeling exactly.
+
+00:25:09.800 --> 00:25:11.560
+ But I don't know.
+
+00:25:11.560 --> 00:25:17.840
+ So some a lot of people planning on muffin also in gear slits about the model samples
+
+00:25:17.840 --> 00:25:20.400
+ not being able to actually sample.
+
+00:25:20.400 --> 00:25:23.560
+ You actually can't record into it at all, which is kind of strange.
+
+00:25:23.560 --> 00:25:24.920
+ But I'm going to put it out there.
+
+00:25:24.920 --> 00:25:26.840
+ I don't think that would be a deal breaker for me.
+
+00:25:26.840 --> 00:25:30.680
+ I honestly don't sample into my digit tech all that often.
+
+00:25:30.680 --> 00:25:36.280
+ What I do is I record a lot of stuff into like into a DAW and then chop that up and
+
+00:25:36.280 --> 00:25:37.720
+ then just load it on the digit.
+
+00:25:37.720 --> 00:25:38.720
+ Sure.
+
+00:25:38.720 --> 00:25:40.120
+ The actual real time sampling.
+
+00:25:40.120 --> 00:25:43.040
+ I've done it, but it's a lot easier to do.
+
+00:25:43.040 --> 00:25:47.080
+ Yeah, it's so much easier doing a DAW and just boom, just throw it on there.
+
+00:25:47.080 --> 00:25:51.840
+ And if that helped them cut some cost in hardware, I don't think that's a big deal.
+
+00:25:51.840 --> 00:25:53.560
+ I'm going to put that out there.
+
+00:25:53.560 --> 00:25:59.160
+ People are probably a little bit more okay with loading samples on than recording.
+
+00:25:59.160 --> 00:26:01.480
+ That's my speculation based on my own preference.
+
+00:26:01.480 --> 00:26:04.880
+ But I see where you're going with that correct.
+
+00:26:04.880 --> 00:26:05.880
+ Yep.
+
+00:26:05.880 --> 00:26:06.880
+ I have respectfully disagree.
+
+00:26:06.880 --> 00:26:09.200
+ I just wanted another reason to complain.
+
+00:26:09.200 --> 00:26:35.360
+ So you didn't see the Schwaeman quad attenuator.
+
+00:26:35.360 --> 00:26:37.440
+ That was on reverb, right?
+
+00:26:37.440 --> 00:26:38.440
+ The Schwaeman.
+
+00:26:38.440 --> 00:26:39.440
+ From Schwaeman.
+
+00:26:39.440 --> 00:26:43.360
+ Active attenuators with bias switches for $2,500.
+
+00:26:43.360 --> 00:26:44.360
+ Oh, shit.
+
+00:26:44.360 --> 00:26:46.920
+ Like rare labels like rare.
+
+00:26:46.920 --> 00:26:47.920
+ You're never going to.
+
+00:26:47.920 --> 00:26:48.920
+ This is the same dude who like.
+
+00:26:48.920 --> 00:26:49.920
+ It's a fucking attenuator.
+
+00:26:49.920 --> 00:26:50.920
+ Yeah.
+
+00:26:50.920 --> 00:26:55.840
+ If I would have kept the VCO2RM that goes for like $1,500.
+
+00:26:55.840 --> 00:26:59.760
+ If I had to kept my MF2 dude, yeah.
+
+00:26:59.760 --> 00:27:02.000
+ I saw that's going for like over $2,000.
+
+00:27:02.000 --> 00:27:04.880
+ I was like, wow, wow, wow, wow.
+
+00:27:04.880 --> 00:27:05.880
+ I forgot you had.
+
+00:27:05.880 --> 00:27:07.280
+ For a brief time, yeah.
+
+00:27:07.280 --> 00:27:10.200
+ I liked it, but then I decided like I like the MF6 better.
+
+00:27:10.200 --> 00:27:11.760
+ So I like downgraded.
+
+00:27:11.760 --> 00:27:12.840
+ It was smaller achiever.
+
+00:27:12.840 --> 00:27:15.880
+ It just wasn't stereo, but it did the job and had great sound.
+
+00:27:15.880 --> 00:27:18.200
+ But that new filter they showed off.
+
+00:27:18.200 --> 00:27:19.680
+ Actually, is it even a filter?
+
+00:27:19.680 --> 00:27:21.880
+ It's just like a saturation.
+
+00:27:21.880 --> 00:27:24.640
+ Oh, they have the new like mini synth.
+
+00:27:24.640 --> 00:27:25.840
+ No, no, no, no, no, voice.
+
+00:27:25.840 --> 00:27:27.000
+ This is something new.
+
+00:27:27.000 --> 00:27:28.000
+ It was announced around NAMM.
+
+00:27:28.000 --> 00:27:31.400
+ I don't know if it was announced at NAMM, but it's like a--
+
+00:27:31.400 --> 00:27:33.080
+ Shit, I wish I could pull it up.
+
+00:27:33.080 --> 00:27:34.560
+ I don't even know what to search for.
+
+00:27:34.560 --> 00:27:38.240
+ But essentially like a multi saturation circuit
+
+00:27:38.240 --> 00:27:41.720
+ that's based off of the saturations from MF6 module
+
+00:27:41.720 --> 00:27:42.240
+ and stuff.
+
+00:27:42.240 --> 00:27:42.720
+ Oh, shit.
+
+00:27:42.720 --> 00:27:44.720
+ Yeah, it's--
+
+00:27:44.720 --> 00:27:46.280
+ They have create-- they have like an amp slash.
+
+00:27:46.280 --> 00:27:48.240
+ It's a quad multi-brand compressor and shit.
+
+00:27:48.240 --> 00:27:49.840
+ I think this is a quad as well.
+
+00:27:49.840 --> 00:27:51.480
+ It's like a quad saturation thing.
+
+00:27:51.480 --> 00:27:54.720
+ It's like-- Oh, it might be the big ass filter.
+
+00:27:54.720 --> 00:27:56.600
+ Like it's like four--
+
+00:27:56.600 --> 00:27:58.280
+ Yeah, it's like four M and F6 is based.
+
+00:27:58.280 --> 00:27:59.120
+ Yeah, yeah, yeah.
+
+00:27:59.120 --> 00:27:59.920
+ It's what I'm--
+
+00:27:59.920 --> 00:28:00.760
+ Law on.
+
+00:28:00.760 --> 00:28:01.400
+ Oh, OK.
+
+00:28:01.400 --> 00:28:02.240
+ All the time.
+
+00:28:02.240 --> 00:28:04.440
+ Like Surgeon's Lab said we had that thing in there.
+
+00:28:04.440 --> 00:28:06.520
+ He's like, yeah, I filter everything with this.
+
+00:28:06.520 --> 00:28:08.440
+ I would love that.
+
+00:28:08.440 --> 00:28:10.080
+ It's like unobtainium.
+
+00:28:10.080 --> 00:28:11.080
+ Yeah.
+
+00:28:11.080 --> 00:28:12.640
+ But this was like a newer version of it.
+
+00:28:12.640 --> 00:28:14.680
+ Like it's-- I think something that's like coming out.
+
+00:28:14.680 --> 00:28:16.120
+ Yeah, they've got a bunch of new stuff.
+
+00:28:16.120 --> 00:28:18.760
+ Like new Bastrum, BLD.
+
+00:28:18.760 --> 00:28:20.120
+ They've got a second version of that.
+
+00:28:20.120 --> 00:28:20.960
+ Saw that too, yeah.
+
+00:28:20.960 --> 00:28:22.320
+ It's coming out.
+
+00:28:22.320 --> 00:28:23.040
+ A few other things.
+
+00:28:23.040 --> 00:28:25.120
+ They've been busy for sure.
+
+00:28:25.120 --> 00:28:26.600
+ But it's just really hard to get it.
+
+00:28:26.600 --> 00:28:27.640
+ Because they make it all by hand.
+
+00:28:27.640 --> 00:28:31.240
+ They're like, we have no interest in doing like mass scale
+
+00:28:31.240 --> 00:28:32.240
+ version.
+
+00:28:32.240 --> 00:28:36.040
+ Any time I see anything, Swamin, now I just glance at it.
+
+00:28:36.040 --> 00:28:38.200
+ You know, I don't want the temptation.
+
+00:28:38.200 --> 00:28:40.000
+ You know, I'm just like, oh, yeah.
+
+00:28:40.000 --> 00:28:42.880
+ I'll just scan the features and be like, yep, I could use that.
+
+00:28:42.880 --> 00:28:44.480
+ But yeah.
+
+00:28:44.480 --> 00:28:46.800
+ I ain't going to look at it any further.
+
+00:28:46.800 --> 00:28:50.720
+ So it's slightly off talk, but not quite, I guess.
+
+00:28:50.720 --> 00:28:52.320
+ Autaker.
+
+00:28:52.320 --> 00:28:52.920
+ Yeah.
+
+00:28:52.920 --> 00:28:54.760
+ Releasing those live sets.
+
+00:28:54.760 --> 00:28:55.280
+ Oh, fuck.
+
+00:28:55.280 --> 00:28:56.120
+ A slew of them.
+
+00:28:56.120 --> 00:29:00.840
+ Like 19 different live sets on their website.
+
+00:29:00.840 --> 00:29:02.280
+ And truly different.
+
+00:29:02.280 --> 00:29:05.760
+ What they do, like there's a wide variety of stuff.
+
+00:29:05.760 --> 00:29:09.040
+ I've gotten through four of the tracks so far.
+
+00:29:09.040 --> 00:29:09.840
+ Yeah.
+
+00:29:09.840 --> 00:29:10.200
+ Yeah.
+
+00:29:10.200 --> 00:29:14.240
+ Every track has like enough variation warrant, like listening to,
+
+00:29:14.240 --> 00:29:17.960
+ I guess it's not like 19 different, you know, versions
+
+00:29:17.960 --> 00:29:19.640
+ of the same set, basically.
+
+00:29:19.640 --> 00:29:20.400
+ Yeah.
+
+00:29:20.400 --> 00:29:22.840
+ My favorite so far is the Miami set.
+
+00:29:22.840 --> 00:29:26.840
+ I feel like that was a really rock solid set from start to finish.
+
+00:29:26.840 --> 00:29:29.400
+ I don't have a lot of comment, mostly because I think everything
+
+00:29:29.400 --> 00:29:30.440
+ they do is amazing.
+
+00:29:30.440 --> 00:29:32.280
+ So there's zero surprise.
+
+00:29:32.280 --> 00:29:35.080
+ It met my expectations and it's amazing.
+
+00:29:35.080 --> 00:29:35.520
+ Yeah.
+
+00:29:35.520 --> 00:29:37.880
+ I'm not like a huge fanboy of them.
+
+00:29:37.880 --> 00:29:40.960
+ Like some of their stuff I absolutely love and I have since, you know,
+
+00:29:40.960 --> 00:29:45.440
+ the 90s and then there's other stuff which is completely like passable for me.
+
+00:29:45.440 --> 00:29:45.800
+ Yeah.
+
+00:29:45.800 --> 00:29:47.240
+ Like over the years, you know what I mean?
+
+00:29:47.240 --> 00:29:48.320
+ Like, I don't know.
+
+00:29:48.320 --> 00:29:51.840
+ Like what, like what would be an example of something that didn't hit you?
+
+00:29:51.840 --> 00:29:55.720
+ Honestly, the stuff that is more structured, I like less.
+
+00:29:55.720 --> 00:29:58.880
+ I like it when they get really experimental sounding, you know,
+
+00:29:58.880 --> 00:30:03.400
+ when you get abstract, the stuff that sounds, and I know it's not truly
+
+00:30:03.400 --> 00:30:05.640
+ generative because I've read, you know, the interviews and all that.
+
+00:30:05.640 --> 00:30:10.720
+ But the stuff that has that generative feel to it is always more interesting to me.
+
+00:30:10.720 --> 00:30:11.640
+ Like, you know what I mean?
+
+00:30:11.640 --> 00:30:14.160
+ Like I get in a certain mode and I want to hear that type of stuff.
+
+00:30:14.160 --> 00:30:19.480
+ The stuff that is more like beat oriented.
+
+00:30:19.480 --> 00:30:20.600
+ I'm just, I don't know.
+
+00:30:20.600 --> 00:30:24.480
+ I feel like it's kind of boring because there's not enough elements to it.
+
+00:30:24.480 --> 00:30:25.120
+ You know what I mean?
+
+00:30:25.120 --> 00:30:25.680
+ Yeah.
+
+00:30:25.680 --> 00:30:26.600
+ Does that make any sense?
+
+00:30:26.600 --> 00:30:26.800
+ Yeah.
+
+00:30:26.800 --> 00:30:27.720
+ It's hard to explain.
+
+00:30:27.720 --> 00:30:28.560
+ I understand.
+
+00:30:28.560 --> 00:30:29.480
+ Yeah.
+
+00:30:29.480 --> 00:30:32.360
+ But yeah, that's my take on it.
+
+00:30:32.360 --> 00:30:38.760
+ And I feel like these live sets are some of, it's like a condensed version of the stuff
+
+00:30:38.760 --> 00:30:40.120
+ that I do really enjoy from them.
+
+00:30:40.120 --> 00:30:40.600
+ You know what I mean?
+
+00:30:40.600 --> 00:30:42.640
+ Like it's just a solid set from start to finish.
+
+00:30:42.640 --> 00:30:47.800
+ I feel like it translates better to my ears more so than some of the albums.
+
+00:30:47.800 --> 00:30:48.760
+ You know what I mean?
+
+00:30:48.760 --> 00:30:50.800
+ Like it's just, it's top notch.
+
+00:30:50.800 --> 00:30:51.640
+ In my opinion.
+
+00:30:51.640 --> 00:30:56.280
+ The live sets I've seen from them and heard like it forces them to be a certain type of
+
+00:30:56.280 --> 00:30:58.600
+ way that I think works well for what I want to hear.
+
+00:30:58.600 --> 00:30:58.960
+ Yeah.
+
+00:30:58.960 --> 00:31:04.040
+ Because some of the stuff like my complaints are generally like, oh, I feel just nothing
+
+00:31:04.040 --> 00:31:05.400
+ from this, nothing at all.
+
+00:31:05.400 --> 00:31:05.880
+ Oh man.
+
+00:31:05.880 --> 00:31:07.720
+ It's like, I hear what you're doing.
+
+00:31:07.720 --> 00:31:09.400
+ I have no idea why I'd listened to this again.
+
+00:31:09.400 --> 00:31:12.080
+ After I listened to it, I can't even like remember anything.
+
+00:31:12.080 --> 00:31:14.600
+ And some of the stuff, it's like, oh no, that'll stick with me.
+
+00:31:14.600 --> 00:31:17.680
+ I can even remember certain parts of the live sets where it's like, fuck.
+
+00:31:17.680 --> 00:31:18.760
+ That was it.
+
+00:31:18.760 --> 00:31:24.360
+ So that's my, like sometimes I just feel like I am not feeling a thing from it.
+
+00:31:24.360 --> 00:31:26.560
+ And it's not like, I'm sure that they are.
+
+00:31:26.560 --> 00:31:28.760
+ It's just me reacting to it.
+
+00:31:28.760 --> 00:31:29.280
+ Oh.
+
+00:31:29.280 --> 00:31:30.960
+ I feel you.
+
+00:31:30.960 --> 00:31:32.640
+ And you've seen them live in person, right?
+
+00:31:32.640 --> 00:31:33.640
+ Yeah, twice.
+
+00:31:33.640 --> 00:31:33.880
+ Nice.
+
+00:31:33.880 --> 00:31:36.440
+ First on the electron tour, which was great.
+
+00:31:36.440 --> 00:31:42.960
+ And then in DC, when they were right after two albums ago, when they were like Max MSP
+
+00:31:42.960 --> 00:31:46.760
+ live set and that was the total head fuck.
+
+00:31:46.760 --> 00:31:51.320
+ Especially because they do like mandate, like turn off all the lights and it's like,
+
+00:31:51.320 --> 00:31:56.840
+ it was super disoriented in this beautiful way because the time was just being dissolved
+
+00:31:56.840 --> 00:31:57.840
+ pretty well.
+
+00:31:57.840 --> 00:31:59.640
+ I just wanted to mention that.
+
+00:31:59.640 --> 00:32:01.400
+ No, no, I'm not.
+
+00:32:01.400 --> 00:32:02.400
+ I got to dig into those.
+
+00:32:02.400 --> 00:32:03.880
+ I haven't really had this either.
+
+00:32:03.880 --> 00:32:05.680
+ Just some cursory scans.
+
+00:32:05.680 --> 00:32:07.400
+ NAMM 2019.
+
+00:32:07.400 --> 00:32:08.400
+ Yes.
+
+00:32:08.400 --> 00:32:15.240
+ I mean, notes are good, but I think one thing stands out above everything else that we don't
+
+00:32:15.240 --> 00:32:16.440
+ need notes for.
+
+00:32:16.440 --> 00:32:18.880
+ It's just, it's in our heads, right?
+
+00:32:18.880 --> 00:32:20.080
+ Everyone's excited about it.
+
+00:32:20.080 --> 00:32:21.080
+ It's really good.
+
+00:32:21.080 --> 00:32:22.080
+ It's really good.
+
+00:32:22.080 --> 00:32:23.080
+ It's really good.
+
+00:32:23.080 --> 00:32:24.080
+ I don't even know any of the differences.
+
+00:32:24.080 --> 00:32:25.080
+ It's open to years of anticipation and hype.
+
+00:32:25.080 --> 00:32:27.080
+ It's more than 30, isn't it?
+
+00:32:27.080 --> 00:32:28.080
+ Probably.
+
+00:32:28.080 --> 00:32:29.080
+ It's probably like, I think Middie's as old as me.
+
+00:32:29.080 --> 00:32:38.080
+ I was going to say it's probably getting close to my age.
+
+00:32:38.080 --> 00:32:41.040
+ Yeah, I did take a couple notes of the differences.
+
+00:32:41.040 --> 00:32:46.600
+ It was really hard to decipher the differences of reading like the press release.
+
+00:32:46.600 --> 00:32:49.320
+ I just love the idea of the press release.
+
+00:32:49.320 --> 00:32:50.320
+ It was ridiculous.
+
+00:32:50.320 --> 00:32:52.320
+ But getting through that without cracking up.
+
+00:32:52.320 --> 00:32:53.320
+ Oh, man.
+
+00:32:53.320 --> 00:32:57.760
+ I saw footage of like some of the people like chatting about it in a conference and like
+
+00:32:57.760 --> 00:32:59.600
+ people were just losing their shit about it.
+
+00:32:59.600 --> 00:33:04.320
+ Like, he's like engineered dudes sitting in front like, you know, mouths open wide.
+
+00:33:04.320 --> 00:33:07.400
+ Like, wow, you know, like crying like they're watching the Beatles.
+
+00:33:07.400 --> 00:33:08.400
+ Yeah.
+
+00:33:08.400 --> 00:33:12.760
+ Some people are really excited about this, but I kind of want to talk to someone who's
+
+00:33:12.760 --> 00:33:15.400
+ excited about this.
+
+00:33:15.400 --> 00:33:16.760
+ A couple of things worth mentioning.
+
+00:33:16.760 --> 00:33:19.880
+ It's fully backward compatible.
+
+00:33:19.880 --> 00:33:27.400
+ It's 32 bit with 16 bit velocity compared to Middie 1.0, which was 7 bit with some stuff
+
+00:33:27.400 --> 00:33:28.400
+ that was 14 bit.
+
+00:33:28.400 --> 00:33:31.680
+ Yeah, the mod model or something.
+
+00:33:31.680 --> 00:33:33.440
+ And 16 groups of 16 channels.
+
+00:33:33.440 --> 00:33:39.640
+ I hope it's parallel processing and not like everything serial and current MIDI is not
+
+00:33:39.640 --> 00:33:40.640
+ a great choice.
+
+00:33:40.640 --> 00:33:41.640
+ Yeah.
+
+00:33:41.640 --> 00:33:42.640
+ Not sure.
+
+00:33:42.640 --> 00:33:46.120
+ I didn't really have my head around MPE until just recently.
+
+00:33:46.120 --> 00:33:50.480
+ You know, the MPE, multi polyphonic expression or whatever.
+
+00:33:50.480 --> 00:33:52.560
+ So you know the micro freak.
+
+00:33:52.560 --> 00:33:53.560
+ Yeah.
+
+00:33:53.560 --> 00:33:54.560
+ Yeah.
+
+00:33:54.560 --> 00:33:55.560
+ Yeah.
+
+00:33:55.560 --> 00:33:56.560
+ The controller like this.
+
+00:33:56.560 --> 00:33:58.280
+ And that and you know, the rolly, see shit, whatever it is.
+
+00:33:58.280 --> 00:34:02.720
+ This stuff that looks like a fucking Geiger like keyboard that's all black latex or whatever.
+
+00:34:02.720 --> 00:34:03.720
+ Yeah.
+
+00:34:03.720 --> 00:34:04.720
+ Yeah.
+
+00:34:04.720 --> 00:34:06.720
+ So apparently you get like a control message for each note.
+
+00:34:06.720 --> 00:34:11.760
+ So it means that the synthesizer can react to a CC or control message for every single
+
+00:34:11.760 --> 00:34:12.760
+ note you play.
+
+00:34:12.760 --> 00:34:14.920
+ I don't know what I would do with that.
+
+00:34:14.920 --> 00:34:19.000
+ But I can see like, oh cool, you get like expression or like you can change each notes
+
+00:34:19.000 --> 00:34:20.000
+ like LFO.
+
+00:34:20.000 --> 00:34:21.000
+ Okay.
+
+00:34:21.000 --> 00:34:25.000
+ But I don't like I still haven't seen that.
+
+00:34:25.000 --> 00:34:27.200
+ That's going to do something.
+
+00:34:27.200 --> 00:34:28.200
+ Yeah.
+
+00:34:28.200 --> 00:34:31.480
+ Well, there's been like alternatives to Middie all over the place.
+
+00:34:31.480 --> 00:34:32.720
+ I mean, it's been like a work.
+
+00:34:32.720 --> 00:34:33.720
+ Yeah.
+
+00:34:33.720 --> 00:34:34.720
+ Oh, it's he was the one I was thinking of.
+
+00:34:34.720 --> 00:34:39.240
+ Um, and then there was other ones that are just like no matter how much they add to it.
+
+00:34:39.240 --> 00:34:44.160
+ In fact, it's so much fucking gear is MIDI compatible and is waiting for many signals.
+
+00:34:44.160 --> 00:34:47.800
+ Everyone's still going to be confined to MIDI because so much shit has it.
+
+00:34:47.800 --> 00:34:50.640
+ This seems like a huge fucking waste of time.
+
+00:34:50.640 --> 00:34:53.160
+ That is literally polishing a chart because we've been working.
+
+00:34:53.160 --> 00:34:56.160
+ We've been working around this shit for 30 years already.
+
+00:34:56.160 --> 00:35:00.440
+ Like this thing has two MIDI outs just because like, yeah, and it solves the problem.
+
+00:35:00.440 --> 00:35:03.680
+ All my sequence is have like multiple MIDI outs because it can handle that shit.
+
+00:35:03.680 --> 00:35:05.000
+ I think a lot of it too.
+
+00:35:05.000 --> 00:35:08.440
+ It isn't just within gear, but within like computers, you know what I mean?
+
+00:35:08.440 --> 00:35:09.800
+ Like a lot of video show.
+
+00:35:09.800 --> 00:35:13.800
+ OS's are considering MIDI like completely obsolete at this point and won't include.
+
+00:35:13.800 --> 00:35:16.880
+ So it's like we need a modernized standard.
+
+00:35:16.880 --> 00:35:18.640
+ I guess that in that regard, yeah.
+
+00:35:18.640 --> 00:35:21.280
+ Something that's not shit that can still handle your gear.
+
+00:35:21.280 --> 00:35:22.280
+ Sure.
+
+00:35:22.280 --> 00:35:23.680
+ The future doesn't leave it behind.
+
+00:35:23.680 --> 00:35:24.960
+ I don't know.
+
+00:35:24.960 --> 00:35:26.720
+ I'm refusing to take this seriously.
+
+00:35:26.720 --> 00:35:30.400
+ Like USB MIDI is like the shittiest thing in the fucking world.
+
+00:35:30.400 --> 00:35:31.400
+ It's pretty bad.
+
+00:35:31.400 --> 00:35:32.400
+ Yeah.
+
+00:35:32.400 --> 00:35:34.480
+ It's a bad stack speckled up of another shittier speck.
+
+00:35:34.480 --> 00:35:35.480
+ Yeah.
+
+00:35:35.480 --> 00:35:36.480
+ They're all different.
+
+00:35:36.480 --> 00:35:41.640
+ And the, um, as far as like gear that has both, invariably, that's what fucks up.
+
+00:35:41.640 --> 00:35:42.640
+ Yeah.
+
+00:35:42.640 --> 00:35:43.640
+ I never use it.
+
+00:35:43.640 --> 00:35:44.640
+ I never use it.
+
+00:35:44.640 --> 00:35:45.640
+ I know.
+
+00:35:45.640 --> 00:35:49.840
+ I'm updating my erica drum sequencer a couple of weeks ago via MIDI was a lot of fun.
+
+00:35:49.840 --> 00:35:50.840
+ Oh, yeah.
+
+00:35:50.840 --> 00:35:52.680
+ A lot of fun.
+
+00:35:52.680 --> 00:35:54.480
+ It's like, wait over MIDI.
+
+00:35:54.480 --> 00:35:55.480
+ Yeah.
+
+00:35:55.480 --> 00:35:59.120
+ And you have to turn the buffer right way the hell down in the software.
+
+00:35:59.120 --> 00:36:01.280
+ So how long did it take?
+
+00:36:01.280 --> 00:36:05.200
+ It took a shit, I don't even know, like 30 minutes and it failed.
+
+00:36:05.200 --> 00:36:06.640
+ So I had to do it again.
+
+00:36:06.640 --> 00:36:11.520
+ And then it, then it took and it bricked it because apparently if one thing goes wrong,
+
+00:36:11.520 --> 00:36:13.440
+ it just shits itself.
+
+00:36:13.440 --> 00:36:15.880
+ Like there was a lot of people reporting the same problem on the forum.
+
+00:36:15.880 --> 00:36:19.320
+ So I'm glad to know I wasn't alone because I thought I did something wrong or something.
+
+00:36:19.320 --> 00:36:21.440
+ But no, it's just, it's flaky.
+
+00:36:21.440 --> 00:36:24.920
+ And if, if it takes the update, you have to wait, you can't like stop it in the middle
+
+00:36:24.920 --> 00:36:25.920
+ of it.
+
+00:36:25.920 --> 00:36:26.920
+ You have to wait for it.
+
+00:36:26.920 --> 00:36:27.920
+ Yeah.
+
+00:36:27.920 --> 00:36:31.240
+ And then you can't do anything with the sequence or other than tell it to update again.
+
+00:36:31.240 --> 00:36:32.240
+ Like that's it.
+
+00:36:32.240 --> 00:36:36.680
+ You just got to hit the key combo and it'll go back into like waiting for SisX dump mode
+
+00:36:36.680 --> 00:36:40.480
+ and you try again and you wait 30 minutes and hope that it works.
+
+00:36:40.480 --> 00:36:44.360
+ So yeah, it took me about two hours from start to finish to get the damn thing updated.
+
+00:36:44.360 --> 00:36:47.000
+ But I didn't know that going into it here.
+
+00:36:47.000 --> 00:36:50.160
+ I thought there was a USB port like in the back of the module or something.
+
+00:36:50.160 --> 00:36:51.960
+ I was like, surely I'll just plug this in.
+
+00:36:51.960 --> 00:36:52.960
+ Yeah.
+
+00:36:52.960 --> 00:36:53.960
+ Nope.
+
+00:36:53.960 --> 00:36:56.360
+ I got to use the MIDI all the way.
+
+00:36:56.360 --> 00:36:57.360
+ It's like, okay.
+
+00:36:57.360 --> 00:37:01.600
+ It's another beautiful thing about the 301 is that just put a zip file on the fucking SD
+
+00:37:01.600 --> 00:37:02.600
+ card.
+
+00:37:02.600 --> 00:37:03.600
+ You don't even need to expand it.
+
+00:37:03.600 --> 00:37:04.840
+ It's going to deal with the zip file.
+
+00:37:04.840 --> 00:37:05.840
+ Yeah.
+
+00:37:05.840 --> 00:37:09.520
+ It'll like let you choose which version you can reboot it right there.
+
+00:37:09.520 --> 00:37:11.080
+ The sequence or one was the same deal.
+
+00:37:11.080 --> 00:37:13.280
+ Like, yeah, it was a SD card.
+
+00:37:13.280 --> 00:37:16.680
+ You just dropped the firmware into it, put the card back in the module, boot it up.
+
+00:37:16.680 --> 00:37:18.640
+ It would see it, load it, boom.
+
+00:37:18.640 --> 00:37:19.640
+ Like done.
+
+00:37:19.640 --> 00:37:23.280
+ Or you could put an entire MIDI stack on your device just to accept updates.
+
+00:37:23.280 --> 00:37:24.280
+ Yeah.
+
+00:37:24.280 --> 00:37:27.680
+ I'm all about that mutable audio update.
+
+00:37:27.680 --> 00:37:28.680
+ Yeah.
+
+00:37:28.680 --> 00:37:29.680
+ That's fucking sweet.
+
+00:37:29.680 --> 00:37:30.680
+ I like that.
+
+00:37:30.680 --> 00:37:32.680
+ It's some weird black magic that I don't understand.
+
+00:37:32.680 --> 00:37:33.680
+ I just like doing it.
+
+00:37:33.680 --> 00:37:37.680
+ And it always says, you know, make sure you don't listen to it on speakers because it'll
+
+00:37:37.680 --> 00:37:38.680
+ blow your shit out.
+
+00:37:38.680 --> 00:37:39.680
+ But of course I of course.
+
+00:37:39.680 --> 00:37:40.680
+ Of course.
+
+00:37:40.680 --> 00:37:44.600
+ I'm like, it's like listening to a modem, you know.
+
+00:37:44.600 --> 00:37:45.600
+ Yeah.
+
+00:37:45.600 --> 00:37:46.600
+ You just hear data.
+
+00:37:46.600 --> 00:37:47.600
+ It's like, wow.
+
+00:37:47.600 --> 00:37:51.440
+ And they didn't even take that long to dial it in because they're like, you know, it's
+
+00:37:51.440 --> 00:37:56.480
+ going to take you a minute to like get the right levels of the output to make sure that
+
+00:37:56.480 --> 00:37:57.480
+ it's reading it correctly.
+
+00:37:57.480 --> 00:37:59.520
+ Oh my God, it's going to be a nightmare.
+
+00:37:59.520 --> 00:38:00.960
+ Second try, third try.
+
+00:38:00.960 --> 00:38:02.920
+ It was super fucking easy.
+
+00:38:02.920 --> 00:38:05.160
+ Like everything should fucking move to this.
+
+00:38:05.160 --> 00:38:06.800
+ That reminds me of something.
+
+00:38:06.800 --> 00:38:07.960
+ I just popped back in my head.
+
+00:38:07.960 --> 00:38:09.720
+ Did you guys watch band or snatch?
+
+00:38:09.720 --> 00:38:10.720
+ No.
+
+00:38:10.720 --> 00:38:11.720
+ No, no, no.
+
+00:38:11.720 --> 00:38:12.720
+ All right.
+
+00:38:12.720 --> 00:38:13.720
+ And I can't talk about it.
+
+00:38:13.720 --> 00:38:15.720
+ Also, our listeners might have not watched it yet either.
+
+00:38:15.720 --> 00:38:20.120
+ Well, this isn't like a spoiler.
+
+00:38:20.120 --> 00:38:21.400
+ But the ending is.
+
+00:38:21.400 --> 00:38:25.640
+ But it does happen at the end of one of the sounds like a spoiler.
+
+00:38:25.640 --> 00:38:32.320
+ There's an audio sound that goes on for several seconds that is like an update sound.
+
+00:38:32.320 --> 00:38:37.560
+ And I think I don't know how you would record it or what it's supposed to be, but I think
+
+00:38:37.560 --> 00:38:41.520
+ it's a game that you can fucking like download through sound.
+
+00:38:41.520 --> 00:38:42.520
+ Oh, yeah.
+
+00:38:42.520 --> 00:38:46.160
+ Oh, because there was some and I never I haven't looked into it yet, but I was like, I heard
+
+00:38:46.160 --> 00:38:50.080
+ it like it was like at the end credits and I was like, Oh, I know that sound.
+
+00:38:50.080 --> 00:38:51.080
+ It was like, what the hell?
+
+00:38:51.080 --> 00:38:52.080
+ What is this?
+
+00:38:52.080 --> 00:38:54.560
+ You know, like I'm like to look into it and I haven't.
+
+00:38:54.560 --> 00:38:59.160
+ But because people have done that before, like the eight bit construction set, the B side
+
+00:38:59.160 --> 00:39:02.800
+ of that or the A side or that was a Commodore program encoded.
+
+00:39:02.800 --> 00:39:03.800
+ Okay.
+
+00:39:03.800 --> 00:39:06.840
+ And it's on the right track and assuming it's like a Commodore game then or something.
+
+00:39:06.840 --> 00:39:07.840
+ It could be.
+
+00:39:07.840 --> 00:39:08.840
+ Yeah.
+
+00:39:08.840 --> 00:39:11.920
+ Because that was because all they used audio tape as one of the drive formats.
+
+00:39:11.920 --> 00:39:12.920
+ That's pretty cool.
+
+00:39:12.920 --> 00:39:13.920
+ Yeah.
+
+00:39:13.920 --> 00:39:17.520
+ One of the endings apparently has some sort of Easter egg embedded in the audio and I just
+
+00:39:17.520 --> 00:39:20.840
+ haven't had a chance to look into it, but I got pretty excited when I heard it.
+
+00:39:20.840 --> 00:39:24.200
+ I mean, there's no chance that there's like a Reddit form about this.
+
+00:39:24.200 --> 00:39:25.200
+ No one's talking about it at all.
+
+00:39:25.200 --> 00:39:26.200
+ That's the thing.
+
+00:39:26.200 --> 00:39:27.200
+ I'm sure somebody has heard.
+
+00:39:27.200 --> 00:39:30.840
+ It's definitely been founded before me, but I just haven't had a chance to dig into
+
+00:39:30.840 --> 00:39:33.520
+ it, but I just thought that was nifty.
+
+00:39:33.520 --> 00:39:34.520
+ Oh, wait.
+
+00:39:34.520 --> 00:39:36.520
+ Do we want to talk more about Nam?
+
+00:39:36.520 --> 00:39:37.520
+ Yeah.
+
+00:39:37.520 --> 00:39:39.240
+ And you briefly mentioned the micro freak.
+
+00:39:39.240 --> 00:39:41.120
+ Do we want to tap into that?
+
+00:39:41.120 --> 00:39:45.080
+ I mean, do we want to do we want to go hard and I mean, I don't know if I'm going to
+
+00:39:45.080 --> 00:39:47.080
+ have super positive things to say.
+
+00:39:47.080 --> 00:39:48.560
+ Let's tackle it this way.
+
+00:39:48.560 --> 00:39:53.320
+ They were two synthesizers that both have mutable oscillator code in them that were
+
+00:39:53.320 --> 00:39:54.320
+ in Nam.
+
+00:39:54.320 --> 00:39:55.320
+ True.
+
+00:39:55.320 --> 00:39:59.240
+ Both relatively interesting and both approached that in very different ways, which is part
+
+00:39:59.240 --> 00:40:02.760
+ of the controversy with the micro freak because they said it was a collaboration and that
+
+00:40:02.760 --> 00:40:05.880
+ kind of pissed Olivier off.
+
+00:40:05.880 --> 00:40:06.880
+ Is their name still?
+
+00:40:06.880 --> 00:40:07.880
+ Emileena.
+
+00:40:07.880 --> 00:40:08.880
+ Emileena.
+
+00:40:08.880 --> 00:40:09.880
+ That's right.
+
+00:40:09.880 --> 00:40:10.880
+ Thank you.
+
+00:40:10.880 --> 00:40:11.880
+ That pissed Emily off.
+
+00:40:11.880 --> 00:40:14.560
+ Do you understand because that wasn't how it went down and they called them and apparently
+
+00:40:14.560 --> 00:40:18.440
+ apologized and now everything's cool.
+
+00:40:18.440 --> 00:40:19.640
+ But okay.
+
+00:40:19.640 --> 00:40:24.560
+ So if Emily had not made a stink about this or heard it brought it up or pushed back on
+
+00:40:24.560 --> 00:40:29.840
+ it, they were willing to go out there and basically lie or exaggerate.
+
+00:40:29.840 --> 00:40:35.960
+ And only after called out, did they rescind or make an apology or basically anything other
+
+00:40:35.960 --> 00:40:39.240
+ than continue with this claim.
+
+00:40:39.240 --> 00:40:40.400
+ That's a bad look.
+
+00:40:40.400 --> 00:40:45.080
+ It shouldn't have had to come to the point where Emily had to say you're lying.
+
+00:40:45.080 --> 00:40:46.760
+ This isn't what actually happened.
+
+00:40:46.760 --> 00:40:47.760
+ Yeah.
+
+00:40:47.760 --> 00:40:51.120
+ It's shady marketing that pisses everybody off right there.
+
+00:40:51.120 --> 00:40:52.120
+ Yes.
+
+00:40:52.120 --> 00:40:53.120
+ Like, oh, you went over the top.
+
+00:40:53.120 --> 00:40:54.120
+ Just been real about it.
+
+00:40:54.120 --> 00:40:57.080
+ Say like, will you some of the oscillator code from bots?
+
+00:40:57.080 --> 00:40:58.080
+ Fucking done deal.
+
+00:40:58.080 --> 00:40:59.080
+ Yeah.
+
+00:40:59.080 --> 00:41:00.920
+ She didn't even make a stink about it really.
+
+00:41:00.920 --> 00:41:02.760
+ Like, people were asking her, you know what I mean?
+
+00:41:02.760 --> 00:41:03.760
+ Like, publicly on.
+
+00:41:03.760 --> 00:41:04.760
+ Okay.
+
+00:41:04.760 --> 00:41:05.760
+ That's really strong then.
+
+00:41:05.760 --> 00:41:06.760
+ Yeah.
+
+00:41:06.760 --> 00:41:07.760
+ Yeah.
+
+00:41:07.760 --> 00:41:09.560
+ She just said they had like zero contact with me.
+
+00:41:09.560 --> 00:41:14.560
+ There she said like I had zero input on this device.
+
+00:41:14.560 --> 00:41:15.560
+ You know what I mean?
+
+00:41:15.560 --> 00:41:18.840
+ Like, so they didn't even reach out to her, you know, in any regard.
+
+00:41:18.840 --> 00:41:24.200
+ They just took her code and said they would have no collaboration.
+
+00:41:24.200 --> 00:41:25.200
+ Yeah.
+
+00:41:25.200 --> 00:41:26.200
+ Like, I'm sorry.
+
+00:41:26.200 --> 00:41:27.200
+ They called them a partner.
+
+00:41:27.200 --> 00:41:28.200
+ They said mutable.
+
+00:41:28.200 --> 00:41:29.200
+ Yeah.
+
+00:41:29.200 --> 00:41:30.200
+ Our partner mutable instruments.
+
+00:41:30.200 --> 00:41:31.200
+ Yeah.
+
+00:41:31.200 --> 00:41:34.400
+ Because they invited her there or something and they were like trying to pump her for info
+
+00:41:34.400 --> 00:41:37.960
+ and it was not a collaboration and it was more like, oh, we're going to do this thing.
+
+00:41:37.960 --> 00:41:39.960
+ And she was like, okay.
+
+00:41:39.960 --> 00:41:41.440
+ She's following the license.
+
+00:41:41.440 --> 00:41:42.920
+ As long as you follow the fucking license.
+
+00:41:42.920 --> 00:41:43.920
+ Right.
+
+00:41:43.920 --> 00:41:44.920
+ And then anybody can.
+
+00:41:44.920 --> 00:41:45.920
+ Cool.
+
+00:41:45.920 --> 00:41:48.560
+ But they were trying to, it seemed like they were trying to pump her for like, oh, so what's
+
+00:41:48.560 --> 00:41:49.560
+ your next shit?
+
+00:41:49.560 --> 00:41:50.560
+ Oh, dude.
+
+00:41:50.560 --> 00:41:51.560
+ Yeah.
+
+00:41:51.560 --> 00:41:53.760
+ Can we get more code for free?
+
+00:41:53.760 --> 00:41:54.760
+ Yeah.
+
+00:41:54.760 --> 00:41:55.760
+ Please.
+
+00:41:55.760 --> 00:41:56.760
+ Yeah.
+
+00:41:56.760 --> 00:42:01.000
+ There's more mutable models in this thing than there are anything else.
+
+00:42:01.000 --> 00:42:07.800
+ Like it's essentially a plait, plait, plait, plait, in a box, you know, with a controller.
+
+00:42:07.800 --> 00:42:16.160
+ Like it has currently 11 oscillator models, four of which are Artoria engines.
+
+00:42:16.160 --> 00:42:17.160
+ That's all it says.
+
+00:42:17.160 --> 00:42:19.160
+ And then seven modes.
+
+00:42:19.160 --> 00:42:20.160
+ For mutable.
+
+00:42:20.160 --> 00:42:24.000
+ It's like, so it's a little bit imbalanced.
+
+00:42:24.000 --> 00:42:25.600
+ You know what I mean?
+
+00:42:25.600 --> 00:42:26.600
+ Yeah.
+
+00:42:26.600 --> 00:42:29.920
+ Because that's what the Corg Mini Log XD, which also came out.
+
+00:42:29.920 --> 00:42:36.480
+ So the Corg prologue, which is their big polyphonic analog synth has like, you can update digital
+
+00:42:36.480 --> 00:42:39.080
+ oscillator models that you code yourself, whatever.
+
+00:42:39.080 --> 00:42:43.200
+ So they ported that same functionality over to the Mini Log XD and then the weekend, that
+
+00:42:43.200 --> 00:42:46.520
+ weekend, some guy like knocked out the braids code and like, oh, here you go.
+
+00:42:46.520 --> 00:42:48.360
+ Like you can upload it now.
+
+00:42:48.360 --> 00:42:49.360
+ And that's cool.
+
+00:42:49.360 --> 00:42:50.360
+ They didn't really pimp that.
+
+00:42:50.360 --> 00:42:53.640
+ They just have like an open source platform that you can update effects and oscillators.
+
+00:42:53.640 --> 00:42:57.600
+ And yes, you can update plats or other stuff in there.
+
+00:42:57.600 --> 00:43:01.000
+ So obviously they didn't try to promote it outside of just having their platform.
+
+00:43:01.000 --> 00:43:02.880
+ It's kind of a lot cooler.
+
+00:43:02.880 --> 00:43:03.880
+ Yeah.
+
+00:43:03.880 --> 00:43:04.880
+ Yeah.
+
+00:43:04.880 --> 00:43:05.880
+ Also, I want that.
+
+00:43:05.880 --> 00:43:07.800
+ It's like the monologue.
+
+00:43:07.800 --> 00:43:12.080
+ And while it's sweet, it has increased my loss for the Mini Log XD quite a bit.
+
+00:43:12.080 --> 00:43:15.880
+ But I'm just holding onto the monologue right now, which is still awesome.
+
+00:43:15.880 --> 00:43:17.640
+ And I really like it.
+
+00:43:17.640 --> 00:43:22.280
+ But that does seem like a better approach, a better way to handle the situation.
+
+00:43:22.280 --> 00:43:23.280
+ Right.
+
+00:43:23.280 --> 00:43:24.280
+ Yeah.
+
+00:43:24.280 --> 00:43:25.280
+ Yeah.
+
+00:43:25.280 --> 00:43:27.480
+ Arturia changed their wording on the website now.
+
+00:43:27.480 --> 00:43:32.720
+ It says, our friend, our friends at mutable instruments.
+
+00:43:32.720 --> 00:43:37.320
+ And the only place it mentions it is when it talks about the oscillator modes.
+
+00:43:37.320 --> 00:43:38.320
+ Hmm.
+
+00:43:38.320 --> 00:43:39.320
+ Okay.
+
+00:43:39.320 --> 00:43:44.520
+ It's a fucking shame is what it is because I really like this box.
+
+00:43:44.520 --> 00:43:45.520
+ You know what I mean?
+
+00:43:45.520 --> 00:43:48.080
+ Like, as soon as I saw it, I got hyped as hell.
+
+00:43:48.080 --> 00:43:53.160
+ And before like this controversy left a bad taste in my mouth, like it's an incredible
+
+00:43:53.160 --> 00:43:55.280
+ little machine, my opinion.
+
+00:43:55.280 --> 00:43:57.120
+ They just need to like get their shit together.
+
+00:43:57.120 --> 00:44:00.360
+ The engineering solid, I think the marketing just ruined it though.
+
+00:44:00.360 --> 00:44:01.360
+ Yeah.
+
+00:44:01.360 --> 00:44:02.360
+ But I see.
+
+00:44:02.360 --> 00:44:04.360
+ Someone's going to get one eventually.
+
+00:44:04.360 --> 00:44:08.680
+ It's going to be a lot of people buy it not knowing anything about that controversy.
+
+00:44:08.680 --> 00:44:09.680
+ You know what I mean?
+
+00:44:09.680 --> 00:44:12.760
+ There's a lot of people that probably will be buying this have no clue who mutable is.
+
+00:44:12.760 --> 00:44:13.760
+ Yeah.
+
+00:44:13.760 --> 00:44:14.760
+ You know what I mean?
+
+00:44:14.760 --> 00:44:16.560
+ But it's like 300 bucks or something.
+
+00:44:16.560 --> 00:44:17.560
+ It's $299.
+
+00:44:17.560 --> 00:44:18.560
+ That's ridiculous.
+
+00:44:18.560 --> 00:44:19.560
+ I wish I wanted that.
+
+00:44:19.560 --> 00:44:22.440
+ I wish I could put it for the controller and the sequencer alone.
+
+00:44:22.440 --> 00:44:23.440
+ Yeah.
+
+00:44:23.440 --> 00:44:24.440
+ You know?
+
+00:44:24.440 --> 00:44:30.240
+ Never mind the fact that you have like a whole, well, half of plates in there and some inspired
+
+00:44:30.240 --> 00:44:33.480
+ filter, multi mode filter, you know, a lot of filter.
+
+00:44:33.480 --> 00:44:34.480
+ Yeah.
+
+00:44:34.480 --> 00:44:37.040
+ Got the whole matrix mod, you got LFOs.
+
+00:44:37.040 --> 00:44:43.960
+ It's like, I don't know, part of the microbrew and the mini-brew that sucked was the crappy
+
+00:44:43.960 --> 00:44:46.240
+ keyboard and how they fixed that as well.
+
+00:44:46.240 --> 00:44:47.240
+ You know?
+
+00:44:47.240 --> 00:44:48.240
+ Yeah.
+
+00:44:48.240 --> 00:44:51.960
+ You got the sequencer, you got the ARP, you got the touch plate, velocity sensitive, you
+
+00:44:51.960 --> 00:44:54.120
+ know, controller.
+
+00:44:54.120 --> 00:44:56.320
+ It's got it all pretty much.
+
+00:44:56.320 --> 00:44:59.320
+ And you can just paint all those goofy fucking graphics.
+
+00:44:59.320 --> 00:45:00.320
+ I would tape right over there.
+
+00:45:00.320 --> 00:45:01.320
+ Yeah.
+
+00:45:01.320 --> 00:45:02.880
+ That's a big strip of electric tape.
+
+00:45:02.880 --> 00:45:03.880
+ Yeah.
+
+00:45:03.880 --> 00:45:04.880
+ Right over that crap.
+
+00:45:04.880 --> 00:45:07.000
+ I don't even know what it's supposed to be.
+
+00:45:07.000 --> 00:45:09.160
+ We were talking about that before we started recording.
+
+00:45:09.160 --> 00:45:10.800
+ It looks like vegetables.
+
+00:45:10.800 --> 00:45:17.120
+ And then like the random knob or the random button, I should say, is a hot pepper.
+
+00:45:17.120 --> 00:45:18.920
+ Oh my God.
+
+00:45:18.920 --> 00:45:19.920
+ Yeah.
+
+00:45:19.920 --> 00:45:25.000
+ It's got spice and dice on the sequencer for generative functionality and it's a pair
+
+00:45:25.000 --> 00:45:26.880
+ of dice and a hot pepper.
+
+00:45:26.880 --> 00:45:53.160
+ [Music]
+
