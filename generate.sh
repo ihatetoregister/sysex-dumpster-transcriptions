@@ -4,11 +4,11 @@ set -x
 #set -e
 set -o pipefail
 
-whisperPath=./whisper.cpp
+whisperPath=../whisper.cpp
 
 # Get urls for all episodes
 episodeUrls=$(curl -s -f -L 'https://www.sysexdumpster.com' | grep -Eo 'https?://\S+?.mp3')
-#episodeUrls="https://www.sysexdumpster.com/audio/Sysex-Dumpster-2023-03-03-Episode-41.mp3"
+#episodeUrls="https://www.sysexdumpster.com/audio/Sysex-Dumpster-2016-11-12-Episode-2-Blaerg.mp3"
 
 transFolder="transcriptions"
 
@@ -36,8 +36,8 @@ do
     # Convert to wav
     ffmpeg -f mp3 -i $fileNameMp3 -ar 16000 -ac 1 -c:a pcm_s16le $fileNameWav
 
-    # Transcribe
-    $whisperPath/main -m $whisperPath/models/ggml-base.en.bin -ovtt -f $fileNameWav
+    # Transcribe (redirect output to /dev/null to avoid messing up the terminal when it generates junk characters)
+    $whisperPath/main -m $whisperPath/models/ggml-base.en.bin -ovtt -f $fileNameWav > /dev/null
     mv $fileNameWavVtt $transFolder/$fileNameVtt
 
     # Cleanup
